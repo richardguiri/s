@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,group-title="Pachinko (2022)"
+#EXTINF:-1,Pachinko (2022)1X01
+acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
+#EXTINF:-1,Pachinko (2022)1X02 
+acestream://e43afc18d15e9de0096f8391f66d1906623f2c88
+#EXTINF:-1,Pachinko (2022)1X03 
+acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
+#EXTINF:-1,Pachinko1X04
+#EXTINF:-1,Pachinko1X05
+#EXTINF:-1,Pachinko1X06
+#EXTINF:-1,Pachinko1X07
+#EXTINF:-1,Pachinko1X08
 #EXTINF:-1,group-title= "Entrevías (2022)"
 #EXTINF:-1,Entrevías1X01 
 acestream://e59a7d0d6a8843337561fe8d68b9c07f00b363f6
