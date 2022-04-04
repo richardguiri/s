@@ -16,7 +16,7 @@ acestream://0ef12123649a2e76dd398d0735f79a59e20bdb26
 acestream://4ceb5fe8878eb93ada5d1f8d6c037b09acbce11c
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X08 
 acestream://bd94bf355468e219e615377260c0508a33343bd1
-#EXTINF:-1,group-title="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU""
+#EXTINF:-1,group-title="WeCrashed(2022)"
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X01 
 acestream://919c19d573609c8580946365a69de96dc2018b2f
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X02 
@@ -83,21 +83,22 @@ acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X06 
 acestream://
 #EXTINF:-1,group-title="Separación(2022)"
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X01 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X01 
 acestream://522a33a662d1b5389ccf709270b4f2670e006a98
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X02 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X02 
 acestream://6446e4e8841aaa07cdc5de4f3bfa525f33a6e5f0
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X03 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X03 
 acestream://792ebc4aab6aa74d9b5bd126ed4b39a9415fdff3
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X04 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X04 
 acestream://3b491234b97deb1dc0909d333c268fc69b8eac6f
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X05 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X05 
 acestream://e633fb478bd12ffb1f03ee2b68849a9e52fe6d4e
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X06 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X06 
 acestream://91693c7c0668f006606d314d4590c71c20286ad7
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X07 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X07 
 acestream://f50f22408ea2fa4be57508d36cc229635b827e47
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X08
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X08 
+acestream://f5b11ddc6533422ecfbb728457684eaea8223d3d
 #EXTINF:-1,group-title="800 metros(2022)"
 #EXTINF:-1,group-title="800 metros(2022)",800 1X01 
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
