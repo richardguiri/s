@@ -174,15 +174,15 @@ acestream://
 acestream://
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X08 
 acestream://
-#EXTINF:-1,group-title="DMZ(2022)"
-#EXTINF:-1,group-title="DMZ(2022)",DMZ 1X01 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)"
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X01 
 acestream://57d8a0149a269edd6857f2b83d752b4575155b13
-#EXTINF:-1,group-title="DMZ(2022)",DMZ 1X02 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X02 
 acestream://dfb9738efd82d1231a858d281de3c72ffda87e69
-#EXTINF:-1,group-title="DMZ(2022)",DMZ 1X03 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X03 
 acestream://0a8099b15493f62fa90d3630303f037d6594386d
-#EXTINF:-1,group-title="DMZ(2022)",DMZ 1X04 
-acestream://4e50f5bcf5396617235a8ba4828b5180a92ca4a4
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X04 
+acestream://4e50f5bcf5396617235a8ba4828b5180a92ca4a4 
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)"
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X01 
 acestream://f7329ec070a920bdff6833f04091c481dbf473eb
