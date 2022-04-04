@@ -1,104 +1,103 @@
 #EXTM3U
 #EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2" 
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X01 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X01 
 acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X02 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X02 
 acestream://792f38bc19547c6b6c39f7ffcae366db2b2c80e7
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X03 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X03 
 acestream://61bfcf25869b1ce08c380a0c86fb857d6831ccc5
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X04 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X04 
 acestream://2fe25943dc9e745ac82be3be12cce69fc7289622
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X05 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X05 
 acestream://f96143faf091fed0092203684cb18133c70db931
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X06 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X06 
 acestream://0ef12123649a2e76dd398d0735f79a59e20bdb26
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X07 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X07 
 acestream://4ceb5fe8878eb93ada5d1f8d6c037b09acbce11c
-#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X08 
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X08 
 acestream://bd94bf355468e219e615377260c0508a33343bd1
-#EXTINF:-1,group-title="WeCrashed(2022)"
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X01 
+#EXTINF:-1,group-title="tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU""
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X01 
 acestream://919c19d573609c8580946365a69de96dc2018b2f
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X02 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X02 
 acestream://ed58db7f3ac1d0e99718ee8c54dc9b524fdf861f
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X03 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X03 
 acestream://f822e344cc6b39a44af68507cfe5a6beeafa0db6
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X04 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X04 
 acestream://08e12c6c3c1d4f5efe7e995fa520e84f3a94d682
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X05 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X05 
 acestream://fae62037604861019c34b36598bb58713af332cc
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X06 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X06 
 acestream://
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X07 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X07 
 acestream://
-#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X08 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/WeCrashed_Serie_de_TV-478817459-mmed.jpg"group-title="WeCrashed(2022)",WeCrashed 1X08 
 acestream://
 #EXTINF:-1,group-title="Caballero Luna(2022)"
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X01 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X01 
 acestream://252b8131b515e6ef03b72e350259bff9c17aee2d
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X02 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X02 
 acestream://
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X03 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X03 
 acestream://
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X04 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X04 
 acestream://
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X05 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X05 
 acestream://
-#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X06 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Caballero_Luna_Serie_de_TV-515370530-mmed.jpg"group-title="Caballero Luna(2022)",Caballero 1X06 
 acestream://
 #EXTINF:-1,group-title="Slow Horses(2022)"
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X01 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X01 
 acestream://6a97154b85be51e0dd314469460a2fa8ff35f673
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X02 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X02 
 acestream://c1fa37ed2a0dfa9730a924e73b0ec87c4bb86536
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X03 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X03 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X04 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X04 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X05 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X05 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X06 
+#EXTINF:-1tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg",group-title="Slow Horses(2022)",Slow 1X06 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X07 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X07 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X08 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X08 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X09 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X09 
 acestream:// 
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X10 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X10 
 acestream://
-#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X11 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Slow_Horses_Serie_de_TV-782634780-mmed.jpg"group-title="Slow Horses(2022)",Slow 1X11 
 acestream://
 #EXTINF:-1,group-title="El deshielo(2022)" 
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X01 
 acestream://3917d62aa749c5bb9c401721ff5c69a7354d4bf9
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X02 
 acestream://5c93b893abb119b52e6b0cec3cc61fd91f1312f1
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X03 
 acestream://
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X04 
 acestream://
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X05 
 acestream://
-#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X06 
 acestream://
 #EXTINF:-1,group-title="Separación(2022)"
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X01 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X01 
 acestream://522a33a662d1b5389ccf709270b4f2670e006a98
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X02 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X02 
 acestream://6446e4e8841aaa07cdc5de4f3bfa525f33a6e5f0
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X03 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X03 
 acestream://792ebc4aab6aa74d9b5bd126ed4b39a9415fdff3
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X04 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X04 
 acestream://3b491234b97deb1dc0909d333c268fc69b8eac6f
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X05 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X05 
 acestream://e633fb478bd12ffb1f03ee2b68849a9e52fe6d4e
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X06 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X06 
 acestream://91693c7c0668f006606d314d4590c71c20286ad7
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X07 
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X07 
 acestream://f50f22408ea2fa4be57508d36cc229635b827e47
-#EXTINF:-1,group-title="Separación(2022)",Separación 1X08 
-acestream://f5b11ddc6533422ecfbb728457684eaea8223d3d
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Separaci_n_Serie_de_TV-619409144-mmed.jpg"group-title="Separación(2022)",Separación 1X08
 #EXTINF:-1,group-title="800 metros(2022)"
 #EXTINF:-1,group-title="800 metros(2022)",800 1X01 
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
