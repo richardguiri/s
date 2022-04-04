@@ -155,26 +155,26 @@ acestream://
 acestream://
 #EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X07 
 acestream://
-#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X08
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X08 
 acestream://
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)"
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X01 
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X02 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X02 
 acestream://e43afc18d15e9de0096f8391f66d1906623f2c88
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X03 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X03 
 acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X04 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X04 
 acestream://
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X05 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X05 
 acestream://
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X06 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X06 
 acestream://
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X07 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X07 
 acestream://
-#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X08 
+#EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos 1X08 
 acestream://
-#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)"
+#EXTINF:-1,group-title="DMZ(2022)"
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X01 
 acestream://57d8a0149a269edd6857f2b83d752b4575155b13
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X02 
@@ -182,15 +182,15 @@ acestream://dfb9738efd82d1231a858d281de3c72ffda87e69
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X03 
 acestream://0a8099b15493f62fa90d3630303f037d6594386d
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X04 
-acestream://4e50f5bcf5396617235a8ba4828b5180a92ca4a4 
+acestream://4e50f5bcf5396617235a8ba4828b5180a92ca4a4
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)"
-#EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X01 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/monstruos-de-cracovia-45234/src/monstruos-de-cracovia-45234-c.jpg"group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X01 
 acestream://f7329ec070a920bdff6833f04091c481dbf473eb
-#EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X02 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/monstruos-de-cracovia-45234/src/monstruos-de-cracovia-45234-c.jpg"group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X02 
 acestream://1584cf350155548854736094eeb1b03f4a0c1b8a
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X03 
 acestream://56eade43980d058ebdde00b1991d1bef8518c885
-#EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X04 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/monstruos-de-cracovia-45234/src/monstruos-de-cracovia-45234-c.jpg"group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X04 
 acestream://9520e1d8a67dbeee8b13a4b3199118b8eb3b3edb
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X05 
 acestream://52eb60b4a611b13527782b04ff594d6996583b02
@@ -201,7 +201,7 @@ acestream://09e86fcf9d0ab6ff90ea0dec854bdb00dbb2930c
 #EXTINF:-1,group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X08 
 acestream://d49bcb72addff16ba9e516c649b5a762758c397a
 #EXTINF:-1,group-title="La unidad(2020)T1"
-#EXTINF:-1,group-title="La unidad(2020)T1",La unidad 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X01 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
 #EXTINF:-1,group-title="La unidad(2020)T1",La unidad 1X02 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
@@ -214,7 +214,7 @@ acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
 #EXTINF:-1,group-title="La unidad(2020)T1",La unidad 1X06 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
 #EXTINF:-1,group-title="La unidad(2022)T2"
-#EXTINF:-1,group-title="La unidad(2022)T2",La unidad 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X01 
 acestream://a97884b6f821c3af1f2809604b14888bade9c3f5
 #EXTINF:-1,group-title="La unidad(2022)T2",La unidad 2X02 
 acestream://ee6209288afe3b26a00164195990ab17d44b6918
@@ -227,7 +227,7 @@ acestream://d3ed020fe2300b6875ba989bcc531eae8f03b1a0
 #EXTINF:-1,group-title="La unidad(2022)T2",La unidad 2X06 
 acestream://4d89ed1ecb5548a665cad0d8296c6bde08521ac6
 #EXTINF:-1,group-title="Folklore(2018)T1"
-#EXTINF:-1,group-title="Folklore(2018)T1",Folklore 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X01 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
 #EXTINF:-1,group-title="Folklore(2018)T1",Folklore 1X02 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
@@ -240,7 +240,7 @@ acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
 #EXTINF:-1,group-title="Folklore(2018)T1",Folklore 1X06 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
 #EXTINF:-1,group-title="Folklore(2021)T2"
-#EXTINF:-1,group-title="Folklore(2021)T2",Folklore 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X01 
 acestream://ae8b3a9b775019cdc1d57e6611631c743e575a42
 #EXTINF:-1,group-title="Folklore(2021)T2",Folklore 2X02 
 acestream://d91769a0a8aa70d3f457d270642025824ca22f33
@@ -253,7 +253,7 @@ acestream://a11cd838c0f3bbf23e917bf5932c5fcc3107e818
 #EXTINF:-1,group-title="Folklore(2021)T2",Folklore 2X06 
 acestream://41d8b9a15f08ae24a4041fd03f28b897ca69a10e
 #EXTINF:-1,group-title="¿Sabes quién es?(2022)"
-#EXTINF:-1,group-title="¿Sabes quién es?(2022)",¿Sabes quién es?1X01 
+#EXTINF:-1,tvg-logo="https://www.gatropolis.com/wp-content/uploads/2019/02/91VY1hDQ5XL.jpg"group-title="¿Sabes quién es?(2022)",¿Sabes quién es?1X01 
 acestream://b433f627b27a4cceb7889235fa2a30d2c90e598f
 #EXTINF:-1,group-title="¿Sabes quién es?(2022)",¿Sabes quién es? 1X02 
 acestream://2b3da6745c2b03fc13e1355d44ed66f626fd4026
@@ -270,7 +270,7 @@ acestream://49e40c59d6647f153ae40e1f5f001494baf55bbf
 #EXTINF:-1,group-title="¿Sabes quién es?(2022)",¿Sabes quién es? 1X08 
 acestream://49e40c59d6647f153ae40e1f5f001494baf55bbf
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)"
-#EXTINF:-1,group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
+#EXTINF:-1,tvg-logo="https://geekzilla.tech/home/wp-content/uploads/2022/02/AAAABf0tvysBlVWWJ0aW6NLZtwrhBnCZI4Z9vwk9eULuMRLxFg5ufbld2Wf-Ce8yOcomUChGTN_-gCokYDQ4pakkOwrVRHsqirjxpiHLwjeoD81YXMtGDDRc8fF6cNFI6g.jpg"group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X01 
 acestream://c79fa58e888c4f941c93a5858ec98ec0ffe8e166
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X02 
 acestream://cda1fa9991cd421ee19878848e7447602441f592
@@ -287,7 +287,7 @@ acestream://61ee5735b08fe6fa1f8891d143936ea6a7e35b01
 #EXTINF:-1,group-title="Vikingos: Valhalla(2022)",Vikingos:Valhalla 1X08 
 acestream://37c6f7ba6f571a9f15b28723dfab3428763c0770
 #EXTINF:-1,group-title="Tribunal de menores(2022)"
-#EXTINF:-1,group-title="Tribunal de menores(2022)",Tribunal de menores 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/25/09/13/5815126.jpg"group-title="Tribunal de menores(2022)",Tribunal de menores 1X01 
 acestream://7f6c4d74a706e7e3da8d4f25a0177790fffbd1e8
 #EXTINF:-1,group-title="Tribunal de menores(2022)",Tribunal de menores 1X02 
 acestream://4ac16ff649b083b4211e15a526da0322b5aafa33
@@ -308,7 +308,7 @@ acestream://648f30ac58d2a57e941737f0092ac764645d324a
 #EXTINF:-1,group-title="Tribunal de menores(2022)",Tribunal de menores 1X10 
 acestream://13af8ec1c0528bd82eb6ecc3d0abc55c5211cab5
 #EXTINF:-1,group-title="Germinal(2021)"
-#EXTINF:-1,group-title="Germinal(2021)",Germinal 1x01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/25/17/43/1576597.jpg"group-title="Germinal(2021)",Germinal 1x01 
 acestream://084f33656b754fd8256599e2b97a995d1ef213fc
 #EXTINF:-1,group-title="Germinal(2021)",Germinal 1X02 
 acestream://084f33656b754fd8256599e2b97a995d1ef213fc
@@ -321,7 +321,7 @@ acestream://96601ce8e9906c23fc1701672543e1ea3be013b7
 #EXTINF:-1,group-title="Germinal(2021)",Germinal 1X06 
 acestream://96601ce8e9906c23fc1701672543e1ea3be013b7
 #EXTINF:-1,group-title="The Drowning(2021)"
-#EXTINF:-1,group-title="The Drowning(2021)",The Drowning 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/02/08/20/1786966.jpg"group-title="The Drowning(2021)",The Drowning 1X01 
 acestream://54254cac2126584025fb830628b264a61b10bdca
 #EXTINF:-1,group-title="The Drowning(2021)",The Drowning 1X02 
 acestream://54254cac2126584025fb830628b264a61b10bdca
@@ -330,7 +330,7 @@ acestream://f4e1feddaea98d419a8ad40fb01c4c4883368853
 #EXTINF:-1,group-title="The Drowning(2021)",The Drowning 1X04 
 acestream://f4e1feddaea98d419a8ad40fb01c4c4883368853
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)"
-#EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/26/16/00/3331998.jpg"group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X01 
 acestream://b7fc4d336717eab578cefa9f8c9c9a20b32f9706
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X02 
 acestream://c6f62f7ea237136f440ab63bf62d8dbefd342d35
@@ -347,7 +347,7 @@ acestream://49e8636144a22f4f8d28a1108e3f33578385299a
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X08 
 acestream://404b8e9963e9885c1ada59b9807a0c7d9f1a0fdc
 #EXTINF:-1,group-title="Operación Marea Negra(2022)"
-#EXTINF:-1,group-title="Operación Marea Negra(2022)",Marea 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/01/12/41/4326019.jpg"group-title="Operación Marea Negra(2022)",Marea 1X01 
 acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
 #EXTINF:-1,group-title="Operación Marea Negra(2022)",Marea 1X02 
 acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
@@ -356,7 +356,7 @@ acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
 #EXTINF:-1,group-title="Operación Marea Negra(2022)",Marea 1X04 
 acestream://6b0539b67e3d23a14f3be9d37ec46d1103fe5994
 #EXTINF:-1,group-title="Blackout(2021)"
-#EXTINF:-1,group-title="Blackout(2021)",Blackout 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/11/13/06/006023.jpg"group-title="Blackout(2021)",Blackout 1X01 
 acestream://36e69079ee5854ec9672d51616592d4cfdf9d5c1
 #EXTINF:-1,group-title="Blackout(2021)",Blackout 1X02 
 acestream://53fbdacaf56bc87ac9df0847e458aca88619fe51
@@ -369,7 +369,7 @@ acestream://ba01e925c0bc48f495d707deb7c398b58694f012
 #EXTINF:-1,group-title="Blackout(2021)",Blackout 1X06 
 acestream://c704339b9b680bf8501fd6504de43e7a772cff73
 #EXTINF:-1,group-title="SeeT1(2019)"
-#EXTINF:-1,group-title="SeeT1(2019)",See 1x01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x01 
 acestream://f5ca87ae631e94d029d4723dcdacc790ebf9668e
 #EXTINF:-1,group-title="SeeT1(2019)",See 1x02 
 acestream://f5ca87ae631e94d029d4723dcdacc790ebf9668e
@@ -386,7 +386,7 @@ acestream://e48f79fa65302926173f88dbef068c3381d0f82e
 #EXTINF:-1,group-title="SeeT1(2019)",See 1x08 
 acestream://ba52035143529861697e3bf3a9dbb98d609cd3f0
 #EXTINF:-1,group-title="SeeT2(2021)"
-#EXTINF:-1,group-title="SeeT2(2021)",See 2x01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x01 
 acestream://5319b329f16e50ae27c3379825ae55573ae77247
 #EXTINF:-1,group-title="SeeT2(2021)",See 2x02 
 acestream://b9de1bd033043f6f64ee784b195327f5bff626b7
@@ -403,7 +403,7 @@ acestream://e19c2b67d44c277059709b8467d4db768db3d23c
 #EXTINF:-1,group-title="SeeT2(2021)",See 2x08 
 acestream://50c16a71eb1d63ac8474ba791eceb6bda4ac2c64
 #EXTINF:-1,group-title="Misa de medianoche(2021)"
-#EXTINF:-1,group-title="Misa de medianoche(2021)",Misa 1x01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/08/34/1223657.jpg"group-title="Misa de medianoche(2021)",Misa 1x01 
 acestream://b65b688da641acfda4c9b4c68aa1c9eb852d5de5
 #EXTINF:-1,group-title="Misa de medianoche(2021)",Misa 1x02 
 acestream://b65b688da641acfda4c9b4c68aa1c9eb852d5de5
@@ -418,7 +418,7 @@ acestream://d05a2d0759c5ffd04d4c6bfcae952826d70f3d33
 #EXTINF:-1,group-title="Misa de medianoche(2021)",Misa 1x07 
 acestream://d05a2d0759c5ffd04d4c6bfcae952826d70f3d33
 #EXTINF:-1,group-title="Atracadores: La serie(2021)"
-#EXTINF:-1,group-title="Atracadores: La serie(2021)",Atracadores 1x01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg"group-title="Atracadores: La serie(2021)",Atracadores 1x01 
 acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
 #EXTINF:-1,group-title="Atracadores: La serie(2021)",Atracadores 1x02 
 acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
@@ -431,7 +431,7 @@ acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
 #EXTINF:-1,group-title="Atracadores: La serie(2021)",Atracadores 1x06 
 acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
 #EXTINF:-1,group-title="Euphoria(2019)T1"
-#EXTINF:-1,group-title="Euphoria(2019)T1",Euphoria 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X01 
 acestream://9f8096ef56d1ecf12c7c09f6a209a301ad926e33
 #EXTINF:-1,group-title="Euphoria(2019)T1",Euphoria 1X02 
 acestream://79d4500a96a39d3179766b39d09d4c5bbdef2989
@@ -452,7 +452,7 @@ acestream://67754c8db3009a4277bccb788097ed3b0f687bf1
 #EXTINF:-1,group-title="Euphoria(2019)T1",Euphoria 1X10 
 acestream://e13985a3246b873de9d089e4197a39c0a1c13770
 #EXTINF:-1,group-title="Euphoria(2022)T2"
-#EXTINF:-1,group-title="Euphoria(2022)T2",Euphoria 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X01 
 acestream://d324f8bf1391e4cb52adf5b6f371e2bee11c048a
 #EXTINF:-1,group-title="Euphoria(2022)T2",Euphoria 2X02 
 acestream://d578b54deee2dffd51e2b561b89aab2d48591986
@@ -469,7 +469,7 @@ acestream://6a95fec048270bbdc3bf59a6ae7f185697e82b58
 #EXTINF:-1,group-title="Euphoria(2022)T2",Euphoria 2X08 
 acestream://ade25ba40d9bd084dd6514818b30bd9407004264
 #EXTINF:-1,group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)"
-#EXTINF:-1,group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)",Menuda 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/03/17/12/4061688.jpg"group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)",Menuda 1X01 
 acestream://11062d788ebff506b1e25605397183e19ca45477
 #EXTINF:-1,group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)",Menuda 1X02 
 acestream://11062d788ebff506b1e25605397183e19ca45477
@@ -482,7 +482,7 @@ acestream://dba6a690b6486e94b74b059e76d11e321b713346
 #EXTINF:-1,group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)",Menuda 1X06 
 acestream://dba6a690b6486e94b74b059e76d11e321b713346
 #EXTINF:-1,group-title="El regreso de la espía(2022)"
-#EXTINF:-1,group-title="El regreso de la espía(2022)",El regreso 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/26/16/32/5159745.jpg"group-title="El regreso de la espía(2022)",El regreso 1X01 
 acestream://ba5e3f9e2e8ffece91e56967df70e62ad451dc4d 
 #EXTINF:-1,group-title="El regreso de la espía(2022)",El regreso 1X02 
 acestream://ba5e3f9e2e8ffece91e56967df70e62ad451dc4d
@@ -499,7 +499,7 @@ acestream://28bf198667fb661786051de1b04c7fe17035ab21
 #EXTINF:-1,group-title="El regreso de la espía(2022)",El regreso 1X08 
 acestream://28bf198667fb661786051de1b04c7fe17035ab21
 #EXTINF:-1,group-title="Sospechosos(2022)"
-#EXTINF:-1,group-title="Sospechosos(2022)",Sospechosos 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/02/12/35/0752076.jpg"group-title="Sospechosos(2022)",Sospechosos 1X01 
 acestream://c00f03bd052ff9744ccee391607b2c884914d7a3
 #EXTINF:-1,group-title="Sospechosos(2022)",Sospechosos 1X02 
 acestream://fecd9cff3950a74cd66b82979f643da192cf49d9
@@ -516,7 +516,7 @@ acestream://961e32223a639f52c70d6bd114aa23904657d46f
 #EXTINF:-1,group-title="Sospechosos(2022)",Sospechosos 1X08 
 acestream://76aca63d0227f20e01fb7c532c147cf8855bf6f9
 #EXTINF:-1,group-title="Reacher(2022)"
-#EXTINF:-1,group-title="Reacher(2022)",Reacher 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/10/38/4833003.jpg"group-title="Reacher(2022)",Reacher 1X01 
 acestream://6f1930fb53b9c1ae46cee03c7778af69c3c63be1
 #EXTINF:-1,group-title="Reacher(2022)",Reacher 1X02 
 acestream://d07ba17b4c79dc6f392c0b2e5073c5fbdf020054
@@ -533,7 +533,7 @@ acestream://594179987ec277fd3cf0e6405e9325d09fa89341
 #EXTINF:-1,group-title="Reacher(2022)",Reacher 1X08 
 acestream://bfb59f9a9d800f8b820df6153e7b825aa7cc0c86
 #EXTINF:-1,group-title="Planeta verde(2022)"
-#EXTINF:-1,group-title="Planeta verde(2022)",Planeta 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/01/13/13/56/0341791.jpg"group-title="Planeta verde(2022)",Planeta 1X01 
 acestream://32bc7f3cd875ad80a877768b944f2430a76bf317
 #EXTINF:-1,group-title="Planeta verde(2022)",Planeta 1X02 
 acestream://6499e857e59ff98d7bf50882fa7606cf463c1381
@@ -544,7 +544,7 @@ acestream://6e652804db0ea1cf40f18fcc7bd19ba28a6a8760
 #EXTINF:-1,group-title="Planeta verde(2022)",Planeta 1X05 
 acestream://e0eb5bf21e9489af123309b42ca31a094adcf80c
 #EXTINF:-1,group-title="Insania(2021)"
-#EXTINF:-1,group-title="Insania(2021)",Insania 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/25/18/37/3138851.jpg"group-title="Insania(2021)",Insania 1X01 
 acestream://e59f28f92fde832bf5326dd3787a4bf7fd0dfdaf
 #EXTINF:-1,group-title="Insania(2021)",Insania 1X02 
 acestream://e27b2ef892336f05eead10345d9774ffcba15bc8
@@ -561,7 +561,7 @@ acestream://89cce0adaf42d5938692e6a821f3fadee273f427
 #EXTINF:-1,group-title="Insania(2021)",Insania 1X08 
 acestream://89cce0adaf42d5938692e6a821f3fadee273f427
 #EXTINF:-1,group-title="La elegida(2022)"
-#EXTINF:-1,group-title="La elegida(2022)",La elegida 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/19/15/02/0063908.jpg"group-title="La elegida(2022)",La elegida 1X01 
 acestream://9a05b5599f12a760f291e5399d257d07e945c5b2
 #EXTINF:-1,group-title="La elegida(2022)",La elegida 1X02 
 acestream://9a05b5599f12a760f291e5399d257d07e945c5b2
@@ -574,7 +574,7 @@ acestream://6ca50fac16f584b28a5fdb0719f6784d088dca47
 #EXTINF:-1,group-title="La elegida(2022)",La elegida 1X06 
 acestream://6ca50fac16f584b28a5fdb0719f6784d088dca47
 #EXTINF:-1,group-title="La mujer de la casa de enfrente de la chica en la ventana(2022)"
-#EXTINF:-1,group-title="La mujer de la casa de enfrente de la chica en la ventana(2022)",La mujer 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/05/11/07/3331521.jpg"group-title="La mujer de la casa de enfrente de la chica en la ventana(2022)",La mujer 1X01 
 acestream://33e48a26787014175e238a1135966cec75f26b6e
 #EXTINF:-1,group-title="La mujer de la casa de enfrente de la chica en la ventana(2022)",La mujer 1X02 
 acestream://33e48a26787014175e238a1135966cec75f26b6e
