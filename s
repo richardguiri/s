@@ -1784,25 +1784,25 @@ acestream://a7c759f71caa4244de801e95ce8e5eabfe0c84fe
 #EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X06 
 acestream://90c9438ebe07c7bf0638f186b8d33df5267b8bbd
 #EXTINF:-1,group-title="Dexter: New Blood(2021)"
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X01 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X01 
 acestream://0bece2f064a0aef05b7cd19d84415af0cd7c0549
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X02 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X02 
 acestream://618bb6c7e4d4f70ff9cda2f635118780f689d881
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X03 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X03 
 acestream://c10d25b1eb8ed946fc4a707ad16d06b9ca8555f8
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X04 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X04 
 acestream://33363aca7d9dd49f3176f10b2a74033741bdf59a
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X05 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X05 
 acestream://132abc2c1338ffa99f894954a9fe600a7c31bbba
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X06 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X06 
 acestream://09802fc9e5fdbf9ad7847fde8432cd2bc24e8c6a
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X07 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X07 
 acestream://f466a2b959cf87e688a4704d3a31ed7123bc4870
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X08 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X08 
 acestream://11c7afd23a834182ace83042c6c24782c6c59ed3
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X09 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X09 
 acestream://a45f3107f4dd5ef7a6ea064cd142cf5f68523afc 
-#EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X10 
+#EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X10 
 acestream://2f4dc65afd587c4c434a52f46116ea1052bd1d14
 
 
