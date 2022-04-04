@@ -1,4 +1,111 @@
 #EXTM3U
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2" 
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X01 
+acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X02 
+acestream://792f38bc19547c6b6c39f7ffcae366db2b2c80e7
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X03 
+acestream://61bfcf25869b1ce08c380a0c86fb857d6831ccc5
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X04 
+acestream://2fe25943dc9e745ac82be3be12cce69fc7289622
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X05 
+acestream://f96143faf091fed0092203684cb18133c70db931
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X06 
+acestream://0ef12123649a2e76dd398d0735f79a59e20bdb26
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X07 
+acestream://4ceb5fe8878eb93ada5d1f8d6c037b09acbce11c
+#EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2",El internado 2X08 
+acestream://bd94bf355468e219e615377260c0508a33343bd1
+#EXTINF:-1,group-title="WeCrashed(2022)"
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X01 
+acestream://919c19d573609c8580946365a69de96dc2018b2f
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X02 
+acestream://ed58db7f3ac1d0e99718ee8c54dc9b524fdf861f
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X03 
+acestream://f822e344cc6b39a44af68507cfe5a6beeafa0db6
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X04 
+acestream://08e12c6c3c1d4f5efe7e995fa520e84f3a94d682
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X05 
+acestream://fae62037604861019c34b36598bb58713af332cc
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X06 
+acestream://
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X07 
+acestream://
+#EXTINF:-1,group-title="WeCrashed(2022)",WeCrashed 1X08 
+acestream://
+#EXTINF:-1,group-title="Caballero Luna(2022)"
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X01 
+acestream://252b8131b515e6ef03b72e350259bff9c17aee2d
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X02 
+acestream://
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X03 
+acestream://
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X04 
+acestream://
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X05 
+acestream://
+#EXTINF:-1,group-title="Caballero Luna(2022)",Caballero 1X06 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)"
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X01 
+acestream://6a97154b85be51e0dd314469460a2fa8ff35f673
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X02 
+acestream://c1fa37ed2a0dfa9730a924e73b0ec87c4bb86536
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X03 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X04 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X05 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X06 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X07 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X08 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X09 
+acestream:// 
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X10 
+acestream://
+#EXTINF:-1,group-title="Slow Horses(2022)",Slow 1X11 
+acestream://
+#EXTINF:-1,group-title="El deshielo(2022)" 
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X01 
+acestream://3917d62aa749c5bb9c401721ff5c69a7354d4bf9
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X02 
+acestream://5c93b893abb119b52e6b0cec3cc61fd91f1312f1
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X03 
+acestream://
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X04 
+acestream://
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X05 
+acestream://
+#EXTINF:-1,group-title="El deshielo(2022)",El deshielo 1X06 
+acestream://
+#EXTINF:-1,group-title="Separación(2022)"
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X01 
+acestream://522a33a662d1b5389ccf709270b4f2670e006a98
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X02 
+acestream://6446e4e8841aaa07cdc5de4f3bfa525f33a6e5f0
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X03 
+acestream://792ebc4aab6aa74d9b5bd126ed4b39a9415fdff3
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X04 
+acestream://3b491234b97deb1dc0909d333c268fc69b8eac6f
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X05 
+acestream://e633fb478bd12ffb1f03ee2b68849a9e52fe6d4e
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X06 
+acestream://91693c7c0668f006606d314d4590c71c20286ad7
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X07 
+acestream://f50f22408ea2fa4be57508d36cc229635b827e47
+#EXTINF:-1,group-title="Separación(2022)",Separación 1X08 
+acestream://f5b11ddc6533422ecfbb728457684eaea8223d3d
+#EXTINF:-1,group-title="800 metros(2022)"
+#EXTINF:-1,group-title="800 metros(2022)",800 1X01 
+acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
+#EXTINF:-1,group-title="800 metros(2022)",800 1X02 
+acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
+#EXTINF:-1,group-title="800 metros(2022)",800 1X03 
+acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
 #EXTINF:-1,group-title="Pachinko(2022)"
 #EXTINF:-1,group-title="Pachinko(2022)",Pachinko 1X01
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
@@ -7,7 +114,7 @@ acestream://e43afc18d15e9de0096f8391f66d1906623f2c88
 #EXTINF:-1,group-title="Pachinko(2022)",Pachinko 1X03 
 acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
 #EXTINF:-1,group-title="Pachinko(2022)",Pachinko 1X04
-acestream://
+acestream://680ec51ea039fe0bebd90c8672096dbe13f97f5c
 #EXTINF:-1,group-title="Pachinko(2022)",Pachinko 1X05
 acestream://
 #EXTINF:-1,group-title="Pachinko(2022)",Pachinko 1X06
@@ -33,6 +140,23 @@ acestream://bb6fef0a9e4d3bec955afcf55a80e6aa3e618c07
 acestream://dce98182a8fb6d6ca4d628f5671e2d09a0d2587f
 #EXTINF:-1,group-title="Entrevías(2022)",Entrevías 1X08
 acestream://86e7316252e59f1ce3f2ba93e7f65b372bbbface
+#EXTINF:-1,group-title="Entrevías(2022)T2" 
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X01 
+acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X02 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X03 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X04 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X05 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X06 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X07 
+acestream://
+#EXTINF:-1,group-title="Entrevías(2022)T2",Entrevías 2X08 
+acestream://
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)"
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)",Paralelos desconocidos1X01 
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
@@ -219,9 +343,9 @@ acestream://071b08d7daf0c480fd058a1246209c0dc716a599
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X06 
 acestream://1f64208bfa4d838906aa3ad9c66a943826e91a60
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X07 
-acestream://
+acestream://49e8636144a22f4f8d28a1108e3f33578385299a
 #EXTINF:-1,group-title="La vuelta al mundo en 80 días(2021)",Vuelta 1X08 
-acestream://
+acestream://404b8e9963e9885c1ada59b9807a0c7d9f1a0fdc
 #EXTINF:-1,group-title="Operación Marea Negra(2022)"
 #EXTINF:-1,group-title="Operación Marea Negra(2022)",Marea 1X01 
 acestream://5f3679a9de1e300ba99f5bce8281b285c8500719
@@ -1456,6 +1580,7 @@ acestream://3561f67ca507105e9bdcfdc26c7a817c1ecccbb3
 #EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X06 
 acestream://4cd48aa94e2ad8e42c201ab7fb7ba9bb826a2ed8
 #EXTINF:-1,group-title="The Shrink Next Door(2021)"
+
 #EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X01 
 acestream://e3e92940cff8299be1235f5e75bbcf609a0012f0
 #EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X02 
@@ -1679,6 +1804,14 @@ acestream://11c7afd23a834182ace83042c6c24782c6c59ed3
 acestream://a45f3107f4dd5ef7a6ea064cd142cf5f68523afc 
 #EXTINF:-1,group-title="Dexter: New Blood(2021)",Dexter 1X10 
 acestream://2f4dc65afd587c4c434a52f46116ea1052bd1d14
+
+
+
+
+
+
+
+ 
 
 
 
