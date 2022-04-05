@@ -591,41 +591,41 @@ acestream://5fe6aa9204a0b3a337a548b08d4ea0493bf3148d
 #EXTINF:-1,group-title="La mujer de la casa de enfrente de la chica en la ventana(2022)",La mujer 1X08 
 acestream://5fe6aa9204a0b3a337a548b08d4ea0493bf3148d
 #EXTINF:-1,group-title="The Afterparty(2022)"
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X01 
 acestream://a5564116e553ce0b472e3d5a96e348c27db2580a
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X02 
 acestream://ca82be5681dfb25c39279cf01561484854aa731c
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X03 
 acestream://a4a98dc2a236e21616fa8c1b5188647da1d6ddc0
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X04 
 acestream://a4edcc943fefde0601d04f8c27483066b0351b4d
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X05 
 acestream://620334e2effdeee57ccd5bedad3df3eb5c4796db
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X06 
 acestream://71eecb4a72158a8832336c937de8d6d1379bae57
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X07 
 acestream://1f93c1f1f45a2d41292c101947840d517dc1784f
-#EXTINF:-1,group-title="The Afterparty(2022)",Afterparty 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/15/09/54/5190078.jpg"group-title="The Afterparty(2022)",Afterparty 1X08 
 acestream://3ec402c20af30afe8186f5c62954aa7bb5d8a447
 #EXTINF:-1,group-title="Feria:La luz más oscura(2022)"
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X01 
 acestream://5a2c662e142980db6e9904ac4d616a519f1ad9cd
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X02 
 acestream://5a2c662e142980db6e9904ac4d616a519f1ad9cd
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X03 
 acestream://2a955bdeaf9f50a4492f08387aa630bff1a7a4f2
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X04 
 acestream://2a955bdeaf9f50a4492f08387aa630bff1a7a4f2
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X05 
 acestream://706b33ad75e696090f0eafd0b26b8d8c97fdc22b
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X06 
 acestream://706b33ad75e696090f0eafd0b26b8d8c97fdc22b
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X07 
 acestream://25a75638d46c07fd61128098e62a06f6277cecc0
-#EXTINF:-1,group-title="Feria:La luz más oscura(2022)",Feria 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/29/11/23/4199623.jpg"group-title="Feria:La luz más oscura(2022)",Feria 1X08 
 acestream://25a75638d46c07fd61128098e62a06f6277cecc0
 #EXTINF:-1,group-title="Todos mienten(2022)" 
-#EXTINF:-1,group-title="Todos mienten(2022)",Mienten 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/09/03/11/12/3002627.jpg"group-title="Todos mienten(2022)",Mienten 1X01 
 acestream://ed5068fd1aafbedc8049aba9bc4ff70454ba3def
 #EXTINF:-1,group-title="Todos mienten(2022)",Mienten 1X02 
 acestream://ed5068fd1aafbedc8049aba9bc4ff70454ba3def
@@ -638,24 +638,24 @@ acestream://b8445ba46b63a841af441fd9567cce634fa1c334
 #EXTINF:-1,group-title="Todos mienten(2022)",Mienten 1X06 
 acestream://b8445ba46b63a841af441fd9567cce634fa1c334
 #EXTINF:-1,group-title="Naomi(2022)"
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X01 
 acestream://50b29f9f2e72faccbfdf187617d77f49621cb4a4
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X02 
 acestream://ee071d0e65534124b3fb61c11a9b21270cbf5b4d
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X03 
 acestream://7c1c3b8e5e88f49119ee36bb290ed8d3e22f573e
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X04 
 acestream://faf7f9dd689926f70c149651bc246efcb9d9ae42
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X05 
 acestream://ea1c2da26bb9a0d01c2980f605565b9db2ca302e
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X06 
 acestream://6f36e553ab0c183be6e298fd0e1f9c9d54c6bc68
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X07 
 acestream://8176657d5cd425864ff6bcad6c32b36bbaf26525
-#EXTINF:-1,group-title="Naomi(2022)",Naomi 1X08
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X08
 acestream://6afb55fcc60b24ba0213fe1901477d225cc72fa5
 #EXTINF:-1,group-title="Ozark(2017)T1"
-#EXTINF:-1,group-title="Ozark(2017)T1",Ozark 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X01 
 acestream://3e5178ecd3acb78e20c0bd279b3086e7be41f37b
 #EXTINF:-1,group-title="Ozark(2017)T1",Ozark 1X02 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
@@ -676,7 +676,7 @@ acestream://2887e3cedf779e3710827ef582e90870a72162e3
 #EXTINF:-1,group-title="Ozark(2017)T1",Ozark 1X10 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
 #EXTINF:-1,group-title="Ozark(2018)T2"
-#EXTINF:-1,group-title="Ozark(2018)T2",Ozark 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X01 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
 #EXTINF:-1,group-title="Ozark(2018)T2",Ozark 2X02 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
@@ -697,7 +697,7 @@ acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
 #EXTINF:-1,group-title="Ozark(2018)T2",Ozark 2X10 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
 #EXTINF:-1,group-title="Ozark(2020)T3"
-#EXTINF:-1,group-title="Ozark(2020)T3",Ozark 3X01  
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X01  
 acestream://7684b3a6a08b558c2e99711487337dd2e5031436
 #EXTINF:-1,group-title="Ozark(2020)T3",Ozark 3X02 
 acestream://8c68414936a2efc577075dffc64545fcf0933cb8
@@ -718,7 +718,7 @@ acestream://bac9a52e5ff820c55cbdd5c916088668c7a02a07
 #EXTINF:-1,group-title="Ozark(2020)T3",Ozark 3X10 
 acestream://1fbef4af9428b95d42628e02e93cc0b9ffc76a8a
 #EXTINF:-1,group-title="Ozark(2022)T4"
-#EXTINF:-1,group-title="Ozark(2022)T4",Ozark 4X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X01 
 acestream://91b1ff67eac38177a914be9ed5e6cce95189697b
 #EXTINF:-1,group-title="Ozark(2022)T4",Ozark 4X02 
 acestream://ae710c1c0186dae2d87d61f5992cd7363b527aef
@@ -733,7 +733,7 @@ acestream://5b1e81f913624980c18d5238e69e9be22b488011
 #EXTINF:-1,group-title="Ozark(2022)T4",Ozark 4X07 
 acestream://555f1dbc9bdf7a832727484ea355fa6bb2ef1a71
 #EXTINF:-1,group-title="Express(2022)"
-#EXTINF:-1,group-title="Express(2022)",Express 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/10/12/05/4618544.jpg"group-title="Express(2022)",Express 1X01 
 acestream://aa20a7ca957bc63112a1a5456ba00b38112cea9c
 #EXTINF:-1,group-title="Express(2022)",Express 1X02 
 acestream://08d69f96469fa7d00126ce3844ac1329d68931ec
@@ -750,28 +750,28 @@ acestream://8d42f579d2ad1183dea1c89efc2dbf6b78489372
 #EXTINF:-1,group-title="Express(2022)",Express 1X08 
 acestream://3fb14322834b4d2e1d4c5f03028ebe58e67c4ef9
 #EXTINF:-1,group-title="La chica de la limpieza(2022)"
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1X01 
 acestream://fa50fb322fb663543ed95f2371745894e2d482dd
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1X02 
 acestream://881261dfc94cf780132be012727132082d481975
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1X03 
 acestream://be23ea723e3df2f3bd404cd8ae531e33b6151cfe
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1X04 
 acestream://f0c19f6048b9fa1c829c8e483fb9ede4d8eaa139
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x05 
 acestream://b9336aab1e7998f6b5d3eb54442d3e216e8b7942
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x06 
 acestream://80cd535696a4892df46d1b0aecf58d92de193e69
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x07 
 acestream://bbe74f0acfa75ad4bf61f303fcfb40caf96667d4
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x08 
 acestream://0cb38ce8b12a35decec5c8aa31265ac8658f611b
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x09 
 acestream://23f4d5079d7e75cb81583b1c39f2dc4e2ce7dbe5
-#EXTINF:-1,group-title="La chica de la limpieza(2022)",La chica 1x10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x10 
 acestream://bb793233e8806b7351ec21ed0997e5ab9adc
 #EXTINF:-1,group-title="SurrealEstate(2021)"
-#EXTINF:-1,group-title="SurrealEstate(2021)",SurrealEstate 1X01 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X01 
 acestream://c2929e8d1fa5ee50bd62a429ee5f9caf66f3f776
 #EXTINF:-1,group-title="SurrealEstate(2021)",SurrealEstate 1X02 
 acestream://4502151c3efb8fcf54f33476e02908f8fe4ea49a
@@ -792,7 +792,7 @@ acestream://96ae366bbb73219152bec01fad5ed7a7aff82ab4
 #EXTINF:-1,group-title="SurrealEstate(2021)",SurrealEstate 1X10 
 acestream://fa498d62bdc8c52f61a89dea7338206db618623a
 #EXTINF:-1,group-title="The Wall(La Faille)(2019)T1"
-#EXTINF:-1,group-title="The Wall(La Faille)(2019)T1",The Wall 1X01 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpggroup-title="The Wall(La Faille)(2019)T1",The Wall 1X01 
 acestream://b316625d149d43067b5992b6198786ab8650e88e
 #EXTINF:-1,group-title="The Wall(La Faille)(2019)T1",The Wall 1X02 
 acestream://5bf1b650d3f6cc5ef02e29f5a051845a0fc1ff2b
@@ -809,7 +809,7 @@ acestream://ba77f38999e431db1ed6d7ded24f9b2f6c921b18
 #EXTINF:-1,group-title="The Wall(La Faille)(2019)T1",The Wall 1X08 
 acestream://ed3476176b79251773a71006416f9b750de86b1f
 #EXTINF:-1,group-title="The Wall(La Faille)(2021)T2"
-#EXTINF:-1,group-title="The Wall(La Faille)(2021)T2",The Wall 2X01 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpggroup-title="The Wall(La Faille)(2021)T2",The Wall 2X01 
 acestream://501ce6f6704822fc92855d016a032d3c8403399f
 #EXTINF:-1,group-title="The Wall(La Faille)(2021)T2",The Wall 2X02 
 acestream://20fff137badffb1ba32663827c3f2dece5bc24f4
@@ -828,21 +828,21 @@ acestream://d587ba8bdfdd1877b22493bed89ae712772a6cf2
 #EXTINF:-1,group-title="The Wall(La Faille)(2021)T2",The Wall 2X09 
 acestream://56ce8732b90dbcaad823cf772862b65abc21c5cc
 #EXTINF:-1,group-title="Chucky(2021)"
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X01 
 acestream://2b5741bc8cd360e696f75aec8c183ed49f52ac18
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X02 
 acestream://d380b4e7e8387ff03871c44475296de10209e8af
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X03 
 acestream://7923959b777fa9208d4f684a351846f373521368
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X04 
 acestream://1baa73c9791513724239b4413e34d998835e97b2
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X05 
 acestream://141d77966633a037d13336db7f38882b516606fa
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X06 
 acestream://ba958810a624d2610413642cc5eea04ff0cc61b9
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X07 
 acestream://601f6d89655fc6fc37a3da821d8e364995270da0
-#EXTINF:-1,group-title="Chucky(2021)",Chucky 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X08 
 acestream://96e14b7aab36a5ebf0ca5b50092a33505474ecbd
 #EXTINF:-1,group-title="Red shadows(2019)"
 #EXTINF:-1,group-title="Red shadows(2019)",Red shadows 1X01 
@@ -858,171 +858,171 @@ acestream://af75586bd633f4d1132a3b3bb07ba19a32d79451
 #EXTINF:-1,group-title="Red shadows(2019)",Red shadows 1X06 
 acestream://af75586bd633f4d1132a3b3bb07ba19a32d79451
 #EXTINF:-1,group-title="The Driver(2014)"
-#EXTINF:-1,group-title="The Driver(2014)",The Driver 1X01 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/10/31/15/35/3840996.jpg"group-title="The Driver(2014)",The Driver 1X01 
 acestream://8c68fcf7982bc2769a6f90fed4494201fa1cdf60
-#EXTINF:-1,group-title="The Driver(2014)",The Driver 1X02 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/10/31/15/35/3840996.jpg"group-title="The Driver(2014)",The Driver 1X02 
 acestream://8881768d64b4eb833d72065eefe1f6031358aefd
-#EXTINF:-1,group-title="The Driver(2014)",The Driver 1X03 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/10/31/15/35/3840996.jpg"group-title="The Driver(2014)",The Driver 1X03 
 acestream://dd93c7214ba1cfb0c070edeb3251b31f81794adc
 #EXTINF:-1,group-title="El Pacificador(2022)"
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X01 
 acestream://037e7564bf675b4393cbf235713e10159d4af308
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X02 
 acestream://037e7564bf675b4393cbf235713e10159d4af308
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X03 
 acestream://037e7564bf675b4393cbf235713e10159d4af308
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X04 
 acestream://4ecaef1485536a18aabadfc2dbc58d58da501ce2
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X05 
 acestream://f4b49841917611009691268de0b4a4c583104cdf
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X06 
 acestream://e4689431dc7085fbef447ee5293d12be531e38dc
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X07 
 acestream://6d1c0089d2501344636bb793900a703aef102023
-#EXTINF:-1,group-title="El Pacificador(2022)",El Pacificador 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/06/10/52/1598963.jpg"group-title="El Pacificador(2022)",El Pacificador 1X08 
 acestream://af006fc2a25fbfee6c71d089c18a75bd278af4c4
 #EXTINF:-1,group-title="Intachable(2018)"
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X01 
 acestream://38816483ac1801ececb9bcf8c6d7f337c90e0041
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X02 
 acestream://38816483ac1801ececb9bcf8c6d7f337c90e0041
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X03 
 acestream://38816483ac1801ececb9bcf8c6d7f337c90e0041
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X04 
 acestream://38816483ac1801ececb9bcf8c6d7f337c90e0041
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X05 
 acestream://80808a6c1e0effc6bcfc7d860be64fe4e1e90b17
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X06 
 acestream://80808a6c1e0effc6bcfc7d860be64fe4e1e90b17
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X07 
 acestream://80808a6c1e0effc6bcfc7d860be64fe4e1e90b17
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X08 
 acestream://804fd7f37a2e1a129ee943f40a3813af4252d183
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X09 
 acestream://804fd7f37a2e1a129ee943f40a3813af4252d183
-#EXTINF:-1,group-title="Intachable(2018)",Intachable 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/23/11/38/1675928.jpg"group-title="Intachable(2018)",Intachable 1X10 
 acestream://804fd7f37a2e1a129ee943f40a3813af4252d183
 #EXTINF:-1,group-title="Archivo 81(2022)"
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X01 
 acestream://a6f3ebfce314b62188c6de2c82f190c82fc873be
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X02 
 acestream://a6f3ebfce314b62188c6de2c82f190c82fc873be
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X03 
 acestream://a6f3ebfce314b62188c6de2c82f190c82fc873be
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X04 
 acestream://7b8a9391db030f9dda9af97e1e0a051813296d4a
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X05 
 acestream://7b8a9391db030f9dda9af97e1e0a051813296d4a
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X06 
 acestream://7b8a9391db030f9dda9af97e1e0a051813296d4a
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X07 
 acestream://37407f7e24abbd6c027a8bad755b48f3f8a376fc
-#EXTINF:-1,group-title="Archivo 81(2022)",Archivo 81 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X08 
 acestream://6cbc9da4bbdeb389887b7644051bc7454b85d626
 #EXTINF:-1,group-title="Cobra Kai(2021)T4"
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X01 
 acestream://46b36721c1d4703e27c2d6e8c7205be11a14f518
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X02
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X02
 acestream://c8f0ce789b0c1afda7b427dfd189f7f3ca1e7d1a
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X03 
 acestream://fd6546dcafddec3a9c4121ca1ff6fc93120dba10
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X04 
 acestream://ba36a57ed5c88f20d07176bd27532a8a26930b92
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X05 
 acestream://8ed2a308cc38f4ca74aa7eef8aedba8f92adfe57
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X06 
 acestream://ecf5f9a52a8e6d80629feb8115f245eb29da3a96
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X07 
 acestream://abfa95469b081b01eb2bcecd10a41b7824e060b1
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X08 
 acestream://3cc9726f949edb685bc1fe63d3c157842d2b6f84
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X09 
 acestream://3a12ef50300ac14992ec488570d0f2695b7e95ff
-#EXTINF:-1,group-title="Cobra Kai(2021)T4",Cobra Kai 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X10 
 acestream://61c7f7f6dfaff3496fdbd33b979433fd42b083d1
 #EXTINF:-1,group-title="Atlantic Crossing(2020)"
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X01 
 acestream://988cecb9a31c5e71599caf43d77e3c4d3e16bf6f
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X02 
 acestream://8915b0c065ab5d2e06bd14f8c4593a2b1a522b6a
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X03 
 acestream://9cd5e40d9d729327e40421ffb46aae09339f1c02
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X04 
 acestream://7244f52f7d5003ab92f867ed7c0aa7af2b779fe2
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X05 
 acestream://36a94ddc43405fb42d7d27ff50bec90a11b9823a
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X06 
 acestream://b1ece324c6a0d4a1e4371fa1d707df63300f10c2
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X07 
 acestream://4ed6eb4d989e4a56bee3fedc54e64249355465e6
-#EXTINF:-1,group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X08 
 acestream://bbdc0cf2866bedbb638fd1050fb821be66a20f8b
 #EXTINF:-1,group-title=""
-#EXTINF:-1,group-title="",La chica de Oslo 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X01 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,group-title="",La chica de Oslo 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X02 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,group-title="",La chica de Oslo 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X03 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,group-title="",La chica de Oslo 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X04 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,group-title="",La chica de Oslo 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X05 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,group-title="",La chica de Oslo 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X06 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,group-title="",La chica de Oslo 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X07 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,group-title="",La chica de Oslo 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X08 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
-#EXTINF:-1,group-title="",La chica de Oslo 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X09 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
-#EXTINF:-1,group-title="",La chica de Oslo 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X10 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
 #EXTINF:-1,group-title="El símbolo perdido(2021)"
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X01 
 acestream://8497eb9c4703621865956125f9d9e9bf55646f05
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X02 
 acestream://1eab91777cfea51b8e96c4e826b19505f08478c5
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X03 
 acestream://b7f7d4b1654c3c1df12b3aa206430f7d49f6d692
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X04 
 acestream://fff005da298ca0134f6f58a6cdffb6451b31dee9
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X05 
 acestream://802632c709a30d77bd5f3b33b0f2b1fc39e6285c
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X06 
 acestream://861d36f99ebcaadc5a6d8e7934369bc3a1e20949
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X07 
 acestream://62563b5dc3a08445204f2db881a35244477d27dc
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X08 
 acestream://697a4cce68cd61c9cb92284691b88846e323a02a
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X09 
 acestream://d6db9839f2a65edb923450718e11df06960f40ef
-#EXTINF:-1,group-title="El símbolo perdido(2021)",El símbolo perdido 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X10 
 acestream://a18b91278406751f1d4031c845ff9200ab2e9196
 #EXTINF:-1,group-title="El libro de Boba Fett(2021)"
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X01 
 acestream://653c0afb36f5d1b30268e590695c72e0c26e866d
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X02 
 acestream://3e74e3f9c652b7a6069aac44a84ffb0d11025128
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X03 
 acestream://284ac2d7a3b43870c2cb3b3f2868d05118c8da7c
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X04 
 acestream://60162c73ec0f2e39c99b55d1dd9913e6c7800564
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X05 
 acestream://ee5334aae4e0d755aa20c17b392bdd6c82211080
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X06 
 acestream://876310ea14ff2755f5085aae54358f3f0bece2a7
-#EXTINF:-1,group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X07 
 acestream://c45c4a4e0324589ca259568b4bc62f03bfed79b1
-#EXTINF:-1,group-title="El asesino de Times Square(2021)"
-#EXTINF:-1,group-title="El asesino de Times Square(2021)",El asesino 1X01 
+#EXTINF:-1,group-title="tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"(2021)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/16/17/0840982.jpg"group-title="El asesino de Times Square(2021)",El asesino 1X01 
 acestream://9b2f146401e482dddb4adeb111c745323b46dfbe
-#EXTINF:-1,group-title="El asesino de Times Square(2021)",El asesino 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/16/17/0840982.jpg"group-title="El asesino de Times Square(2021)",El asesino 1X02 
 acestream://c5caa08dfb62b857db6503856b8988df3da13717
-#EXTINF:-1,group-title="El asesino de Times Square(2021)",El asesino 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/16/17/0840982.jpg"group-title="El asesino de Times Square(2021)",El asesino 1X03 
 acestream://1f082f27f75a149794bfc1338f861c06e8098366
 #EXTINF:-1,group-title="Animal Kingdom T5"
-#EXTINF:-1,group-title="Animal Kingdom T5",Animal Kingdom 5X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/16/05/18/11/44/184297.jpg"group-title="Animal Kingdom T5",Animal Kingdom 5X01 
 acestream://a7196c56da2b67550b23f358b562d4760e647722
 #EXTINF:-1,group-title="Animal Kingdom T5",Animal Kingdom 5X02 
 acestream://bfa9e486fe67c6a746d77fadf7e7de50c0b45065
@@ -1049,7 +1049,7 @@ acestream://8ae7f10df5ec4ec4a68fabe90bbb6779f151ba1d
 #EXTINF:-1,group-title="Animal Kingdom T5",Animal Kingdom 5X13 
 acestream://4a913c0c304bfb69d286a9e58318b0f243523907
 #EXTINF:-1,group-title="The Cape(2011)"
-#EXTINF:-1,group-title="The Cape(2011)",The Cape(2011) 1X01 
+#EXTINF:-1,tvg-logo="https://www.cine.com/media/series/1440.jpg"group-title="The Cape(2011)",The Cape(2011) 1X01 
 acestream://0f52e7ef2b7c6343ba7a883d4f567f06db0d6f09
 #EXTINF:-1,group-title="The Cape(2011)",The Cape(2011) 1X02 
 acestream://0f52e7ef2b7c6343ba7a883d4f567f06db0d6f09
@@ -1070,48 +1070,48 @@ acestream://985ec3856d0b2af3d6f12c1e3574484272c98710
 #EXTINF:-1,group-title="The Cape(2011)",The Cape(2011) 1X10 
 acestream://4f9434498f0548597b3c8ac92a36611db24818b4
 #EXTINF:-1,group-title="Quédate a mi lado(2021)"
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X01 
 acestream://8ce56692fa77bd759adbcbef7e97be72fea14c94
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X02 
 acestream://8ce56692fa77bd759adbcbef7e97be72fea14c94
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X03 
 acestream://8ce56692fa77bd759adbcbef7e97be72fea14c94
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X04 
 acestream://1f0e7799d67b6e093530881e189c3cb5928ffd8d
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X05 
 acestream://1f0e7799d67b6e093530881e189c3cb5928ffd8d
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X06 
 acestream://1f0e7799d67b6e093530881e189c3cb5928ffd8d
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X07 
 acestream://5e1bee448e7f3a5df822d4c2bf583323796c0341
-#EXTINF:-1,group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/22/13/16/5699855.jpg"group-title="Quédate a mi lado(2021)",Quédate a mi lado 1X08 
 acestream://5e1bee448e7f3a5df822d4c2bf583323796c0341
 #EXTINF:-1,group-title="Sin novedad(2021"
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1X01 
 acestream://4b74113cc6a3dccc0fa36e8958abcc70e32f6df4
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 
-1X02 acestream://c7b29756b651185fdb36405df708a0372e24f264
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 
-1X03 acestream://7311fe589400e2657938ae9fafbe1b15b7e7db94
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 
-1X04 acestream://bc74d1772c5a05613358be6ec9969d679026e31d
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 
-1X05 acestream://e0b701833c0089243c4939754c177816d5e192c3
-#EXTINF:-1,group-title="Sin novedad(2021",Sin novedad 
-1X06 acestream://c7085d508d2fe0c961ef79a2a686eb3be2fe44c2
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1x02
+acestream://c7b29756b651185fdb36405df708a0372e24f264
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1x03
+acestream://7311fe589400e2657938ae9fafbe1b15b7e7db94 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1x04
+acestream://bc74d1772c5a05613358be6ec9969d679026e31d
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1x05
+acestream://e0b701833c0089243c4939754c177816d5e192c3
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/18/13/14/1838411.jpg"group-title="Sin novedad(2021",Sin novedad 1x06
+acestream://c7085d508d2fe0c961ef79a2a686eb3be2fe44c2
 #EXTINF:-1,group-title="Wild Bill(2019)"
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X01 
 acestream://2b818356dc1302028f5b8871e8df1520d3784b93
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 
-1X02 acestream://1b13f838b66824c04ed0a600cc894674e91f0dd5
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 
-1X03 acestream://5b41d9e485e0a8c9740211534690379cffe22dcb
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 
-1X04 acestream://d0f7a640e8a98d556f8891a7ec5d8204cc63295c
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 
-1X05 acestream://bea9069fa93c39589d9e2be6fcacc2dbc233cf2d
-#EXTINF:-1,group-title="Wild Bill(2019)",Wild Bill 
-1X06 acestream://ea122a16fb55cc3e9dca54e78cc34f49900dafe5
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X02
+acestream://1b13f838b66824c04ed0a600cc894674e91f0dd5
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X03 
+acestream://5b41d9e485e0a8c9740211534690379cffe22dcb
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X04 
+acestream://d0f7a640e8a98d556f8891a7ec5d8204cc63295c
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X05 
+acestream://bea9069fa93c39589d9e2be6fcacc2dbc233cf2d
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/06/11/14/08/5167203.jpg"group-title="Wild Bill(2019)",Wild Bill 1X06 
+acestream://ea122a16fb55cc3e9dca54e78cc34f49900dafe5
 #EXTINF:-1,group-title="Fena, princesa pirata(2021)"
 #EXTINF:-1,group-title="Fena, princesa pirata(2021)",Fena 1X01 
 acestream://baa15a643783bc67c698cf4debbe46275aed33ba
@@ -1128,7 +1128,7 @@ acestream://
 #EXTINF:-1,group-title="Fena, princesa pirata(2021)",Fena 1X07 
 acestream://
 #EXTINF:-1,group-title="Hacks(2021)"
-#EXTINF:-1,group-title="Hacks(2021)",Hacks 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg"group-title="Hacks(2021)",Hacks 1X01 
 acestream://c60196e3c299a86de99a6f4b1b180ca8e4e2db43
 #EXTINF:-1,group-title="Hacks(2021)",Hacks 1X02 
 acestream://5619d839edbee2d28cf3f71153e799f4c29803d2 
@@ -1149,7 +1149,7 @@ acestream://0979b676639c6c2ff33d735eb17b06858cba65d8
 #EXTINF:-1,group-title="Hacks(2021)",Hacks 1X10 
 acestream://147141b129ae012fef549a30879c8d68a11f8e38
 #EXTINF:-1,group-title="Auga Seca (2020)T1"
-#EXTINF:-1,group-title="Auga Seca (2020)T1",Auga Seca 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X01 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
 #EXTINF:-1,group-title="Auga Seca (2020)T1",Auga Seca 1X02 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
@@ -1162,7 +1162,7 @@ acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
 #EXTINF:-1,group-title="Auga Seca (2020)T1",Auga Seca 1X06 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
 #EXTINF:-1,group-title="Auga Seca(2021)T2"
-#EXTINF:-1,group-title="Auga Seca(2021)T2",Auga Seca 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X01 
 acestream://3aa86fef606d7fe4d56ada18ddfd6afbee2255e3
 #EXTINF:-1,group-title="Auga Seca(2021)T2",Auga Seca 2X02 
 acestream://10809e129a4f5bef02bc1d601ed036ac75d4f266
@@ -1179,31 +1179,34 @@ acestream://e6793bb0d3a950ef9763399cae51d3e222787b8f
 #EXTINF:-1,group-title="Auga Seca(2021)T2",Auga Seca 2X08 
 acestream://a64edee245ff302b76afd60d897cd6c39f4162fb
 #EXTINF:-1,group-title="Cuento de Navidad(2019)"
-#EXTINF:-1,group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/11/10/04/1994986.jpg"group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X01 
 acestream://aaa8b7846989c70faf67481e48082a80ad85a2ea
-#EXTINF:-1,group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/11/10/04/1994986.jpg"group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X02 
 acestream://aaa8b7846989c70faf67481e48082a80ad85a2ea
-#EXTINF:-1,group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/11/10/04/1994986.jpg"group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X03 
 acestream://da8fdbae5db53f9e86db94af307e6a7acbd6c9c8
 #EXTINF:-1,group-title="Mar de la tranquilidad(2021)"
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X01 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X01 
 acestream://43c8790dac6cae13284258eb341e116c26f48aa2
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X02 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X02 
 acestream://e7c202cd7fb660d722f6f4af2617994751b57620
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X03 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X03 
 acestream://c6151470944cb1c489ddeda61aade791ac867153
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X04 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X04 
 acestream://983f42aeff90f8bfef849ff7ebeb7714419320ed 
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X05 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X05 
 acestream://daba1aa2f168f2987256c7d06ab93108d2a64bbc
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X06 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X06 
 acestream://967871d23dbf18e6c7a1bb096f88d231a7e17946
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X07 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X07 
 acestream://52d1ceb2504b79d70f38b6379cdf2b4f01567ed7
-#EXTINF:-1,group-title="Mar de la tranquilidad(2021)",Mar de 1X08 
+#EXTINF:-1,tvg-logo="https://i.blogs.es/6579de/mar-de-la-tranquilidad-cartel/450_1000.jpeg"group-title="Mar de la tranquilidad(2021)",Mar de 1X08 
 acestream://ace5b51174ef5d896801bdfb7768a169c58e0d90
 #EXTINF:-1,group-title="Estación once(2021)"
-#EXTINF:-1,group-title="Estación once(2021)",Estación once 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/03/10/36/5987829.jpg"
+
+
+group-title="Estación once(2021)",Estación once 1X01 
 acestream://0d218a7692ae0f16aa16215c8d795c6f3cefc870
 #EXTINF:-1,group-title="Estación once(2021)",Estación once 1X02 
 acestream://23d814ed31c1e1a6942de3fa2af6e24e1fb7de14
@@ -1224,18 +1227,18 @@ acestream://bcbf883050c59c9adcc8316c31a3a109a8645a8a
 #EXTINF:-1,group-title="Estación once(2021)",Estación once 1X10 
 acestream://fa6da40c73780bf1a9e710809b8238de8c0f5cc1
 #EXTINF:-1,group-title="La fuga(2019)"
-#EXTINF:-1,group-title="La fuga(2019)",La fuga 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X01 
 acestream://3d3a1f43a340ca36ee35420512d0ed8a71f19618
-#EXTINF:-1,group-title="La fuga(2019)",La fuga 1X02
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X02
 acestream://3d3a1f43a340ca36ee35420512d0ed8a71f19618
-#EXTINF:-1,group-title="La fuga(2019)",La fuga 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X03 
 acestream://3d3a1f43a340ca36ee35420512d0ed8a71f19618
-#EXTINF:-1,group-title="La fuga(2019)",La fuga 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X04 
 acestream://48c18ae1de6fbe7200508416be34bd00d1fef0bf
-#EXTINF:-1,group-title="La fuga(2019)",La fuga 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X05 
 acestream://48c18ae1de6fbe7200508416be34bd00d1fef0bf
 #EXTINF:-1,group-title="The Witcher(2019)T1"
-#EXTINF:-1,group-title="The Witcher(2019)T1",The Witcher 1X01 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X01 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
 #EXTINF:-1,group-title="The Witcher(2019)T1",The Witcher 1X02 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
@@ -1252,7 +1255,7 @@ acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
 #EXTINF:-1,group-title="The Witcher(2019)T1",The Witcher 1X08 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
 #EXTINF:-1,group-title="The Witcher(2021)T2"
-#EXTINF:-1,group-title="The Witcher(2021)T2",The Witcher 2X01 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X01 
 acestream://b7f4458986f673cb9b882717e4e46d41023e7080
 #EXTINF:-1,group-title="The Witcher(2021)T2",The Witcher 2X02 
 acestream://d875435ca0f98623a6741928d8ce6894f419ca52
@@ -1269,125 +1272,125 @@ acestream://359da48e4cf899db2dbf4075b86536cf7c0b3e00
 #EXTINF:-1,group-title="The Witcher(2021)T2",The Witcher 2X08 
 acestream://daa3b46c84e85e8229cb538f494a4b618f81bc40
 #EXTINF:-1,group-title="Los protegidos: El regreso(2021)"
-#EXTINF:-1,group-title="Los protegidos: El regreso(2021)",Los protegidos 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X01 
 acestream://1ac614d1519e16fe406a07cae47929e6071ce450
-#EXTINF:-1,group-title="Los protegidos: El regreso(2021)",Los protegidos 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X02 
 acestream://48c554d4b73b5ee199b03cda9d4b66dcf4df0928 
-#EXTINF:-1,group-title="Los protegidos: El regreso(2021)",Los protegidos 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X03 
 acestream://0aeb19ecb53096b751ef68b183d2d33d32b717ec
-#EXTINF:-1,group-title="Los protegidos: El regreso(2021)",Los protegidos 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X04 
 acestream://6bfd5a759e113ef37adbe557d67f8dc39376a395
-#EXTINF:-1,group-title="Los protegidos: El regreso(2021)",Los protegidos 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X05 
 acestream://
 #EXTINF:-1,group-title="Los Policias(2021)"
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X01 
 acestream://cf8de203d07fee7022920a126d92509c7e0f375d
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X02 
 acestream://cf8de203d07fee7022920a126d92509c7e0f375d
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X03 
 acestream://cf8de203d07fee7022920a126d92509c7e0f375d
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X04 
 acestream://cf8de203d07fee7022920a126d92509c7e0f375d
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X05 
 acestream://f7f7dabd642e176e8bfbe6bd98c5d9935c185f33 
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X06 
 acestream://f7f7dabd642e176e8bfbe6bd98c5d9935c185f33
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X07 
 acestream://f7f7dabd642e176e8bfbe6bd98c5d9935c185f33
-#EXTINF:-1,group-title="Los Policias(2021)",Los Policias 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/15/26/5998377.jpg"group-title="Los Policias(2021)",Los Policias 1X08 
 acestream://f7f7dabd642e176e8bfbe6bd98c5d9935c185f33
 #EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)"
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X01 
 acestream://f24e9c4f408b61fe7f943d6c43d697e0f91752c0
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X02 
 acestream://f24e9c4f408b61fe7f943d6c43d697e0f91752c0
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X03 
 acestream://b444d025194b68bdc5fb4ae8a0b2442f5207efea
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X04 
 acestream://b444d025194b68bdc5fb4ae8a0b2442f5207efea
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X05 
 acestream://0bf80d95d4e2298256c2ed77083167ee0868298b
-#EXTINF:-1,group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X06 
 acestream://0bf80d95d4e2298256c2ed77083167ee0868298b
 #EXTINF:-1,group-title="The Hot Zone(2019)T1
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X01
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X01
 acestream://e6432b934f135f3be1cda8973daf7a5dbf026574
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X02 
 acestream://323a52e4a8915d1109a8f40055ca276898b6b3fb
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X03 
 acestream://48db0819dd90556a2b76e4470bc5cf5e73ac8c86
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X04 
 acestream://48db0819dd90556a2b76e4470bc5cf5e73ac8c86
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X05 
 acestream://8697871331c6129c25252b780ba6bf39bee9bf2c
-#EXTINF:-1,group-title="The Hot Zone(2019)T1",The Hot1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X06 
 acestream://44e43362eb508e46682aa16a6a516f0dc88a8b11
 #EXTINF:-1,group-title="The Hot Zone(2021)T2"
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X01 
 acestream://e63030a5fcbd6fd2dd3ff7771a745748770d942b
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X02 
 acestream://d669ccb4ddc23e01e867f0d42302bc753deda0e8
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X03 
 acestream://0e52fd1e19feb6ea31160a5b74969cba685d62d6
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X04 
 acestream://c32451670607551021c50fc1609251873d03b158
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot2X05 
 acestream://b5cc4c242852cb7d73478e87994feb09edb0a9d9
-#EXTINF:-1,group-title="The Hot Zone(2021)T2",The Hot 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X06 
 acestream://3d16fe01aaa4e6558686c0678b9038bfe0e2177b
 #EXTINF:-1,group-title="GomorraT5"
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X01 
 acestream://8bd7f4c70bbdc904808caed2d9bc8e38d0da9155
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X02 
 acestream://8bd7f4c70bbdc904808caed2d9bc8e38d0da9155
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X03 
 acestream://bcf238404a044d4ed52c117ccd457672a2bbfb50
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X04 
 acestream://bcf238404a044d4ed52c117ccd457672a2bbfb50
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X05 
 acestream://c1b05b431a619404016b15b4910ae02161e6fb07
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X06 
 acestream://b2d64c984e35a01d691c7361bee8cc698ece90de
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X07 
 acestream://3ba35078a2ee7d9d1f775f7227776c4c9222d4c1
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X08 
 acestream://afb566c7dbd976d4823a0c7bef9cda1351d6a940
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X09 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X09 
 acestream://d16a5dc8b9f9e49a261d00bce85cd2732bd23494 
-#EXTINF:-1,group-title="GomorraT5",Gomorra 5X10 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X10 
 acestream://8633fc15e66026096e4b4b2e7b6d28c7c20ce2dd
 #EXTINF:-1,group-title="La Casa de PapelT5"
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X01 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X02 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X03 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X04 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X05 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X06 
 acestream://fe0fce6ae1a7248bea51a2f216ac88f4c2184b37
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X07 
 acestream://167270d7ba71f7b8a0c56b8739ba0d376488f2e1
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X08 
 acestream://ea9128f893eead636eb4fefe43652f9d6877023b
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X09 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X09 
 acestream://2bf86185bd1fef5652b98630fdd2d872e639aba8 
-#EXTINF:-1,group-title="La Casa de PapelT5",La Casa 5X10 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X10 
 acestream://7af4ac117b93146a09b9df080d1255ce5efa71dd
 #EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)"
-#EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X01 
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X01 
 acestream://8c09b3e27333524ada3b48877901bd0e424b1bc7
-#EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X02 
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X02 
 acestream://b4e78deec031eefa6db648def70993582c3e491e
-#EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X03 
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X03 
 acestream://47d48ff75f70103c7fc665e47adb5b48ad7e94a3
-#EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X04 
+#EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X04 
 acestream://324182545686b5330da4378578e56a0935e56e58
 #EXTINF:-1,group-title="Moebius(2021)"
-#EXTINF:-1,group-title="Moebius(2021)",Moebius 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/83/25/20429989.jpg"group-title="Moebius(2021)",Moebius 1X01 
 acestream://29a47811866cc6994ef583439331e19cf8910a47
 #EXTINF:-1,group-title="Moebius(2021)",Moebius 1X02 
 acestream://29a47811866cc6994ef583439331e19cf8910a47
@@ -1408,7 +1411,7 @@ acestream://40af5fdcd6bf0ccde98cc236d2ce40374bca69cd
 #EXTINF:-1,group-title="Moebius(2021)",Moebius 1X10 
 acestream://40af5fdcd6bf0ccde98cc236d2ce40374bca69cd
 #EXTINF:-1,group-title="Cowboy Bebop(2021)"
-#EXTINF:-1,group-title="Cowboy Bebop(2021)",Cowboy Bebop 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/01/44/3800746.jpg"group-title="Cowboy Bebop(2021)",Cowboy Bebop 1X01 
 acestream://bc7d64497707ab77904195c7401f3eb49efe74d6
 #EXTINF:-1,group-title="Cowboy Bebop(2021)",Cowboy Bebop 1X02 
 acestream://73b23bef427c64c06a7fcf227d436531a958037b
@@ -1429,7 +1432,7 @@ acestream://7a853f8748bebc7e2f8bdc69cafe252b12d72c16
 #EXTINF:-1,group-title="Cowboy Bebop(2021)",Cowboy Bebop 1X10 
 acestream://7a853f8748bebc7e2f8bdc69cafe252b12d72c16
 #EXTINF:-1,group-title="Blade Runner: El Loto Negro(2021)"
-#EXTINF:-1,group-title="Blade Runner: El Loto Negro(2021)",Blade Runner 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/06/08/10/2368021.jpg"group-title="Blade Runner: El Loto Negro(2021)",Blade Runner 1X01 
 acestream://9ede5a3316b200bac5b2b9b39ddd177def3b5569
 #EXTINF:-1,group-title="Blade Runner: El Loto Negro(2021)",Blade Runner 1X02 
 acestream://a3966b425ddd602920fb332af838f2d9fc16ce02
@@ -1456,7 +1459,7 @@ acestream://857521a4bd94f1b2a463b193cbd9b3dd51fd0798
 #EXTINF:-1,group-title="Blade Runner: El Loto Negro(2021)",Blade Runner 1X13 
 acestream://a1eb22d941cf01707bffb65bf6b6833f1e2f9b96
 #EXTINF:-1,group-title="Possessions(2020)"
-#EXTINF:-1,group-title="Possessions(2020)",Possessions 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/20/09/58/1125474.jpg"group-title="Possessions(2020)",Possessions 1X01 
 acestream://592c0eee973781963616addd5b8868ef9b10b836
 #EXTINF:-1,group-title="Possessions(2020)",Possessions 1X02 
 acestream://592c0eee973781963616addd5b8868ef9b10b836
@@ -1469,7 +1472,7 @@ acestream://be83080828abb2e58b6cb83ac3476f34f39a40fe
 #EXTINF:-1,group-title="Possessions(2020)",Possessions 1X06 
 acestream://be83080828abb2e58b6cb83ac3476f34f39a40fe
 #EXTINF:-1,group-title="Un caso francés(2021)"
-#EXTINF:-1,group-title="Un caso francés(2021)",Un caso 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/21/15/40/1111156.jpg"group-title="Un caso francés(2021)",Un caso 1X01 
 acestream://a829f62f168a1e2aeae7a3b1678ff0e03cacdbc2
 #EXTINF:-1,group-title="Un caso francés(2021)",Un caso 1X02 
 acestream://78438925f5b865dea01658f799b3b9a8e589a419
@@ -1482,7 +1485,7 @@ acestream://4e20f2183fc014e249377b388964eddcda16e92f
 #EXTINF:-1,group-title="Un caso francés(2021)",Un caso 1X06 
 acestream://9e1c264ceceac9f12ab16052eb0597cbc0ef9bf2
 #EXTINF:-1,group-title="Partidista(2020)" 
-#EXTINF:-1,group-title="Partidista(2020)",Partidista 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/02/11/17/2970680.jpg"group-title="Partidista(2020)",Partidista 1X01 
 acestream://96084a74624b78199415ca531dfb107dada1e10c
 #EXTINF:-1,group-title="Partidista(2020)",Partidista 1X02 
 acestream://ef429afa54282b20617e090b6345200b593b2b38
@@ -1503,16 +1506,16 @@ acestream://
 #EXTINF:-1,group-title="Partidista(2020)",Partidista 1X10 
 acestream://
 #EXTINF:-1,group-title="Seduciendo a un asesino(Deceit)(2021)" 
-#EXTINF:-1,group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/09/16/09/2214289.jpg"group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X01 
 acestream://5be7fce706bcf7f9cfae98e8815c93af9ace36bc
-#EXTINF:-1,group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/09/16/09/2214289.jpg"group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X02 
 acestream://5be7fce706bcf7f9cfae98e8815c93af9ace36bc
-#EXTINF:-1,group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/09/16/09/2214289.jpg"group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X03 
 acestream://21ac45ba0bcd55286a8aca1a4ff1da61bab031ca
-#EXTINF:-1,group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/09/16/09/2214289.jpg"group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X04 
 acestream://21ac45ba0bcd55286a8aca1a4ff1da61bab031ca
 #EXTINF:-1,group-title="Vienna Blood(2019)T1"
-#EXTINF:-1,group-title="Vienna Blood(2019)T1",Vienna 1X01 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X01 
 acestream://f2b9d47b516e9641e3f86e560e41690e499e8faf
 #EXTINF:-1,group-title="Vienna Blood(2019)T1",Vienna 1X02 
 acestream://8713de5a913fd6dfca45fd3f17b8d873b19c781e
@@ -1525,7 +1528,7 @@ acestream://378f9df4b820aba65a91ccefa9c23c9a909ac05c
 #EXTINF:-1,group-title="Vienna Blood(2019)T1",Vienna 1X06 
 acestream://2e8f0a33b694799cca143cd0680f2d45a4a1310e
 #EXTINF:-1,group-title="Vienna Blood(2021)T2"
-#EXTINF:-1,group-title="Vienna Blood(2021)T2",Vienna 2X01 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X01 
 acestream://88a458573d060fc67c19d54651a2734c226150c4
 #EXTINF:-1,group-title="Vienna Blood(2021)T2",Vienna 2X02 
 acestream://c6c6eed820bbc4777b04c2dc88709486ecbfafc6
@@ -1538,125 +1541,123 @@ acestream://
 #EXTINF:-1,group-title="Vienna Blood(2021)T2",Vienna 2X06 
 acestream://
 #EXTINF:-1,group-title="Elfos(2021)"
-Elfos(2021)
-Elfos(2021)1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X01
 acestream://21ee44191bdd3ba866155e9c0858cd45a9df793e
-Elfos(2021)1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X02
 acestream://21ee44191bdd3ba866155e9c0858cd45a9df793e
-Elfos(2021)1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X03
 acestream://3a20386cf383dbedf73960b3e9b70c33ac2360fb
-Elfos(2021)1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X04
 acestream://3a20386cf383dbedf73960b3e9b70c33ac2360fb
-Elfos(2021)1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X05
 acestream://6f62e9f76a51d729254acfefe82ee5fc95a51428
-Elfos(2021)1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X06
 acestream://6f62e9f76a51d729254acfefe82ee5fc95a51428
 #EXTINF:-1,group-title="Una historia muy real(2021)"
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X01 
 acestream://62062ad65cb9de0afc3f25e8046868fea180d7ff
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X02 
 acestream://62062ad65cb9de0afc3f25e8046868fea180d7ff
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X03 
 acestream://62062ad65cb9de0afc3f25e8046868fea180d7ff
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X04 
 acestream://ef1d780da251704eddb3ffd2a9c0e6c08cebb482
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X05 
 acestream://ef1d780da251704eddb3ffd2a9c0e6c08cebb482
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X06 
 acestream://82d6f00a3d29dde7d64cc80c368108a924da9823
-#EXTINF:-1,group-title="Una historia muy real(2021)",Una historia 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/27/16/05/4081178.jpg"group-title="Una historia muy real(2021)",Una historia 1X07 
 acestream://82d6f00a3d29dde7d64cc80c368108a924da9823
 #EXTINF:-1,group-title="Ojo de Halcón(2021)"
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X01 
 acestream://8ba98f8b74dd8584cda922387b12e5389241f5cc
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X02 
 acestream://56b6a50780784661d6c9587307b74640fa81d40b
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X03 
 acestream://5d164dbdcd2ed6fcf6768e2a2685bba4ef8a09c4
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X04 
 acestream://62b45f08047e169cf3e4f7f1587f79d96a36df7f
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X05 
 acestream://3561f67ca507105e9bdcfdc26c7a817c1ecccbb3
-#EXTINF:-1,group-title="Ojo de Halcón(2021)",Ojo de 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/26/09/18/2137099.jpg"group-title="Ojo de Halcón(2021)",Ojo de 1X06 
 acestream://4cd48aa94e2ad8e42c201ab7fb7ba9bb826a2ed8
 #EXTINF:-1,group-title="The Shrink Next Door(2021)"
-
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X01 
 acestream://e3e92940cff8299be1235f5e75bbcf609a0012f0
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X02 
 acestream://e3e92940cff8299be1235f5e75bbcf609a0012f0
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X03 
 acestream://e3e92940cff8299be1235f5e75bbcf609a0012f0
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X04 
 acestream://670d915df736e9fa0086a921ac0901965d4cd000
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X05 
 acestream://dfe1c67ea5fc0030baedf41da1cf671e98b6b4e9
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X06 
 acestream://2a67e2a323c52c9776fd19e1482de742bdbe00ba
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X07 
 acestream://37d84e99e25588c8e489b2b665b7d20ce1ba026f
-#EXTINF:-1,group-title="The Shrink Next Door(2021)",The Shrink 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/12/15/57/1676505.jpg"group-title="The Shrink Next Door(2021)",The Shrink 1X08 
 acestream://43806430bec2a775b665ffa9c2833ae0dcbd7508
 #EXTINF:-1,group-title="La rueda del tiempo(2021)"
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X01 
 acestream://3dd2ef8362e5ffb7300f41bc25108064421bdd9f
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X02 
 acestream://3dd2ef8362e5ffb7300f41bc25108064421bdd9f
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X03 
 acestream://3dd2ef8362e5ffb7300f41bc25108064421bdd9f
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X04 
 acestream://009f93efb15f74c199c9a68318c4045d6378e2c2
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X05 
 acestream://574951e0a724b748d06639795399f7380ecba919
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X06 
 acestream://fc2e4b4ed536ce6c75b5d8134ec87d5b694de339
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X07 
 acestream://77f844910511dc932fa9f4bfdf0000dbbf4233de
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X08 
 acestream://c32e013d3601129818bcc0b79e8042f7f2229b35
-#EXTINF:-1,group-title="La rueda del tiempo(2021)",La rueda 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/08/08/37/5841729.jpg"group-title="La rueda del tiempo(2021)",La rueda 1X09 
 acestream://
 #EXTINF:-1,group-title="Rumbo al infierno(2021)"
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X01 
 acestream://bf7fbb4df9b28c11f7fd8e0e6a0e51b3b36a41d6
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X02 
 acestream://bf7fbb4df9b28c11f7fd8e0e6a0e51b3b36a41d6
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X03 
 acestream://e9888b9969f9c348af26db7ce405223d2b620239
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X04 
 acestream://e9888b9969f9c348af26db7ce405223d2b620239
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X05 
 acestream://d8c1c180b1d3b6f25d7d9a8161635e465e7294bb
-#EXTINF:-1,group-title="Rumbo al infierno(2021)",Rumbo al 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/09/11/45/3875897.jpg"group-title="Rumbo al infierno(2021)",Rumbo al 1X06 
 acestream://d8c1c180b1d3b6f25d7d9a8161635e465e7294bb
 #EXTINF:-1,group-title="Anna(2021)"
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X01 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X01 
 acestream://023b993678bb987a6f27ef6c756327075094828c
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X02 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X02 
 acestream://023b993678bb987a6f27ef6c756327075094828c
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X03 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X03 
 acestream://56dbb15ad6d0d798b6d132a282c3afbbb4c558d8
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X04 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X04 
 acestream://56dbb15ad6d0d798b6d132a282c3afbbb4c558d8
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X05 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X05 
 acestream://6ff7322ee3383726def5b9d1e98cbe875f3a5eaa
-#EXTINF:-1,group-title="Anna(2021)",Anna 1X06 
+#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X06 
 acestream://6ff7322ee3383726def5b9d1e98cbe875f3a5eaa
 #EXTINF:-1,group-title="El caso Hartung(2021)"
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X01 
 acestream://9e3dcb9c5e2ac5ca4affab5851392b430eb546fe
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X02 
 acestream://dd39b7489f026d17873f089d223a73cb99e348fd
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X03 
 acestream://dd39b7489f026d17873f089d223a73cb99e348fd
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X04 
 acestream://e820eeb57c7f5733722a204747a4b6b9fa653505
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X05 
 acestream://e820eeb57c7f5733722a204747a4b6b9fa653505
-#EXTINF:-1,group-title="El caso Hartung(2021)",El caso 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X06 
 acestream://e820eeb57c7f5733722a204747a4b6b9fa653505
 #EXTINF:-1,group-title="Mi Nombre(2021)"
-#EXTINF:-1,group-title="Mi Nombre(2021)",Mi Nombre 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/07/10/13/2218289.jpg"group-title="Mi Nombre(2021)",Mi Nombre 
 #EXTINF:-1,group-title="Mi Nombre(2021)",Mi Nombre 1X01 
 acestream://a7e4b07f9e98739bfa07962cb44b17d05a31c38e
 #EXTINF:-1,group-title="Mi Nombre(2021)",Mi Nombre 1X02 
@@ -1674,7 +1675,7 @@ acestream://1c5336623a3e32a4a226e70f1c1ebce5b0d597b1
 #EXTINF:-1,group-title="Mi Nombre(2021)",Mi Nombre 1X08 
 acestream://1c5336623a3e32a4a226e70f1c1ebce5b0d597b1
 #EXTINF:-1,group-title="Chapelwaite(2021)"
-#EXTINF:-1,group-title="Chapelwaite(2021)",Chapelwaite 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/07/19/06/03/4186605.jpg"group-title="Chapelwaite(2021)",Chapelwaite 1X01 
 acestream://ea978752b6cd78125a6a32558d18d74b5dba52fd
 #EXTINF:-1,group-title="Chapelwaite(2021)",Chapelwaite 1X02 
 acestream://d3f587b50b2da97209633c56efb54e3e4a6c1515
@@ -1695,7 +1696,7 @@ acestream://daf2b09e2c2387665162d37970a559de8e67d7ff
 #EXTINF:-1,group-title="Chapelwaite(2021)",Chapelwaite 1X10 
 acestream://daf2b09e2c2387665162d37970a559de8e67d7ff
 #EXTINF:-1,group-title="Yellowjackets(2021)"
-#EXTINF:-1,group-title="Yellowjackets(2021)",Yellowjackets 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/04/22/21/0635607.jpg"group-title="Yellowjackets(2021)",Yellowjackets 1X01 
 acestream://b9fd704e4c85ed6c1eed22acebb68345ee66861c
 #EXTINF:-1,group-title="Yellowjackets(2021)",Yellowjackets 1X02 
 acestream://e3e7f76e8fde82743107088e9d61e2c67de35064
@@ -1716,7 +1717,7 @@ acestream://56366849b9f8816b2a7435d259ec1f19299bd3b8
 #EXTINF:-1,group-title="Yellowjackets(2021)",Yellowjackets 1X10 
 acestream://56432902dbd45d89fd97072eb3fa21b6e274e6a2
 #EXTINF:-1,group-title="Hightown(2020)"
-#EXTINF:-1,group-title="Hightown(2020)",Hightown 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X01 
 acestream://14b85850a61eda2c9af8c42b63fa78b7a2240918
 #EXTINF:-1,group-title="Hightown(2020)",Hightown 1X02 
 acestream://389a533c7e2fe4f21ce35749701ff30d495ce969
@@ -1733,7 +1734,7 @@ acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
 #EXTINF:-1,group-title="Hightown(2020)",Hightown 1X08 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
 #EXTINF:-1,group-title="Hightown(2021)"
-#EXTINF:-1,group-title="Hightown(2021)",Hightown 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X01 
 acestream://70a596c8a0b82fc070b79d946668a0f939ad723a
 #EXTINF:-1,group-title="Hightown(2021)",Hightown 2X02 
 acestream://389e3f80eac1d555d8171c4709512619b2106f74
@@ -1754,7 +1755,7 @@ acestream://148f5284c99149c7507ce5b89768d11478240e96
 #EXTINF:-1,group-title="Hightown(2021)",Hightown 2X10 
 acestream://c0e354bbe2dcb050c18a6ad4184d03dfeaadeb7a
 #EXTINF:-1,group-title="Cheyenne y Lola(2020)"
-#EXTINF:-1,group-title="Cheyenne y Lola(2020)",Cheyenne 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/18/14/41/0272009.jpg"group-title="Cheyenne y Lola(2020)",Cheyenne 1X01 
 acestream://7ffa6f442297d3a974d430c0513e345175df0c7d
 #EXTINF:-1,group-title="Cheyenne y Lola(2020)",Cheyenne 1X02 
 acestream://fb1b254cdc47a221334d704d1dfdc09be99fef1e
@@ -1771,17 +1772,17 @@ acestream://757a9346eca0c08aacb79fe69947d8018d715982
 #EXTINF:-1,group-title="Cheyenne y Lola(2020)",Cheyenne 1X08 
 acestream://1704361f0d227d1542b75257a5338e359911359a
 #EXTINF:-1,group-title="Cardo(2021)"
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X01 
 acestream://4424f683963ce8743c4b6369378c2be35d627a83
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X02 
 acestream://5633eade7a65064daa2c7dd6b916495a60f531d1
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X03 
 acestream://c247ef67494538bab2a6b2b8e7465a7ae7736cbf
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X04 
 acestream://0caa02b51b97dc9bb36fc2268422239141a578e6
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X05 
 acestream://a7c759f71caa4244de801e95ce8e5eabfe0c84fe
-#EXTINF:-1,group-title="Cardo(2021)",Cardo(2021) 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/02/25/16/27/3106676.jpg"group-title="Cardo(2021)",Cardo(2021) 1X06 
 acestream://90c9438ebe07c7bf0638f186b8d33df5267b8bbd
 #EXTINF:-1,group-title="Dexter: New Blood(2021)"
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X01 
@@ -1804,6 +1805,14 @@ acestream://11c7afd23a834182ace83042c6c24782c6c59ed3
 acestream://a45f3107f4dd5ef7a6ea064cd142cf5f68523afc 
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/188089/view"group-title="Dexter: New Blood(2021)",Dexter 1X10 
 acestream://2f4dc65afd587c4c434a52f46116ea1052bd1d14
+
+
+
+
+
+
+
+ 
 
 
 
