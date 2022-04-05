@@ -1891,25 +1891,25 @@ acestream://55f464c27f8d15025004e9b6b7e8f14ca9342668
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/08/09/35/0262976.jpg"group-title="Historias para no dormir(2021)",Historias 1X04 
 acestream://55f464c27f8d15025004e9b6b7e8f14ca9342668
 #EXTINF:-1,group-title="Maradona: Sueño bendito(2021)"
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X01 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X02 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X03 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X04 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X05 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X06 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X07 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X08 
 acestream://f67783802c9e639d735ef0b3cadea6b1f0afddf2
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X09 
 acestream://4ee098fdf705baff0798ae2de43bfac2c7ef6870 
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X10 
 acestream://1374410e5a0a87fdf1bf78c22ac5371c597faed6
 #EXTINF:-1,group-title="Juda-T1"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X01 
