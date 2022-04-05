@@ -771,61 +771,61 @@ acestream://23f4d5079d7e75cb81583b1c39f2dc4e2ce7dbe5
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/14/34/0904995.jpg"group-title="La chica de la limpieza(2022)",La chica 1x10 
 acestream://bb793233e8806b7351ec21ed0997e5ab9adc
 #EXTINF:-1,group-title="SurrealEstate(2021)"
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X01 
 acestream://c2929e8d1fa5ee50bd62a429ee5f9caf66f3f776
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X02 
 acestream://4502151c3efb8fcf54f33476e02908f8fe4ea49a
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X03 
 acestream://218556df0daafd01a757b7e922b90b86b1cce04a
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X04 
 acestream://57db56be8e35fae217d678a3e7186f05178279f3
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X05 
 acestream://2a1bd84e298a698944f060ad8436d56b7bc709d0
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X06 
 acestream://87e75decb8dfa9ac90760ac6628f0d504f156715
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X07 
 acestream://7bac293729784d89e2a259765135fd169a06056a
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X08 
 acestream://2cca48c3357960cd12c0e81c050801de9e0d0f8f
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X09 
 acestream://96ae366bbb73219152bec01fad5ed7a7aff82ab4
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X10 
 acestream://fa498d62bdc8c52f61a89dea7338206db618623a
 #EXTINF:-1,group-title="The Wall(La Faille)(2019)T1"
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X01 
 acestream://b316625d149d43067b5992b6198786ab8650e88e
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X02 
 acestream://5bf1b650d3f6cc5ef02e29f5a051845a0fc1ff2b
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X03 
 acestream://7b1413a4b43c802b3694a962fcc0b98dc58210db
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X04 
 acestream://6cac8346ebc4b9b136fe250dc4c37f1b11f98c67
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X05 
 acestream://0c7f077152ed51757690e33c4c5d6b208fe63b6a
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X06 
 acestream://04872c73b0b981eafb93b32030ca2861e592d2a5
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X07 
 acestream://ba77f38999e431db1ed6d7ded24f9b2f6c921b18
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X08 
 acestream://ed3476176b79251773a71006416f9b750de86b1f
 #EXTINF:-1,group-title="The Wall(La Faille)(2021)T2"
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X01 
 acestream://501ce6f6704822fc92855d016a032d3c8403399f
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X02 
 acestream://20fff137badffb1ba32663827c3f2dece5bc24f4
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X03 
 acestream://46cb05738da3ebf661779f0bd0ba6fcdb8381ae5
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X04 
 acestream://fa1a60e125693c3253d953f0a7d7ad9329d8b30c
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X05 
 acestream://01991f416ac4ce9c1df490622e8fe3aea5bb4b4b
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X06 
 acestream://c8e6f5ecfa3b4a48b9bb37eb8b56431d91737a3b
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X07 
 acestream://169384c58bf676bde2dd7ec2a7ad7ef6f7cb32dc
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X08 
 acestream://d587ba8bdfdd1877b22493bed89ae712772a6cf2
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X09 
 acestream://56ce8732b90dbcaad823cf772862b65abc21c5cc
 #EXTINF:-1,group-title="Chucky(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X01 
@@ -1638,7 +1638,7 @@ acestream://56dbb15ad6d0d798b6d132a282c3afbbb4c558d8
 acestream://56dbb15ad6d0d798b6d132a282c3afbbb4c558d8
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X05 
 acestream://6ff7322ee3383726def5b9d1e98cbe875f3a5eaa
-#EXTINF:-1,tvg-logo="tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/18/13/06/3893018.jpg"group-title="Anna(2021)",Anna 1X06 
 acestream://6ff7322ee3383726def5b9d1e98cbe875f3a5eaa
 #EXTINF:-1,group-title="El caso Hartung(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/12/17/51/2610881.jpg"group-title="El caso Hartung(2021)",El caso 1X01 
@@ -1891,11 +1891,11 @@ acestream://55f464c27f8d15025004e9b6b7e8f14ca9342668
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/08/09/35/0262976.jpg"group-title="Historias para no dormir(2021)",Historias 1X04 
 acestream://55f464c27f8d15025004e9b6b7e8f14ca9342668
 #EXTINF:-1,group-title="Maradona: Sueño bendito(2021)"
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X01 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X01 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X02 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X02 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X03 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X03 
 acestream://c3c0877818616d1a25b5154432207fc477a32afb
 #EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X04 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
@@ -1905,11 +1905,11 @@ acestream://b3aafab6b416e2f1439bf2770394e8824d162556
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
 #EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X07 
 acestream://b3aafab6b416e2f1439bf2770394e8824d162556
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X08 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X08 
 acestream://f67783802c9e639d735ef0b3cadea6b1f0afddf2
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X09 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X09 
 acestream://4ee098fdf705baff0798ae2de43bfac2c7ef6870 
-#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpggroup-title="Maradona: Sueño bendito(2021)",Maradona 1X10 
+#EXTINF:-1,https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X10 
 acestream://1374410e5a0a87fdf1bf78c22ac5371c597faed6
 #EXTINF:-1,group-title="Juda-T1"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X01 
@@ -2078,6 +2078,24 @@ acestream://dab45c1e3eee01cc71370f3ceca71e11232c9198
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/31/11/44/0716901.jpg"group-title="Vigil: conspiración nuclear(2021)",Vigil: 1X06 
 acestream://c381b60ba031aabda6abcbfa4c941af93cf77e0f
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
