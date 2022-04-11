@@ -28,7 +28,7 @@ acestream://08e12c6c3c1d4f5efe7e995fa520e84f3a94d682
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X05 
 acestream://fae62037604861019c34b36598bb58713af332cc
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X06 
-acestream://
+acestream://9f68bd43451bd329606a52aa940e60a9f5341403
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X07 
 acestream://
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X08 
@@ -37,7 +37,7 @@ acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X01 
 acestream://252b8131b515e6ef03b72e350259bff9c17aee2d
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X02 
-acestream://
+acestream://a082fe769d2f914aa4f1c0d94c20bba4d491b1e9
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X03 
 acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X04 
@@ -52,7 +52,7 @@ acestream://6a97154b85be51e0dd314469460a2fa8ff35f673
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X02 
 acestream://c1fa37ed2a0dfa9730a924e73b0ec87c4bb86536
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X03 
-acestream://
+acestream://dd200097b7bedafa7a54cdad81c0ddf811b3f8b8
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X04 
 acestream://
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X05 
@@ -75,9 +75,9 @@ acestream://3917d62aa749c5bb9c401721ff5c69a7354d4bf9
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X02 
 acestream://5c93b893abb119b52e6b0cec3cc61fd91f1312f1
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X03 
-acestream://
+acestream://1da5694feca8509e4da279d31f2cb1bca4b23930
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X04 
-acestream://
+acestream://2633375140603c29ceac03b9b11e439b813873ce
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X06 
@@ -99,6 +99,8 @@ acestream://91693c7c0668f006606d314d4590c71c20286ad7
 acestream://f50f22408ea2fa4be57508d36cc229635b827e47
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X08 
 acestream://f5b11ddc6533422ecfbb728457684eaea8223d3d
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X09 
+acestream://9436212c2c62e165e27d3b79d446308a82feed06
 #EXTINF:-1,group-title="800 metros(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/03/10/11/40/5923131.jpg"group-title="800 metros(2022)",800 1X01 
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
@@ -116,7 +118,7 @@ acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X04
 acestream://680ec51ea039fe0bebd90c8672096dbe13f97f5c
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X05
-acestream://
+acestream://a87579ad21176ce12fa104e1995c7398be0980bd
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X06
 acestream://
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X07
@@ -144,7 +146,7 @@ acestream://86e7316252e59f1ce3f2ba93e7f65b372bbbface
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X01 
 acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X02 
-acestream://
+acestream://5a34447c245f9d648f76af3c69f349128a7061d2
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X03 
 acestream://
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X04 
