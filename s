@@ -268,15 +268,11 @@ acestream://e43afc18d15e9de0096f8391f66d1906623f2c88
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X03 
 acestream://c3bb248b327041602e4d4cb37d74d6160bea5c36
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X04 
-acestream://
+acestream://f10a7dae4e54ca0e556efda9a78954e4ced1d1df
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X05 
-acestream://
+acestream://834bef33d1c11c74ac207a437a6c16f3420fd403
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X06 
-acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X07 
-acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X08 
-acestream://
+acestream://c7c91a3ca5080a030a92dd977b443f277a61df9d
 #EXTINF:-1,group-title="DMZ(2022)"
 #EXTINF:-1,tvg-logo="https://theposterdb.com/api/assets/220344/view"group-title="DMZ(2022)",DMZ 1X01 
 acestream://57d8a0149a269edd6857f2b83d752b4575155b13
