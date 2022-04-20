@@ -1,13 +1,14 @@
 #EXTM3U
 #EXTINF:-1,group-title"Showtrial(2021)"
-#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X01 acestream://1bb681010277d481a0850cb7a174231268966153
-#EXTINF:-1,group-title"Showtrial(2021)",1X02 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X01 
+acestream://1bb681010277d481a0850cb7a174231268966153
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X02 
 acestream://
-#EXTINF:-1,group-title"Showtrial(2021)",1X03 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X03 
 acestream://
-#EXTINF:-1,group-title"Showtrial(2021)",1X04
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X04
 acestream://
-#EXTINF:-1,group-title"Showtrial(2021)",1X05 
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X05 
 acestream://
 #EXTINF:-1,group-title="La Brea(2021)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmM2ZkN2MtYWQyMS00OTM3LWEyMzAtNGUxZDljZTA1ZjczXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg"group-title="La Brea(2021)",1X01 
@@ -71,15 +72,15 @@ acestream://a45daceb1c43c62b2543bcfae6481365d47468f9
 acestream://f4e7e586d5f94ba240744ae24e86eb35e484bb99
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X03 
 acestream://0968fb866798a834660625cef39dc0503584e5d3
-#EXTINF:-1,group-title"Tokyo Vice(2022)",1X04
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X04
 acestream://
-#EXTINF:-1,group-title"Tokyo Vice(2022)",1X05 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X05 
 acestream://
-#EXTINF:-1,group-title"Tokyo Vice(2022)",1X06 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X06 
 acestream://
-#EXTINF:-1,group-title"Tokyo Vice(2022)",1X07
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X07
 acestream://
-#EXTINF:-1,group-title"Tokyo Vice(2022)",1X08 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X08 
 acestream://
 #EXTINF:-1,group-title"Dalgliesh(2021)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3YTU5YWYtZjgyMy00YzZmLWE5ODQtNmY3NDIxNTY2ZDRiXkEyXkFqcGdeQXVyMTMyMDM0ODk3._V1_FMjpg_UX1000_.jpg"group-title"Dalgliesh(2021)",1X01 
@@ -2183,64 +2184,3 @@ acestream://e45e64267d7365319de47dfe8cd6ebb880697f5b
 acestream://dab45c1e3eee01cc71370f3ceca71e11232c9198                                                                     
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/31/11/44/0716901.jpg"group-title="Vigil: conspiración nuclear(2021)",Vigil: 1X06 
 acestream://c381b60ba031aabda6abcbfa4c941af93cf77e0f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
