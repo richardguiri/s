@@ -54,17 +54,17 @@ acestream://a28521d8ee495758281cdeea7c32611dac7686bd
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X02 
 acestream://74a5e3a463365651bd67eb77de7773b0d009be73
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpggroup-title"Outer Range(2022)"",1X03
- 
+acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X04
- 
+acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X05
- 
+acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X06
- 
+acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X07
- 
+acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X08
-
+acestream://
 #EXTINF:-1,group-title"Tokyo Vice(2022)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X01 
 acestream://a45daceb1c43c62b2543bcfae6481365d47468f9
