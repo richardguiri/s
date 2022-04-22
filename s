@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1,group-title"Showtrial(2021)"
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X01 
+acestream://1bb681010277d481a0850cb7a174231268966153
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X02 
+acestream://
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X03 
+acestream://
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X04
+acestream://
+#EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X05 
+acestream://
 #EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2" 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X01 
 acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
