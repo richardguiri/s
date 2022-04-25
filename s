@@ -1,15 +1,61 @@
 #EXTM3U
+
+#EXTINF:-1,group-title="The Newsreader(2021)"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)"1X01 
+acestream://f5d2d68ba000e151ef7bbf4a9a353cde7b841a7f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)",1X02 
+acestream://3a42cbdad19962e79c4d65743e824feaa0c1d429
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)",1X03 
+acestream://dfad37f9db6b9a0b0a825e1e00bcf57b6a7f8987
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)",1X04 
+acestream://36c60b168af6841264fd9ce9f5d3314be55f05f8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)",1X05 
+acestream://f47698e73e3b465966b43147bc27f95dc2bb3d46
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiZmU1MjEtMDE5My00ZGU0LTllNGQtMmMzNGE4Mzg4NDM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="The Newsreader(2021)",1X06 
+acestream://406f0d3fbf8eeea6d417b7e954a073fca308b733
+#EXTINF:-1,group-title="The Dropout auge(2022)"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X01 
+acestream://deca17326e979ce7f26958ac72c2334471788a23
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X02 
+acestream://3792965a93a94d8cd8c05091a239b4328d50918a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X03 
+acestream://76370edc72151369d411f25c9195ee908b1d2d7b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X04 
+acestream://9f58f437c9b820633f98044cefe8dd953c30f248
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X05 
+acestream://3169bc4fb7cf3fe13a2ca7f4d38dc5a22d1d866c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X06 
+acestream://ad37630f2a946833b243e152d21a6949d8315904
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X07 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEzYzYzOTgtNDVhMS00NTkxLWExNGEtOTU1MjhkZWZjYWZmXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UY1200_CR90,0,630,1200_AL_.jpg",group-title="The Dropout auge(2022)",1X08 
+acestream://
+
+#EXTINF:-1,group-title="Ni una palabra(2022)"
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X01 
+acestream://1a4ce025599057deebf4885deb167e0c888dc408
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X02 
+acestream://1a4ce025599057deebf4885deb167e0c888dc408
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X03 
+acestream://1a4ce025599057deebf4885deb167e0c888dc408
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X04 
+acestream://f254994b16640ae652f828a954c76b995517c735
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X05 
+acestream://df6811950168b64e3c1dff4cbcdc0f4bd5814c56
+#EXTINF:-1,group-title="Ni una palabra(2022)",1X06 
+acestream://99c8101de26ea20b6ab26e89054e158c81149f48
 #EXTINF:-1,group-title"Showtrial(2021)"
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X01 
 acestream://1bb681010277d481a0850cb7a174231268966153
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X02 
-acestream://
+acestream://a5e1821c972ddc8b83d5561d5c4a2e5f3188c0cb
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X03 
 acestream://
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X04
 acestream://
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/ypQEVKWDFaJ4EkCd1qvZDYwvoW.jpg"group-title"Showtrial(2021)",1X05 
 acestream://
+
 #EXTINF:-1,group-title="La Brea(2021)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmM2ZkN2MtYWQyMS00OTM3LWEyMzAtNGUxZDljZTA1ZjczXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg"group-title="La Brea(2021)",1X01 
 acestream://6a42f3b877fac4645cea84ecde06924250015ba3
@@ -31,6 +77,7 @@ acestream://ad219021408ea49f0b0ea1c9c287bd7deb855fe5
 acestream://cf6ae147f12966c69485c6f8e36d0b5c2411380b 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmM2ZkN2MtYWQyMS00OTM3LWEyMzAtNGUxZDljZTA1ZjczXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg"group-title="La Brea(2021)",1X10 
 acestream://abdd253754472360df0e5d79fc70ff57f98bb812
+
 #EXTINF:-1,group-title="Los herederos de la tierra(2022)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JiY2M0N2QtMTAwNi00NjY0LTk5MzEtY2RkMzAwNGNhNDA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_QL75_UY281_CR18,0,190,281_.jpg"group-title="Los herederos de la tierra(2022)",1X01 
 acestream://fca1368fa3dd4d082cbd36be1caf855e62d3af43
@@ -48,15 +95,16 @@ acestream://f4f4df3b800e338f077b8f3b1345e26f8823106c
 acestream://abb214da0043ec7d5b8904cdf90ebd6b9ec32ec6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JiY2M0N2QtMTAwNi00NjY0LTk5MzEtY2RkMzAwNGNhNDA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_QL75_UY281_CR18,0,190,281_.jpg"group-title="Los herederos de la tierra(2022)",1X08 
 acestream://cadb8878475fd190245359459ba13f8e838b58a1
+
 #EXTINF:-1,group-title"Outer Range(2022)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X01 
 acestream://a28521d8ee495758281cdeea7c32611dac7686bd
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X02 
 acestream://74a5e3a463365651bd67eb77de7773b0d009be73
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpggroup-title"Outer Range(2022)"",1X03
-acestream:// 
+acestream://ec7fedcb6b044bf5a4ebcd486825ac5cf33a392d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X04
-acestream:// 
+acestream://120d6e39389721cf00d180a22e2474ad71b47619 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X05
 acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X06
@@ -65,6 +113,7 @@ acestream://
 acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZjNzY2NjQtYTg1ZC00ODM5LWFkYjktN2Q1NzZkMDU1NmU1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg"group-title"Outer Range(2022)",1X08
 acestream://
+
 #EXTINF:-1,group-title"Tokyo Vice(2022)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X01 
 acestream://a45daceb1c43c62b2543bcfae6481365d47468f9
@@ -73,7 +122,7 @@ acestream://f4e7e586d5f94ba240744ae24e86eb35e484bb99
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X03 
 acestream://0968fb866798a834660625cef39dc0503584e5d3
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X04
-acestream://
+acestream://72168fc6d99ce4844dca25c0955ba7bc39baab89
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X06 
@@ -82,6 +131,7 @@ acestream://
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhN2Q2MDEtMzIzYS00M2EwLTlmZDItMzk5YTUzZWE0MjkwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg"group-title"Tokyo Vice(2022)",1X08 
 acestream://
+
 #EXTINF:-1,group-title"Dalgliesh(2021)"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3YTU5YWYtZjgyMy00YzZmLWE5ODQtNmY3NDIxNTY2ZDRiXkEyXkFqcGdeQXVyMTMyMDM0ODk3._V1_FMjpg_UX1000_.jpg"group-title"Dalgliesh(2021)",1X01 
 acestream://be42c7b2962d787160494580f61ece400fdbbc8c
@@ -95,19 +145,21 @@ acestream://c70f8d803d3a9426255493a141d0df12e7311b3b
 acestream://db23f962dab657ab0b6fef35d60b387543b92b4a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3YTU5YWYtZjgyMy00YzZmLWE5ODQtNmY3NDIxNTY2ZDRiXkEyXkFqcGdeQXVyMTMyMDM0ODk3._V1_FMjpg_UX1000_.jpg"group-title"Dalgliesh(2021)",1X06 
 acestream://4ac46d9270f1b22ef2fd5dea188f4a8ef90c0101
-#EXTINF:-1,group-title="The Pact (2021)"
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X01 
+
+#EXTINF:-1,group-title="The Pact(2021)"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X01 
 acestream://7a8e373b6d57863fc92a6b0af20dbcce4e6774c4
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X02 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X02 
 acestream://164cd273527d855cb905cfc1908b8a4641cefd5c
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X03 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X03 
 acestream://65ff485e6538f621db08bed11bd4cc61cb08ced3
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X04 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X04 
 acestream://6f73d4170a2c4b49e80d86af8bdb068c24712e97
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X05 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X05 
 acestream://697d2193999ec84cbba10c2d06f25b3eba0492bf
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact (2021)",1X06 
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NGZmMWUtMGVmMC00YzMxLWIwNzYtZmY3Y2E3MmFlYjFkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg"group-title="The Pact(2021)",1X06 
 acestream://e630fc2551eb880ed603cb88ded8a48919fa9998
+
 #EXTINF:-1,group-title="El internado: Las Cumbres(2022)T2" 
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X01 
 acestream://d1e2270cc49ddf205e0308eeb0712dbd00e778f6
@@ -125,6 +177,7 @@ acestream://0ef12123649a2e76dd398d0735f79a59e20bdb26
 acestream://4ceb5fe8878eb93ada5d1f8d6c037b09acbce11c
 #EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcTVqyAWkQC6WltcT7BwIEZZjlgDfkE3rdIMZOPb8Dl9SmJF14IPIsjQ2CHcLbsCTYsk&usqp=CAU"group-title="El internado: Las Cumbres(2022)T2",El internado 2X08 
 acestream://bd94bf355468e219e615377260c0508a33343bd1
+
 #EXTINF:-1,group-title="WeCrashed(2022)"
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X01 
 acestream://919c19d573609c8580946365a69de96dc2018b2f
@@ -141,7 +194,8 @@ acestream://9f68bd43451bd329606a52aa940e60a9f5341403
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X07 
 acestream://173de043661f0b2b809a1a8ee1b2eeac28431f48
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wecrashed-45264/src/wecrashed-45264-c.jpg"group-title="WeCrashed(2022)",WeCrashed 1X08 
-acestream://
+acestream://6278bdb89d44242087089ed245a2246e2fe5a042
+
 #EXTINF:-1,group-title="Caballero Luna(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X01 
 acestream://252b8131b515e6ef03b72e350259bff9c17aee2d
@@ -150,11 +204,12 @@ acestream://a082fe769d2f914aa4f1c0d94c20bba4d491b1e9
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X03 
 acestream://d97f7e129f2daac23bd2a0e30ac549bff24284c2
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X04 
-acestream://
+acestream://3cdfe7788decd15ff68c4dd5f827f3ca54ef8dbd
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/11/14/39/5697280.jpg"group-title="Caballero Luna(2022)",Caballero 1X06 
 acestream://
+
 #EXTINF:-1,group-title="Slow Horses(2022)"
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X01 
 acestream://6a97154b85be51e0dd314469460a2fa8ff35f673
@@ -165,7 +220,7 @@ acestream://dd200097b7bedafa7a54cdad81c0ddf811b3f8b8
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X04 
 acestream://e72a293f7b7039c7753bfd599d2483e03a88c277
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X05 
-acestream://
+acestream://b94886a4c25e1b5a2737159ad8f68a808b1e54e1
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X06 
 acestream://
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X07 
@@ -178,6 +233,7 @@ acestream://
 acestream://
 #EXTINF:-1,tvg-logo="https://books.boomerangbooks.com.au/Large/047/9781529394047.jpg"group-title="Slow Horses(2022)",Slow 1X11 
 acestream://
+
 #EXTINF:-1,group-title="El deshielo(2022)" 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/01/10/47/2953931.jpg"group-title="El deshielo(2022)",El deshielo 1X01 
 acestream://3917d62aa749c5bb9c401721ff5c69a7354d4bf9
@@ -210,6 +266,7 @@ acestream://f50f22408ea2fa4be57508d36cc229635b827e47
 acestream://f5b11ddc6533422ecfbb728457684eaea8223d3d
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w300/wrZjYKxObEaWZmjB7scQMYo40o8.jpg"group-title="Separación(2022)",Separación 1X09 
 acestream://9436212c2c62e165e27d3b79d446308a82feed06
+
 #EXTINF:-1,group-title="800 metros(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/03/10/11/40/5923131.jpg"group-title="800 metros(2022)",800 1X01 
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
@@ -217,6 +274,7 @@ acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/03/10/11/40/5923131.jpg"group-title="800 metros(2022)",800 1X03 
 acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
+
 #EXTINF:-1,group-title="Pachinko(2022)"
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X01
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
@@ -229,11 +287,30 @@ acestream://680ec51ea039fe0bebd90c8672096dbe13f97f5c
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X05
 acestream://a87579ad21176ce12fa104e1995c7398be0980bd
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X06
-acestream://
+acestream://8ff3b7f2406fbc8325b3d3553d8c2d18d508fb62
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X07
-acestream://
+acestream://6c682c69ffd88ea393ac728a5c5e45a3c3482419
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 1X08
 acestream://
+
+#EXTINF:-1,group-title="Entrevías(2022)T2" 
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X01 
+acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X02 
+acestream://5a34447c245f9d648f76af3c69f349128a7061d2
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X03
+acestream://c4d826d01a960e30c6580276cb6727a78ee0d80e
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X04 
+acestream://e034207993937de5001f3536b7272ba805e51abe
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X06 
+acestream://
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X07 
+acestream://
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X08 
+acestream://
+
 #EXTINF:-1,group-title="Entrevías(2022)"
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 1X01 
 acestream://76ee5622501d8daf0a44aa1dc744e4b97a7bc673
@@ -251,23 +328,6 @@ acestream://bb6fef0a9e4d3bec955afcf55a80e6aa3e618c07
 acestream://dce98182a8fb6d6ca4d628f5671e2d09a0d2587f
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 1X08
 acestream://86e7316252e59f1ce3f2ba93e7f65b372bbbface
-#EXTINF:-1,group-title="Entrevías(2022)T2" 
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X01 
-acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X02 
-acestream://5a34447c245f9d648f76af3c69f349128a7061d2
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X03
-acestream://c4d826d01a960e30c6580276cb6727a78ee0d80e
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X04 
-acestream://
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X05 
-acestream://
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X06 
-acestream://
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X07 
-acestream://
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X08 
-acestream://
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X01 
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
