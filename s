@@ -1625,6 +1625,72 @@ acestream://afb566c7dbd976d4823a0c7bef9cda1351d6a940
 acestream://d16a5dc8b9f9e49a261d00bce85cd2732bd23494 
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X10 
 acestream://8633fc15e66026096e4b4b2e7b6d28c7c20ce2dd
+#EXTINF:-1,EXTINF:-1,group-title="La casa de papel t1"
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x01
+acestream://bdf52167525777daea51bed22458b7f9e76f7684
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x02
+acestream://ed0c1f6f449db6de707b55844bdcd79ca58434da
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x03
+acestream://97efcb97a644183abdb76b2511bbb9956a92404d
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x04
+acestream://ae659821c229e93a6b9e309973f756c1a92e8ca1
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x05
+acestream://7a1136193ba24ccc2db95a9f52e95e59d793b30a
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x06
+acestream://ed4d0821c942821da1ec200f2b9cf016cf670210
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x07
+acestream://353ecae1495c9c65ce16526f3c0e0f0df7039ad5
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x08
+acestream://337f2a02ec4f8ce8b0e18b7e30c024e76e834e49
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg",EXTINF:-1,group-title="La casa de papel t1",1x09
+acestream://2f1893e9adc0145ef99a3e9abc0552ca3f844779
+#EXTINF:-1,group-title="la casa de papel t2"
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x01
+acestream://013a63bb176d1cdeb6dcd29c4ac82f5d88c4aca1
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x02
+acestream://b5e9080640d3824bbfea6f7ff1ca0db004cde193
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x03
+acestream://37ab18b12cc3d280d713057dfa73caf3a8905491
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x04
+acestream://d6a41884b0c5d97fe7560ec5a9c58cf246e415a8
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x05
+acestream://c9038cc5e9254cba82c19466cd9eabd16ba372ca
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg",group-title="la casa de papel t2",2x06
+acestream://76aced7db8588d5521ab8187394318b870c17da6
+#EXTINF:-1,group-title="la casa de papel t3"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x01
+acestream://c91ced6c5b10799923be813112ea62a4d0671ffb
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x02
+acestream://8e8f0fc1bebbfb91be899474fd793a34a7637c34
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x03
+acestream://d44a0424ae7f9a9a425660dacee63b81cf9015d7
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x04
+acestream://b094587ad4d3d2e2397f7bee658dd1f4fe2fadaf
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x05
+acestream://3ab27771e62e47e16d4aeaa2d1a19acd95f84c21
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x06
+acestream://7abd0698246215be80b761afbd01734f160306b3
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x07
+acestream://52075a4544ce9f5b31a3658e9f2af15fc98077bb
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67",group-title="la casa de papel t3",3x08
+acestream://5a1331fced7b0c7caa6cabd3953342fa94f1350e
+#EXTINF:-1,group-title="la casa de papel t4"
+#EXTINF:-1,group-title="la casa de papel t4",tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",4x01
+acestream://f42242a6058b6b90da8f1f4eb90cb752b0c07e96
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x02
+acestream://aeefed90db7b37c18788c72098f6faf1e7e89f1e
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x03
+acestream://70869f6ca06526341a0aa4d0d9b8de8b9ba0ffd5
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x04
+acestream://b5393b00c86c162b7a493c0283c411169ee1b188
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x05
+acestream://979a584480de0021197ee71a881efdbe13e3a44b
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x06
+acestream://399b360fddeebe43f86d840f47998d572b557ce1
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x07
+acestream://33433a1a301bc748eae5b9245ae110086e8862c3
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg",group-title="la casa de papel t4",4x08
+acestream://7cec83b6da1b814b05eecb10606733ab8b79fb0e
 #EXTINF:-1,group-title="La Casa de PapelT5"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X01 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
