@@ -1314,36 +1314,36 @@ acestream://37407f7e24abbd6c027a8bad755b48f3f8a376fc
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/14/17/35/4889759.jpg"group-title="Archivo 81(2022)",Archivo 81 1X08 
 acestream://6cbc9da4bbdeb389887b7644051bc7454b85d626
 #EXTINF:-1,group-title="Cobra Kai"
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",1x01  
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x01  
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",1x02
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x02
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",1x03
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x03
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",1x04
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x04
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",1x05
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x05
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
 #EXTINF:-1,group-title="Cobra Kai(2021)T4"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X01 
 acestream://46b36721c1d4703e27c2d6e8c7205be11a14f518
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X02
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X02
 acestream://c8f0ce789b0c1afda7b427dfd189f7f3ca1e7d1a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X03 
 acestream://fd6546dcafddec3a9c4121ca1ff6fc93120dba10
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X04 
 acestream://ba36a57ed5c88f20d07176bd27532a8a26930b92
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X05 
 acestream://8ed2a308cc38f4ca74aa7eef8aedba8f92adfe57
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X06 
 acestream://ecf5f9a52a8e6d80629feb8115f245eb29da3a96
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X07 
 acestream://abfa95469b081b01eb2bcecd10a41b7824e060b1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X08 
 acestream://3cc9726f949edb685bc1fe63d3c157842d2b6f84
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X09 
 acestream://3a12ef50300ac14992ec488570d0f2695b7e95ff
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X10 
 acestream://61c7f7f6dfaff3496fdbd33b979433fd42b083d1
 #EXTINF:-1,group-title="Atlantic Crossing(2020)"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X01 
@@ -2548,6 +2548,57 @@ acestream://e45e64267d7365319de47dfe8cd6ebb880697f5b
 acestream://dab45c1e3eee01cc71370f3ceca71e11232c9198                                                                     
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/31/11/44/0716901.jpg"group-title="Vigil: conspiración nuclear(2021)",Vigil: 1X06 
 acestream://c381b60ba031aabda6abcbfa4c941af93cf77e0f
+#EXTINF:-1,group-title="Supernormal T1"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal T1",Supernormal Tcompleta
+acestream://3af0bfbfc5294f4579c85e10ab31a7d568a53bda
+#EXTINF:-1,group-title="Hierro T1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiZDRmZDUtNzk4Zi00ZmI4LWEyYTgtOGVkNzI1MzY4OWY4XkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_.jpg",group-title="Hierro T1",Hierro TCompleta
+acestream://6aef5488804a189e43e26039faad816236131ef0
+#EXTINF:-1,group-title="Hierro T2"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x01
+acestream://458fde5c30cc176428a49f55fb888c9194de9658
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x02
+acestream://560a89736a599984b9e4c83b94cc5e5db323abaf
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x03
+acestream://ea190bb6492868ef6f189b1debf5980db6a0d31e
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x04
+acestream://e9a2d0dc29b0f77e73a2aeb6f72c1685b1e19f66
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x05
+acestream://71cff36be6a6419322685a069d449fae1f8c3142
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x06
+acestream://3047493540667eb9dafab7e22fcac38f781962c3
+#EXTINF:-1,group-title="Loki T1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x01
+acestream://8220f42ef55776851373737bf1a2908505750134
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x02
+acestream://7aa6286bd1534a44e67320f24ea71be979d29d7d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x03
+acestream://96cb58ee1c7176c592e8b9cbb2019a97d45efc7f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x04
+acestream://ad8e0476a6624d72758769078d2d1755fdf54344
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x05
+acestream://540e25f3fb93fd90c9754df99556d20d22cbfc16
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x06
+acestream://d83a639867471c16397924771da5c4caddfb0917
+#EXTINF:-1,group-title="Bruja Escarlata y Vision T1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x01
+acestream://ccc797843327058b08edfa0576a79d2ed23fea7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x02
+acestream://ccc797843327058b08edfa0576a79d2ed23fea7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x03
+acestream://a82796d3ffaa3d1df92c7a25dd106dbc3c8a23bc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x04
+acestream://80b6cd6512b8c0d293433f85dba7400a04c99074
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x05
+acestream://80b6cd6512b8c0d293433f85dba7400a04c99074
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x06
+acestream://29136269aeb5f7cc38256986a808e0e6d8a3f83f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x07
+acestream://83c7578f6848ec36d799b3f79a047c9faf51e72d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x08
+acestream://2c9b7be8a0a435e5383a1f18bff96c876dc5afb8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x09
+acestream://853aab5058ef10de081d73ed3f345941c2a6c648
 
 
 
