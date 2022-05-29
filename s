@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,group-title="Obi-Wan Kenobi(2022)[8.8]"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X01 acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X02 acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X03 acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X04 acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 acestream://
+#EXTINF:-1,group-title="Planeta Prehistórico(2022)[9.0]"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X01
+acestream://ec87823a1a0d4b6c185213f83fcd657614829451
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X02 
+acestream://0aab33de76c95553e4c9d3a2d6da7bf19858b1bb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X03 
+acestream://56a583fd270113349425a8729db00fa0537ab18d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X04 
+acestream://47d174a2ac57e53afb1006e8f195c002afd8d361
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X05 
+acestream://f04998deff7d046f79663f3b2c30878ef66b7272
 #EXTINF:-1,group-title="Now and Then(2022)[8.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X01 
 acestream://61e4d73d62268b3bdbcb1245b3b38f9415326eda
@@ -7,7 +25,7 @@ acestream://98ce9b0b1ae6db63ebec3dc3bc27a7b603e4253d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X03 
 acestream://eec85d72e00339f1d778f5616d45a88a452c2bfd
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X04 
-acestream://
+acestream://34fa5cbcbcdc034b9d47a89b58b0cb6dcb53d9bb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X06 
@@ -37,7 +55,7 @@ acestream://e1efba2982a5ed1d65b8341be683d5402bc69618
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X01 
 acestream://5a1dc83202927d8260817415172b8e7b88325f2b
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X02 
-acestream://
+acestream://d5326acc4b3045d4ab076913438ea8d7a8b7f37d
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X03 
 acestream://
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X04 
@@ -65,9 +83,9 @@ acestream://62fc2b622e7c3a4d4fe7a64ac0592298091ea4f7
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4ZmRkN2EtMzg1Ni00ZjdjLWFiODMtMTI3NjNlZWIwOTU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="La Serpiente de Essex(2022)[7.2]",La Serpiente1X02 
 acestream://d1232de4ae0b1c911d63b4ef885d6b8715f41399
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4ZmRkN2EtMzg1Ni00ZjdjLWFiODMtMTI3NjNlZWIwOTU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="La Serpiente de Essex(2022)[7.2]",La Serpiente1X03 
-acestream://
+acestream://e085701a34d8fdf82d2b52f6f57bfabc86087ceb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4ZmRkN2EtMzg1Ni00ZjdjLWFiODMtMTI3NjNlZWIwOTU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="La Serpiente de Essex(2022)[7.2]",La Serpiente1X04 
-acestream://
+acestream://5eabfacd46e6fe92279a7985e98b9a4da361d2b4
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4ZmRkN2EtMzg1Ni00ZjdjLWFiODMtMTI3NjNlZWIwOTU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="La Serpiente de Essex(2022)[7.2]",La Serpiente1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4ZmRkN2EtMzg1Ni00ZjdjLWFiODMtMTI3NjNlZWIwOTU3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",group-title="La Serpiente de Essex(2022)[7.2]",La Serpiente1X06 
@@ -80,9 +98,9 @@ acestream://9d931ac700fa68d36d310f0d55e4d911f043885d
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/oYTetO99XH19bEA39KjuYeujuhM.jpg",group-title="Visitantes(2022)[8.3]",Visitantes1X03 
 acestream://36e3434b637ba835e607baa9545359a4a5cbc7ac
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/oYTetO99XH19bEA39KjuYeujuhM.jpg",group-title="Visitantes(2022)[8.3]",Visitantes1X04 
-acestream://
+acestream://e22af23e88c6641996f79a329bda07614ebf9303
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/oYTetO99XH19bEA39KjuYeujuhM.jpg",group-title="Visitantes(2022)[8.3]",Visitantes1X05 
-acestream://
+acestream://ca76d6aea436881a95b0c5d654cef06141354ff1
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/oYTetO99XH19bEA39KjuYeujuhM.jpg",group-title="Visitantes(2022)[8.3]",Visitantes1X06 
 acestream://
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/oYTetO99XH19bEA39KjuYeujuhM.jpg",group-title="Visitantes(2022)[8.3]",Visitantes1X07 
@@ -95,9 +113,9 @@ acestream://5604f38a6caf06ad74c2bc427fe3d8df93825acf
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X02 
 acestream://1101b9c5374230754b12c6d40e2152457c93ca56
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X03 
-acestream://
+acestream://a0abd8ff067fe4b1a484094a4dd00e19d53883e9
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X04 
-acestream://
+acestream://7e15f004828974dbaf6d3ce16794c61624fb4a3b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X06 
@@ -120,7 +138,7 @@ acestream://11771147514f9fcb3c190a324116b9ec0ba94e43
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X05 
 acestream://9eb13eaae39d90707d7b0cd95d596ac99188147c
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X06 
-acestream://
+acestream://c5082f3c822f56144a7a48f437fd8e5dc30f32cf
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X07 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X08 
@@ -179,7 +197,7 @@ acestream://0ef729f3d671e5d71522f808fb186d42809b82d7
 #EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/categorias/programas/posters/la_ciudad_es_nuestra.jpg",group-title="La ciudad es nuestra(2022)[9.0]",La ciudad1X04 
 acestream://d1c337ffca4bdc9945824823c7c679476b2e44ca
 #EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/categorias/programas/posters/la_ciudad_es_nuestra.jpg",group-title="La ciudad es nuestra(2022)[9.0]",La ciudad1X05 
-acestream://
+acestream://a1f72b78b83fbdb4af8e83e74208d89cae6774da
 #EXTINF:-1,tvg-logo="https://imagenes.gatotv.com/categorias/programas/posters/la_ciudad_es_nuestra.jpg",group-title="La ciudad es nuestra(2022)[9.0]",La ciudad1X06 
 acestream://
 #EXTINF:-1,group-title="4400(2021)[7.0]"
@@ -194,7 +212,7 @@ acestream://08d2cf0d38c30863025a29e481369b7d2607f13d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X05 
 acestream://aaaf017f4c529cf57912b886252fa50eb88a8189
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X06 
-acestream://
+acestream://d3657a7293171848a2a14400f3c86fd116bc8b9b
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X07 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X08 
@@ -221,9 +239,9 @@ acestream://3b08d989357f665d80f5605b32c466616bd57940
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/j5KRj1junA9L6fg02L01uMGpGPB.jpg",group-title="Las luminosas(2022)[8.9]",Las luminosas1X05 
 acestream://79cf1f7cc50f9b8f399484646cca9c74d3af3620
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/j5KRj1junA9L6fg02L01uMGpGPB.jpg",group-title="Las luminosas(2022)[8.9]",Las luminosas1X06 
-acestream://
+acestream://f73e3dd5a3477f09bffcd6d164986911be1034d2
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/j5KRj1junA9L6fg02L01uMGpGPB.jpg",group-title="Las luminosas(2022)[8.9]",Las luminosas1X07 
-acestream://
+acestream://2096e7f63bc40f37fa1cf07854667664d7ed6420
 #EXTINF:-1,tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w342/j5KRj1junA9L6fg02L01uMGpGPB.jpg",group-title="Las luminosas(2022)[8.9]",Las luminosas1X08 
 acestream://
 #EXTINF:-1,group-title="La Tumba(2019)[7.0]"
