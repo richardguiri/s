@@ -1,11 +1,17 @@
 #EXTM3U
 #EXTINF:-1,group-title="Obi-Wan Kenobi(2022)[8.8]"
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X01 acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X02 acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X03 acestream://
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X04 acestream://
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 acestream://
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X01 
+acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X02 
+acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X03 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X04 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 
+acestream://
 #EXTINF:-1,group-title="Planeta Prehistórico(2022)[9.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X01
 acestream://ec87823a1a0d4b6c185213f83fcd657614829451
