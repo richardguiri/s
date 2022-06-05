@@ -21,8 +21,8 @@ acestream://e4f1e7d47e84ffa4819d9fd0bfa58be48675a78a
 acestream://eb3b6052b1bb58af6edb4cf69e87ebc84adc64b8
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IxMWJlZDYtNWJjNS00ZDhkLWFhNDAtOWE3M2NhN2IwNzFmXkEyXkFqcGdeQXVyNjIwMDEyMzE@._V1_FMjpg_UX1000_.jpg",group-title="Bang Bang Baby(2022)6.4",Bang1X04 
 acestream://f424693d90e16279339f244db6b2cb76724603b5
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IxMWJlZDYtNWJjNS00ZDhkLWFhNDAtOWE3M2NhN2IwNzFmXkEyXkFqcGdeQXVyNjIwMDEyMzE@._V1_FMjpg_UX1000_.jpg",group-title="Bang Bang Baby(2022)6.4",
-Bang1X05 acestream://976f619f4411d49ee59ee58151388b68688cefc0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IxMWJlZDYtNWJjNS00ZDhkLWFhNDAtOWE3M2NhN2IwNzFmXkEyXkFqcGdeQXVyNjIwMDEyMzE@._V1_FMjpg_UX1000_.jpg",group-title="Bang Bang Baby(2022)6.4",Bang1X05 
+acestream://976f619f4411d49ee59ee58151388b68688cefc0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IxMWJlZDYtNWJjNS00ZDhkLWFhNDAtOWE3M2NhN2IwNzFmXkEyXkFqcGdeQXVyNjIwMDEyMzE@._V1_FMjpg_UX1000_.jpg",group-title="Bang Bang Baby(2022)6.4",Bang1X06 
 acestream://4dbec9c46ec150d5048a22dc2ef96241be548dc6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BY2IxMWJlZDYtNWJjNS00ZDhkLWFhNDAtOWE3M2NhN2IwNzFmXkEyXkFqcGdeQXVyNjIwMDEyMzE@._V1_FMjpg_UX1000_.jpg",group-title="Bang Bang Baby(2022)6.4",Bang1X07 
@@ -50,6 +50,7 @@ acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
 acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X08 
 acestream://50a09121468330c0537050e52f0a5bdd5481e17b
+
 #EXTINF:-1,group-title="Dos veranos(2022)7.0"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X01 
 acestream://de12037f1f70add06bba0d47b2a4c7f68c8276e3
