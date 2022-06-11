@@ -55,73 +55,73 @@ acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",group-title="Bosch Legacy(2022)8.7",Bosch1X10 
 acestream://
 #EXTINF:-1,group-title="strangers things(2016)8.7"
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x01 La desaparición de Will Byers
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x01 La desaparición de Will Byers
 Acestream://d2e6271a2aa59c470826185956f5f4831cf797c6
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x02 La chica rara de la calle Maple
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x02 La chica rara de la calle Maple
 Acestream://826f4aac747bc620fa8ed3469791ee4788b51a09
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x03 Luces navideñas
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x03 Luces navideñas
 Acestream://693216cce2f222157fe176a69a23aeab54a4bcbe
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x04 El cadáver
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x04 El cadáver
 Acestream://683d1eee1aef98a742ea978f5818d61699f36766
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x05 pulga y el acróbata
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x05 pulga y el acróbata
 Acestream://53b3ec1253855575a3e291fc1b55ae846776d498
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x06  El monstruo
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x06  El monstruo
 Acestream://53b3ec1253855575a3e291fc1b55ae846776d498
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x07 La bañera
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x07 La bañera
 Acestream://7c0cc227e63763f642719edcf837ef1a75654ce8
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers1x08 El otro lado
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x08 El otro lado
 Acestream://f82ac4d0171d8cee9af794d0e967a8b92ede1b3b
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x01 MADMAX
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x01 MADMAX
 Acestream://f0767e7f7ae23469a17a34adf5e7015064053cf8
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x02 Truco o trato bicho raro
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x02 Truco o trato bicho raro
 Acestream://da3928ae06679c52a994ee859e6eb5c6f3651801
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x03 El renacuajo
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x03 El renacuajo
 Acestream://d0efb4c8a59c6aa48553cb4def5edc19427103d2
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x04 Will el sabio
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x04 Will el sabio
 Acestream://1cb1a713503436d48cb8ebd9996b370aa92e8309
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x05 Dig Dug
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x05 Dig Dug
 Acestream://8e892172b8e9465721e4824499945fe225cd9da4
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x06 El espía
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x06 El espía
 Acestream://fcf7f8440918a6724c101f737fb502da34a73220
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x07 La hermana perdida
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x07 La hermana perdida
 Acestream://90eca390f2e02b79923c335ae518674e984c4973
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x08 El azotamentes
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x08 El azotamentes
 Acestream://7c51aa38d2fb6b8e8ff281716c8f242b051b58e0
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers2x09 El portal
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x09 El portal
 Acestream://2026c83c1c601ad8cc01b0896af0eb1fcf370932
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x01:¿Me copias Suzie?
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x01:¿Me copias Suzie?
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x02 Capítulo dos ratas de centro comercial
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x02 Capítulo dos ratas de centro comercial
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x03 El caso de la guardavidas perdida
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x03 El caso de la guardavidas perdida
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x04 La prueba del sauna
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x04 La prueba del sauna
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x05 Los desollados
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x05 Los desollados
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x06 E pluribus unum
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x06 E pluribus unum
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x07 La picadura
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x07 La picadura
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers3x08 La batalla de Starcourt
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x08 La batalla de Starcourt
 Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X01 El Club del Fuego Infernal 
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X01 El Club del Fuego Infernal 
 Acestream://ddb8bc1ecf8001ae02d56f3b562bda19fa7e1fcc
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X02 La maldición de Vecna  
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X02 La maldición de Vecna  
 Acestream://7925c8d68e39f87ad1c9d2801f79f469c1cac001
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X03 El Monstruo y el Superhéroe  
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X03 El Monstruo y el Superhéroe  
 Acestream://c36eaaeae74fc604bd1d158637f8dea35eb71a97
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X04 Querido Billy
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X04 Querido Billy
 Acestream://78ab29c21ea1445456b178203ef2d66cd8e99228
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X05 El proyecto Nina
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X05 El proyecto Nina
 Acestream://752df16788b2422a2b355a7c55370b1399d84e2d
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X06 La zambullida 
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X06 La zambullida 
 Acestream://113faaac170adf56418ff52a0185eb26ddbf80f3
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4X07 La masacre en el Laboratorio de Hawkins 
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X07 La masacre en el Laboratorio de Hawkins 
 Acestream://6095a59fa66212e37d3863212437e7b53e579187
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4x08 Papá
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4x08 Papá
 Acestream://
-#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiYjg4OTgtZDg2YS00ZGIzLTk3ZWMtZWRlZDQ5M2I0MDNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",strangers4x09 El Huésped
+#EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4x09 El Huésped
 Acestream:/
 #EXTINF:-1,group-title="Yo maté a mi marido(2021)6.6"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/03/08/59/0705127.jpg",group-title="Yo maté a mi marido(2021)6.6",Yo maté1X01 
