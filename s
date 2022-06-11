@@ -174,6 +174,22 @@ acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
 acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos1X08 
 acestream://50a09121468330c0537050e52f0a5bdd5481e17b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x01 Solo el tiempo dirá
+Acestream://46eb34b7ef57ec4cae179025a6b8ea416fea9633
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x02 No hay tiempo que perder
+Acestream://1cbae97145824b012b9c2f4853c399ab156c637e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x03 Tiempo muerto
+Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x04 Lugar y tiempo equivocados
+Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x05 Justo a tiempo
+Acestream://Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x06 Se acaba el tiempo
+Acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x07 Hora de salida
+Acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x08 El tiempo no está de nuestra parte
+Acestream://50a09121468330c0537050e52f0a5bdd5481e17b
 #EXTINF:-1,group-title="Dos veranos(2022)7.0"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X01 
 acestream://de12037f1f70add06bba0d47b2a4c7f68c8276e3
@@ -182,11 +198,11 @@ acestream://f925f73c06f21dd4d6ff4151b1cd255c9c568476
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X03 
 acestream://dbf11eca0a6ee7f8ce836c295038ff13370697f1
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X04 
-acestream://
+acestream://bfce550a57efc83ec6ce18ab2c375e54b3f00567
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X05 
-acestream://
+acestream://b86fc9446eb1b990ea33966c3a9d3b9c225a74ef
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X06 
-acestream://
+acestream://736b91cea4f5c7679c68ad02d069ed947f5defd7
 #EXTINF:-1,group-title="Obi-Wan Kenobi(2022)[8.8]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X01 
 acestream://a25326fe3dcd88993e91dfa6bcd003ea8dfc855b
@@ -195,22 +211,11 @@ acestream://17661bea94a478ff4b5157699fdb08abe962fa7a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X03 
 acestream://821bc50e3922fa67a1bccc377d4131656ec6647d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X04 
-acestream://
+acestream://9f26610a6357e202efda8da40bd44167dadb6eba
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 
 acestream://
-#EXTINF:-1,group-title="Planeta Prehistórico(2022)[9.0]"
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X01
-acestream://ec87823a1a0d4b6c185213f83fcd657614829451
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X02 
-acestream://0aab33de76c95553e4c9d3a2d6da7bf19858b1bb
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X03 
-acestream://56a583fd270113349425a8729db00fa0537ab18d
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X04 
-acestream://47d174a2ac57e53afb1006e8f195c002afd8d361
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X05 
-acestream://f04998deff7d046f79663f3b2c30878ef66b7272
 #EXTINF:-1,group-title="Now and Then(2022)[8.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X01 
 acestream://61e4d73d62268b3bdbcb1245b3b38f9415326eda
