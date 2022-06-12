@@ -1,21 +1,113 @@
 #EXTM3U
+#EXTINF:-1,group-title="The Boys(2019)8.7"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X01 
+acestream://ba20ccda278200600e49d000d9f538ff2c76ed37
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X02 
+acestream://5233ffb8b268d02eac5d1a62ac718ad9ace38ec2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X03 
+acestream://5233ffb8b268d02eac5d1a62ac718ad9ace38ec2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X04 
+acestream://5233ffb8b268d02eac5d1a62ac718ad9ace38ec2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X05 
+acestream://9b6d896e213621ec958446c4097849931efbd225
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X06 
+acestream://9b6d896e213621ec958446c4097849931efbd225
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X07 
+acestream://9b6d896e213621ec958446c4097849931efbd225
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X08 
+acestream://9b6d896e213621ec958446c4097849931efbd225
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X01 
+acestream://441572ab116ef7e9f11d78c6667e00e4de6a968a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X02 
+acestream://441572ab116ef7e9f11d78c6667e00e4de6a968a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X03 
+acestream://441572ab116ef7e9f11d78c6667e00e4de6a968a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X04 
+acestream://5c833069400a56e238a0d18473b69c655eea8424
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X05 
+acestream://fd3164317d811b74ae4d28897161807fbbe14ed4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X06 
+acestream://219ae7cb91be4cdaf1efa7c112b3348deae90cc0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X07 
+acestream://a8eea595bf9b22ba0420d83843bef1db3ccfb78b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys2X08 
+acestream://b66ddcf8546bfab3157d51cde652ec4868df3da
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X01 
+acestream://67f57d8b14916fd0b042dc3771bdd327568501ca
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X02 
+acestream://359bd4b5cbd0db6ab1b15daf1757d12ddb252be7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X03 
+acestream://5d14edca644cc77909079736814cb0b5c94e9d8d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X04 
+acestream://8d3ba00a5d6c090ddbfc934ad9a5fd1d241eb49b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X06 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X07 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys3X08 
+acestream://
+#EXTINF:-1,group-title="Sin límites(2022)6.9"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X01 
+acestream://c860625c3a41c7fb0ef331f18329055b3b7d97fd
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X02 
+acestream://2ea7cdd43eacfe6c20893126ac0e6ac045a7cdaf
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X03 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X04 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzkxYWRhODctN2RkMi00ZGQzLWFhNDMtNzdlNTVlN2MzOWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg",group-title="Sin límites(2022)6.9",Sin límites1X06 
+acestream://
+#EXTINF:-1,group-title="La primera muerte(2022)4.4"
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X01 
+acestream://f83c37a2c53634d20d70f8e91247727c614827e3
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X02 
+acestream://4150d686fdae8564074ca24856bd6e1f180c2838
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X03 
+acestream://43921bfd831c115b2683fcf39a8d9c4b23b43461
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X04 
+acestream://0fadc2b2a08d73439c56125b36cbb1949d19b2d8
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X05 
+acestream://016a644ccfea1b6cd15bcf22fdc22a191c5254c5
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X06 
+acestream://338fcc984f4684c6b49d893ce95d3e46488b789e
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X07 
+acestream://
+#EXTINF:-1,tvg-logo="https://larepublica.pe/resizer/NsbUk0ryTB9STpul5EvZuBBaK8s=/538x0/top/larepublica.pe/resizer/V9gf116N5ssU2-ZauW5whvzrhps=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/KVNDGX5WA5DZ5KASI53IUIHTRU.webp",group-title="La primera muerte(2022)4.4",La primera1X08 
+acestream://
+#EXTINF:-1,group-title="Peaky Blinders(2022)[t6]8.8"
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X01 
+acestream://da152131491d7db413ecafae98d071c6bdfd5452
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X02 
+acestream://b1be2339bcc85f2fc7dfc1c58d3fd61ea4b987fa
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X03 
+acestream://76c70cd14c581aad19b1dee1efa880377e4f267b
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X04 
+acestream://8b9294a44dbfc364a558b0892249ea5681f86792
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91VuM6lZ90L.jpg",group-title="Peaky Blinders(2022)[t6]8.8",Peaky1X06 
+acestream://
 #EXTINF:-1,group-title="the baby(2022)5.4"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x01 La llegada
-Acestream://824cb0233aa715d1dc04b34ca6117b5e862748d0
+acestream://824cb0233aa715d1dc04b34ca6117b5e862748d0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x02 La seducción
-Acestream://58e17e437319a162c820e2cddac4b5a4996d2089
+acestream://58e17e437319a162c820e2cddac4b5a4996d2089
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x03 La escavadora
-Acestream://04f2a36042ff55f52ae465b12905fe6f57596871
+acestream://04f2a36042ff55f52ae465b12905fe6f57596871
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x04 La madre
-Acestream://909cab956646ace62ad9d8c467635e1ddbab535a
+acestream://909cab956646ace62ad9d8c467635e1ddbab535a
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x05 El Bebé
-Acestream://7663369106caebb910746a1c3da6586dc072e16d
+acestream://7663369106caebb910746a1c3da6586dc072e16d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x06 la rabia
-Acestream://ac9c2ab49e070cfb72404e0d8bf0b64bd451e8ea
+acestream://ac9c2ab49e070cfb72404e0d8bf0b64bd451e8ea
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",the baby1x07 la maldicion
-Acestream://f6241f42406cc669aeaafa15ba718731b071fe88
+acestream://f6241f42406cc669aeaafa15ba718731b071fe88
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJkNTQwZGYtMWVkYS00ODFiLWI3MjYtZGU2NTZiMWEyYzZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",group-title="the baby(2022)5.4",1x08 
-Acestream://
+acestream://
 #EXTINF:-1,group-title="Totems(2022)7.3"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyYjFiMDgtNzYxZC00ZDQxLTg0MDYtODI2ODk5YWM1MGZiXkEyXkFqcGdeQXVyNzI0MTY5MQ@@._V1_FMjpg_UX1000_.jpg",group-title="Totems(2022)7.3",Totems1X01 
 acestream://c757f862ea72af0863faf17a60a431839ce55a8a
@@ -56,73 +148,73 @@ acestream://
 acestream://
 #EXTINF:-1,group-title="strangers things(2016)8.7"
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x01 La desaparición de Will Byers
-Acestream://d2e6271a2aa59c470826185956f5f4831cf797c6
+acestream://d2e6271a2aa59c470826185956f5f4831cf797c6
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x02 La chica rara de la calle Maple
-Acestream://826f4aac747bc620fa8ed3469791ee4788b51a09
+acestream://826f4aac747bc620fa8ed3469791ee4788b51a09
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x03 Luces navideñas
-Acestream://693216cce2f222157fe176a69a23aeab54a4bcbe
+acestream://693216cce2f222157fe176a69a23aeab54a4bcbe
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x04 El cadáver
-Acestream://683d1eee1aef98a742ea978f5818d61699f36766
+acestream://683d1eee1aef98a742ea978f5818d61699f36766
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x05 pulga y el acróbata
-Acestream://53b3ec1253855575a3e291fc1b55ae846776d498
+acestream://53b3ec1253855575a3e291fc1b55ae846776d498
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x06  El monstruo
-Acestream://53b3ec1253855575a3e291fc1b55ae846776d498
+acestream://53b3ec1253855575a3e291fc1b55ae846776d498
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x07 La bañera
-Acestream://7c0cc227e63763f642719edcf837ef1a75654ce8
+acestream://7c0cc227e63763f642719edcf837ef1a75654ce8
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers1x08 El otro lado
-Acestream://f82ac4d0171d8cee9af794d0e967a8b92ede1b3b
+acestream://f82ac4d0171d8cee9af794d0e967a8b92ede1b3b
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x01 MADMAX
-Acestream://f0767e7f7ae23469a17a34adf5e7015064053cf8
+acestream://f0767e7f7ae23469a17a34adf5e7015064053cf8
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x02 Truco o trato bicho raro
-Acestream://da3928ae06679c52a994ee859e6eb5c6f3651801
+acestream://da3928ae06679c52a994ee859e6eb5c6f3651801
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x03 El renacuajo
-Acestream://d0efb4c8a59c6aa48553cb4def5edc19427103d2
+acestream://d0efb4c8a59c6aa48553cb4def5edc19427103d2
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x04 Will el sabio
-Acestream://1cb1a713503436d48cb8ebd9996b370aa92e8309
+acestream://1cb1a713503436d48cb8ebd9996b370aa92e8309
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x05 Dig Dug
-Acestream://8e892172b8e9465721e4824499945fe225cd9da4
+acestream://8e892172b8e9465721e4824499945fe225cd9da4
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x06 El espía
-Acestream://fcf7f8440918a6724c101f737fb502da34a73220
+acestream://fcf7f8440918a6724c101f737fb502da34a73220
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x07 La hermana perdida
-Acestream://90eca390f2e02b79923c335ae518674e984c4973
+acestream://90eca390f2e02b79923c335ae518674e984c4973
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x08 El azotamentes
-Acestream://7c51aa38d2fb6b8e8ff281716c8f242b051b58e0
+acestream://7c51aa38d2fb6b8e8ff281716c8f242b051b58e0
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers2x09 El portal
-Acestream://2026c83c1c601ad8cc01b0896af0eb1fcf370932
+acestream://2026c83c1c601ad8cc01b0896af0eb1fcf370932
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x01:¿Me copias Suzie?
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x02 Capítulo dos ratas de centro comercial
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x03 El caso de la guardavidas perdida
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x04 La prueba del sauna
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x05 Los desollados
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x06 E pluribus unum
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x07 La picadura
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers3x08 La batalla de Starcourt
-Acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
+acestream://f0272244c7062440a8e6df99a5da93d7c41e4cab
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X01 El Club del Fuego Infernal 
-Acestream://ddb8bc1ecf8001ae02d56f3b562bda19fa7e1fcc
+acestream://ddb8bc1ecf8001ae02d56f3b562bda19fa7e1fcc
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X02 La maldición de Vecna  
-Acestream://7925c8d68e39f87ad1c9d2801f79f469c1cac001
+acestream://7925c8d68e39f87ad1c9d2801f79f469c1cac001
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X03 El Monstruo y el Superhéroe  
-Acestream://c36eaaeae74fc604bd1d158637f8dea35eb71a97
+acestream://c36eaaeae74fc604bd1d158637f8dea35eb71a97
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X04 Querido Billy
-Acestream://78ab29c21ea1445456b178203ef2d66cd8e99228
+acestream://78ab29c21ea1445456b178203ef2d66cd8e99228
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X05 El proyecto Nina
-Acestream://752df16788b2422a2b355a7c55370b1399d84e2d
+acestream://752df16788b2422a2b355a7c55370b1399d84e2d
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X06 La zambullida 
-Acestream://113faaac170adf56418ff52a0185eb26ddbf80f3
+acestream://113faaac170adf56418ff52a0185eb26ddbf80f3
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4X07 La masacre en el Laboratorio de Hawkins 
-Acestream://6095a59fa66212e37d3863212437e7b53e579187
+acestream://6095a59fa66212e37d3863212437e7b53e579187
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4x08 Papá
-Acestream://
+acestream://
 #EXTINF:-1,group-title="strangers things(2016)8.7",tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlYjQ4NzYtZTg1MC00NGY4LTg4NjQtNGE3ZjRkMjk3YjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",strangers4x09 El Huésped
-Acestream:/
+acestream:/
 #EXTINF:-1,group-title="Yo maté a mi marido(2021)6.6"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/05/03/08/59/0705127.jpg",group-title="Yo maté a mi marido(2021)6.6",Yo maté1X01 
 acestream://f89721da523f95a37af59e1336b829af35d02bc1
@@ -179,17 +271,17 @@ Acestream://46eb34b7ef57ec4cae179025a6b8ea416fea9633
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x02 No hay tiempo que perder
 Acestream://1cbae97145824b012b9c2f4853c399ab156c637e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x03 Tiempo muerto
-Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x04 Lugar y tiempo equivocados
-Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x05 Justo a tiempo
-Acestream://Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
+acestream://Acestream://9337887af39fba09fa8ea2c8c48c22bef107dcfe
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x06 Se acaba el tiempo
-Acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
+acestream://1c2051a04dd9e209d2ea54522ee1f847fac56657
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x07 Hora de salida
-Acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
+acestream://d77c911b0db4aca38c22a0ba791a1ebb61ae151f
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg3ZGIxODUtYmJkNi00MjhjLWI2ZDItZTY4NzVhNzc4ZWFkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg",group-title="Los secretos de Sulphur Springs(2021)7.6",Los secretos2x08 El tiempo no está de nuestra parte
-Acestream://50a09121468330c0537050e52f0a5bdd5481e17b
+acestream://50a09121468330c0537050e52f0a5bdd5481e17b
 #EXTINF:-1,group-title="Dos veranos(2022)7.0"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ4NzU2MTktMTg3NS00ZGI0LTgxMmYtZmMwYzM0NzA0NTE0XkEyXkFqcGdeQXVyMTM1NDY1ODk2._V1_FMjpg_UX1000_.jpg",group-title="Dos veranos(2022)7.0",Dos veranos1X01 
 acestream://de12037f1f70add06bba0d47b2a4c7f68c8276e3
@@ -216,6 +308,17 @@ acestream://9f26610a6357e202efda8da40bd44167dadb6eba
 acestream://
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 
 acestream://
+#EXTINF:-1,group-title="Planeta Prehistórico(2022)[9.0]"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X01
+acestream://ec87823a1a0d4b6c185213f83fcd657614829451
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X02 
+acestream://0aab33de76c95553e4c9d3a2d6da7bf19858b1bb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X03 
+acestream://56a583fd270113349425a8729db00fa0537ab18d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X04 
+acestream://47d174a2ac57e53afb1006e8f195c002afd8d361
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X05 
+acestream://f04998deff7d046f79663f3b2c30878ef66b7272
 #EXTINF:-1,group-title="Now and Then(2022)[8.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEyNTFkYTAtNjYyNS00MWUxLThjMzItYmZiNzczZDUwNTNkXkEyXkFqcGdeQXVyODI4ODg3NzM@._V1_FMjpg_UX1000_.jpg",group-title="Now and Then(2022)[8.0]",Now1X01 
 acestream://61e4d73d62268b3bdbcb1245b3b38f9415326eda
@@ -738,23 +841,6 @@ acestream://8ff3b7f2406fbc8325b3d3553d8c2d18d508fb62
 acestream://6c682c69ffd88ea393ac728a5c5e45a3c3482419
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/pachinko-45283/src/pachinko-45283-c.jpg"group-title="Pachinko(2022)",Pachinko 
 acestream://fd826a083d81140f9512a390a3a38c87b238884c
-#EXTINF:-1,group-title="Entrevías(2022)T2" 
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X01 
-acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X02 
-acestream://5a34447c245f9d648f76af3c69f349128a7061d2
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X03
-acestream://c4d826d01a960e30c6580276cb6727a78ee0d80e
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X04 
-acestream://e034207993937de5001f3536b7272ba805e51abe
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X05 
-acestream://8ab655032557c4ab7b3d98fbfeafda539967f9d1
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X06 
-acestream://747481340aaae9b31ee158c5cb4a65bf2a9d8c56
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X07 
-acestream://7852d8ae3bba4ab4064153102be3b47143f1225f
-#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)T2",Entrevías 2X08 
-acestream://6b5364cf1e3ba69229821fd5b6672492e799465f
 #EXTINF:-1,group-title="Entrevías(2022)"
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 1X01 
 acestream://76ee5622501d8daf0a44aa1dc744e4b97a7bc673
@@ -772,6 +858,22 @@ acestream://bb6fef0a9e4d3bec955afcf55a80e6aa3e618c07
 acestream://dce98182a8fb6d6ca4d628f5671e2d09a0d2587f
 #EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 1X08
 acestream://86e7316252e59f1ce3f2ba93e7f65b372bbbface
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X01 
+acestream://1698fcd81dca8a6f44a83ea3a6be1eb58e96549f
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X02 
+acestream://5a34447c245f9d648f76af3c69f349128a7061d2
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X03
+acestream://c4d826d01a960e30c6580276cb6727a78ee0d80e
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X04 
+acestream://e034207993937de5001f3536b7272ba805e51abe
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X05 
+acestream://8ab655032557c4ab7b3d98fbfeafda539967f9d1
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X06 
+acestream://747481340aaae9b31ee158c5cb4a65bf2a9d8c56
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X07 
+acestream://7852d8ae3bba4ab4064153102be3b47143f1225f
+#EXTINF:-1,tvg-logo="https://www.ecartelera.com/carteles-series/1800/1856/001_p.jpg"group-title="Entrevías(2022)",Entrevías 2X08 
+acestream://6b5364cf1e3ba69229821fd5b6672492e799465f
 #EXTINF:-1,group-title="Paralelos desconocidos(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/22/03/22/16/01/1339691.jpg"group-title="Paralelos desconocidos(2022)",Paralelos 1X01 
 acestream://70cee8c419eee5fbfacb6ce392ebeb93d437c386
@@ -811,57 +913,55 @@ acestream://aad098ca5b95e02f39d52ce76373ba31ad85beec
 acestream://09e86fcf9d0ab6ff90ea0dec854bdb00dbb2930c
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/monstruos-de-cracovia-45234/src/monstruos-de-cracovia-45234-c.jpg"group-title="Monstruos de Cracovia(2022)",Monstruos de Cracovia1X08 
 acestream://d49bcb72addff16ba9e516c649b5a762758c397a
-#EXTINF:-1,group-title="La unidad(2020)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X01 
+#EXTINF:-1,group-title="La unidad"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X01 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X02 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X03 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X04 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X05 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2020)T1",La unidad 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 1X06 
 acestream://2fdf10fe4a7e78410baa2c75113a94cec7526076
-#EXTINF:-1,group-title="La unidad(2022)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X01 
 acestream://a97884b6f821c3af1f2809604b14888bade9c3f5
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X02 
 acestream://ee6209288afe3b26a00164195990ab17d44b6918
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X03 
 acestream://2f167811d50da30c5d1652a787104798ac81462d
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X04 
 acestream://4e0cb014b6ba526cd0e0fd66e9236c0cfc616f1e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X05 
 acestream://d3ed020fe2300b6875ba989bcc531eae8f03b1a0
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad(2022)T2",La unidad 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/02/08/58/2445763.jpg"group-title="La unidad",La unidad 2X06 
 acestream://4d89ed1ecb5548a665cad0d8296c6bde08521ac6
-#EXTINF:-1,group-title="Folklore(2018)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X01 
+#EXTINF:-1,group-title="Folklore"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X01 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X02 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X03 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X04 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X05 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2018)T1",Folklore 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 1X06 
 acestream://b456a7eae494d605e34278c179da8c0a9d32cf20
-#EXTINF:-1,group-title="Folklore(2021)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X01 
 acestream://ae8b3a9b775019cdc1d57e6611631c743e575a42
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X02 
 acestream://d91769a0a8aa70d3f457d270642025824ca22f33
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X03 
 acestream://0338d89590b807de4a770cd2446726ca52299c53
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X04 
 acestream://0fb993ecf6d1452ca39b1486f518f7b109c8a5ac
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X05 
 acestream://a11cd838c0f3bbf23e917bf5932c5fcc3107e818
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore(2021)T2",Folklore 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/27/10/37/3077988.jpg"group-title="Folklore",Folklore 2X06 
 acestream://41d8b9a15f08ae24a4041fd03f28b897ca69a10e
 #EXTINF:-1,group-title="¿Sabes quién es?(2022)"
 #EXTINF:-1,tvg-logo="https://www.gatropolis.com/wp-content/uploads/2019/02/91VY1hDQ5XL.jpg"group-title="¿Sabes quién es?(2022)",¿Sabes quién es?1X01 
@@ -979,39 +1079,38 @@ acestream://e2d918c8bbb25ce8252062d80c1212bc975568dc
 acestream://ba01e925c0bc48f495d707deb7c398b58694f012
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/11/13/06/006023.jpg"group-title="Blackout(2021)",Blackout 1X06 
 acestream://c704339b9b680bf8501fd6504de43e7a772cff73
-#EXTINF:-1,group-title="SeeT1(2019)"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x01 
+#EXTINF:-1,group-title="See"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x01 
 acestream://f5ca87ae631e94d029d4723dcdacc790ebf9668e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x02 
 acestream://f5ca87ae631e94d029d4723dcdacc790ebf9668e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x03 
 acestream://f5ca87ae631e94d029d4723dcdacc790ebf9668e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x04 
 acestream://046040fc8fc84ac7736d1da358fa602e779d7116
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x05 
 acestream://7a8f1472eb815ac60a48062104513fa41e1bf523
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x06 
 acestream://e3813f6de31f08a09bc7e0e08cf66a3eda212515
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x07 
 acestream://e48f79fa65302926173f88dbef068c3381d0f82e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT1(2019)",See 1x08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 1x08 
 acestream://ba52035143529861697e3bf3a9dbb98d609cd3f0
-#EXTINF:-1,group-title="SeeT2(2021)"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x01 
 acestream://5319b329f16e50ae27c3379825ae55573ae77247
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x02 
 acestream://b9de1bd033043f6f64ee784b195327f5bff626b7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x03 
 acestream://11c50215cfdb23ca9cdc0952d624c63d6105a564
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x04 
 acestream://9214746f778d82e65843039903230463d3b1a3a2
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x05 
 acestream://371ae75d146723c8d26034eee81983cadca2a7c9
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x06 
 acestream://002527ee6524399390d3a6c2c68433a284b05f92
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x07 
 acestream://e19c2b67d44c277059709b8467d4db768db3d23c
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="SeeT2(2021)",See 2x08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/20/30/1507616.jpg"group-title="See",See 2x08 
 acestream://50c16a71eb1d63ac8474ba791eceb6bda4ac2c64
 #EXTINF:-1,group-title="Misa de medianoche(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/09/08/34/1223657.jpg"group-title="Misa de medianoche(2021)",Misa 1x01 
@@ -1041,43 +1140,42 @@ acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
 acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/04/13/46/5417027.jpg"group-title="Atracadores: La serie(2021)",Atracadores 1x06 
 acestream://3df5558096de76f540ff3e2798c2c631c4f6ddce
-#EXTINF:-1,group-title="Euphoria(2019)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X01 
+#EXTINF:-1,group-title="Euphoria"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X01 
 acestream://9f8096ef56d1ecf12c7c09f6a209a301ad926e33
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X02 
 acestream://79d4500a96a39d3179766b39d09d4c5bbdef2989
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X03 
 acestream://37d2b8fe96e2c7c7ec9e061b779498b0088c7004
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X04 
 acestream://83bbefe16116738ed744c77f7a1b64b770e3c419
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X05 
 acestream://12d1e13316e339352e5d7813f79f2998d3920403
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X06 
 acestream://6967936cee60a58e4a6c4131572612242be650f8
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X07 
 acestream://c2135d006496b374f1237951ca0e1108b6b4343d
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X08 
 acestream://e7c039c590a63b0548ac07365ab229a7249f9eaf
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X09 
 acestream://67754c8db3009a4277bccb788097ed3b0f687bf1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2019)T1",Euphoria 1X10 
-acestream://e13985a3246b873de9d089e4197a39c0a1c13770
-#EXTINF:-1,group-title="Euphoria(2022)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 1X10 
+acestream://e13985a3246b873de9d089e4197a39c0a1c13770"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X01 
 acestream://d324f8bf1391e4cb52adf5b6f371e2bee11c048a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X02 
 acestream://d578b54deee2dffd51e2b561b89aab2d48591986
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X03 
 acestream://1112d520d870e3f817fac6422f4721baa5b9d248
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X04 
 acestream://f35da18b9be46b5d26d7f8cfbe0335265cefcfd7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X05 
 acestream://4a0e41b65120d5314023ab97bc914b209b0f0574
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X06 
 acestream://804b6f8a4e85d1b7bb0fb80fea83b6e358435e7f
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X07 
 acestream://6a95fec048270bbdc3bf59a6ae7f185697e82b58
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria(2022)T2",Euphoria 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/18/12/06/4123858.jpg"group-title="Euphoria",Euphoria 2X08 
 acestream://ade25ba40d9bd084dd6514818b30bd9407004264
 #EXTINF:-1,group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/01/03/17/12/4061688.jpg"group-title="¡Menuda encerrona!Misterioso asesinato en Sicilia(2022)",Menuda 1X01 
@@ -1265,83 +1363,80 @@ acestream://6f36e553ab0c183be6e298fd0e1f9c9d54c6bc68
 acestream://8176657d5cd425864ff6bcad6c32b36bbaf26525
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/10/23/3977393.jpg"group-title="Naomi(2022)",Naomi 1X08
 acestream://6afb55fcc60b24ba0213fe1901477d225cc72fa5
-#EXTINF:-1,group-title="Ozark(2017)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X01 
+#EXTINF:-1,group-title="Ozark"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X01 
 acestream://3e5178ecd3acb78e20c0bd279b3086e7be41f37b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X02 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X03 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3 
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X04 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X05 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X06 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X07 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X08 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X09 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2017)T1",Ozark 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 1X10 
 acestream://2887e3cedf779e3710827ef582e90870a72162e3
-#EXTINF:-1,group-title="Ozark(2018)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X01 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X02 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X03 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X04 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X05 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X06 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X07 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X08 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X09 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2018)T2",Ozark 2X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 2X10 
 acestream://cbe2cdf517ff1497ade689f71637b8e9e9db10ed
-#EXTINF:-1,group-title="Ozark(2020)T3"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X01  
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X01  
 acestream://7684b3a6a08b558c2e99711487337dd2e5031436
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X02 
 acestream://8c68414936a2efc577075dffc64545fcf0933cb8
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X03 
 acestream://d8e8a874097ff132c5e33e7cee27580d91a42254
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X04 
 acestream://1ea45c9fbce9ea9629a8f03eab694dd134f78c76
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X05 
 acestream://8930d0916b99e3514d106fd06190eb9e8fa2ce02
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X06 
 acestream://0ece5b0ec5b9b06763b21e77c7d02fd2d58c25eb
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X07 
 acestream://ee495bc7b05ba7693adbf4b0a9bc05b340b2f8c1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X08 
 acestream://2bb78e75617145eb155ec5d7aec39f8f495b82de
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X09 
 acestream://bac9a52e5ff820c55cbdd5c916088668c7a02a07
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2020)T3",Ozark 3X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 3X10 
 acestream://1fbef4af9428b95d42628e02e93cc0b9ffc76a8a
-#EXTINF:-1,group-title="Ozark(2022)T4"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X01 
 acestream://91b1ff67eac38177a914be9ed5e6cce95189697b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X02 
 acestream://ae710c1c0186dae2d87d61f5992cd7363b527aef
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X03 
 acestream://f5b07bd3a7869ae541180c02d8f9ab53ce886546
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X04 
 acestream://9af25618e5bfd976bd633b92e7e6ff7e7b5f653b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X05 
 acestream://51ec777efd31c2664abf45f5342fba8d2d9b7c4e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X06 
 acestream://5b1e81f913624980c18d5238e69e9be22b488011
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark(2022)T4",Ozark 4X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/07/13/15/20/222749.jpg"group-title="Ozark",Ozark 4X07 
 acestream://555f1dbc9bdf7a832727484ea355fa6bb2ef1a71
 #EXTINF:-1,group-title="Express(2022)"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/10/12/05/4618544.jpg"group-title="Express(2022)",Express 1X01 
@@ -1402,41 +1497,40 @@ acestream://2cca48c3357960cd12c0e81c050801de9e0d0f8f
 acestream://96ae366bbb73219152bec01fad5ed7a7aff82ab4
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/21/13/33/3378812.jpg"group-title="SurrealEstate(2021)",SurrealEstate 1X10 
 acestream://fa498d62bdc8c52f61a89dea7338206db618623a
-#EXTINF:-1,group-title="The Wall(La Faille)(2019)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X01 
+#EXTINF:-1,group-title="The Wall(La Faille)"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X01 
 acestream://b316625d149d43067b5992b6198786ab8650e88e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X02 
 acestream://5bf1b650d3f6cc5ef02e29f5a051845a0fc1ff2b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X03 
 acestream://7b1413a4b43c802b3694a962fcc0b98dc58210db
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X04 
 acestream://6cac8346ebc4b9b136fe250dc4c37f1b11f98c67
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X05 
 acestream://0c7f077152ed51757690e33c4c5d6b208fe63b6a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X06 
 acestream://04872c73b0b981eafb93b32030ca2861e592d2a5
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X07 
 acestream://ba77f38999e431db1ed6d7ded24f9b2f6c921b18
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2019)T1",The Wall 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 1X08 
 acestream://ed3476176b79251773a71006416f9b750de86b1f
-#EXTINF:-1,group-title="The Wall(La Faille)(2021)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X01 
 acestream://501ce6f6704822fc92855d016a032d3c8403399f
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X02 
 acestream://20fff137badffb1ba32663827c3f2dece5bc24f4
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X03 
 acestream://46cb05738da3ebf661779f0bd0ba6fcdb8381ae5
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X04 
 acestream://fa1a60e125693c3253d953f0a7d7ad9329d8b30c
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X05 
 acestream://01991f416ac4ce9c1df490622e8fe3aea5bb4b4b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X06 
 acestream://c8e6f5ecfa3b4a48b9bb37eb8b56431d91737a3b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X07 
 acestream://169384c58bf676bde2dd7ec2a7ad7ef6f7cb32dc
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X08 
 acestream://d587ba8bdfdd1877b22493bed89ae712772a6cf2
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)(2021)T2",The Wall 2X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/26/13/56/5971186.jpg"group-title="The Wall(La Faille)",The Wall 2X09 
 acestream://56ce8732b90dbcaad823cf772862b65abc21c5cc
 #EXTINF:-1,group-title="Chucky(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/06/17/25/5742155.jpg"group-title="Chucky(2021)",Chucky 1X01 
@@ -1541,26 +1635,65 @@ acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai 1x05
 acestream://afd8c3bfc9b8d18de820af5121f3f9cdec67959e
-#EXTINF:-1,group-title="Cobra Kai(2021)T4"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X01 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x01
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x02
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x03
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x04
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x05
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x06
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x07
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x08
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x09
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai2x10
+acestream://da3c0a13dabe014df3ee169e0ec64920c3deb836
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x01
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x02
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x03
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x04
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x05
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x06
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x07
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x08
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x09
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/cobra-kai-42580/src/cobra-kai-42580-c.jpg",group-title="Cobra Kai",Cobra Kai3x10
+acestream://bbf120c6adeff6d51a4b9fd674213edf6701ae7b
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X01 
 acestream://46b36721c1d4703e27c2d6e8c7205be11a14f518
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X02
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X02
 acestream://c8f0ce789b0c1afda7b427dfd189f7f3ca1e7d1a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X03 
 acestream://fd6546dcafddec3a9c4121ca1ff6fc93120dba10
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X04 
 acestream://ba36a57ed5c88f20d07176bd27532a8a26930b92
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X05 
 acestream://8ed2a308cc38f4ca74aa7eef8aedba8f92adfe57
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X06 
 acestream://ecf5f9a52a8e6d80629feb8115f245eb29da3a96
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X07 
 acestream://abfa95469b081b01eb2bcecd10a41b7824e060b1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X08 
 acestream://3cc9726f949edb685bc1fe63d3c157842d2b6f84
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X09 
 acestream://3a12ef50300ac14992ec488570d0f2695b7e95ff
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai(2021)T4",Cobra Kai 4X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/03/01/09/4694147.jpg"group-title="Cobra Kai",Cobra Kai 4X10 
 acestream://61c7f7f6dfaff3496fdbd33b979433fd42b083d1
 #EXTINF:-1,group-title="Atlantic Crossing(2020)"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X01 
@@ -1636,7 +1769,7 @@ acestream://ee5334aae4e0d755aa20c17b392bdd6c82211080
 acestream://876310ea14ff2755f5085aae54358f3f0bece2a7
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"group-title="El libro de Boba Fett(2021)",El libro de Boba Fett 1X07 
 acestream://c45c4a4e0324589ca259568b4bc62f03bfed79b1
-#EXTINF:-1,group-title="tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/02/09/22/1915017.jpg"(2021)"
+#EXTINF:-1,group-title="El asesino de Times Square(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/16/17/0840982.jpg"group-title="El asesino de Times Square(2021)",El asesino 1X01 
 acestream://9b2f146401e482dddb4adeb111c745323b46dfbe
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/12/16/16/17/0840982.jpg"group-title="El asesino de Times Square(2021)",El asesino 1X02 
@@ -1770,35 +1903,34 @@ acestream://faa77fd66ce3ce6b1423efdb2dbcb49832666efc
 acestream://0979b676639c6c2ff33d735eb17b06858cba65d8
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/29/18/00/2941226.jpg"group-title="Hacks(2021)",Hacks 1X10 
 acestream://147141b129ae012fef549a30879c8d68a11f8e38
-#EXTINF:-1,group-title="Auga Seca (2020)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X01 
+#EXTINF:-1,group-title="Auga Seca"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X01 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X02 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X03 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X04 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X05 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca (2020)T1",Auga Seca 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 1X06 
 acestream://07168c8daefcba30e19a71bbf0aa51ade2d70f8b
-#EXTINF:-1,group-title="Auga Seca(2021)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X01 
 acestream://3aa86fef606d7fe4d56ada18ddfd6afbee2255e3
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X02 
 acestream://10809e129a4f5bef02bc1d601ed036ac75d4f266
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X03 
 acestream://844f0583e31025a9f7ba08c1ffaa4d68b6d5b67b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X04 
 acestream://5be4656bce80857492dfd0e3c0035fef68061860
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X05 
 acestream://2e130edb4aa17c4b0869ee451fe84c210e61bd16
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X06 
 acestream://60941b3a250b473ae5aa8b701866247ca48702b8
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X07 
 acestream://e6793bb0d3a950ef9763399cae51d3e222787b8f
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca(2021)T2",Auga Seca 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/17/08/35/4031144.jpg"group-title="Auga Seca",Auga Seca 2X08 
 acestream://a64edee245ff302b76afd60d897cd6c39f4162fb
 #EXTINF:-1,group-title="Cuento de Navidad(2019)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/12/11/10/04/1994986.jpg"group-title="Cuento de Navidad(2019)",Cuento de Navidad(2019) 1X01 
@@ -1856,39 +1988,38 @@ acestream://3d3a1f43a340ca36ee35420512d0ed8a71f19618
 acestream://48c18ae1de6fbe7200508416be34bd00d1fef0bf
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/15/09/29/13/57/381139.jpg"group-title="La fuga(2019)",La fuga 1X05 
 acestream://48c18ae1de6fbe7200508416be34bd00d1fef0bf
-#EXTINF:-1,group-title="The Witcher(2019)T1"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X01 
+#EXTINF:-1,group-title="The Witcher"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X01 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X02 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X03 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X04 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X05 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X06 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X07 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2019)T1",The Witcher 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 1X08 
 acestream://f9a8a31d925d90cffdb4a69d88f24561814926be
-#EXTINF:-1,group-title="The Witcher(2021)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X01 
 acestream://b7f4458986f673cb9b882717e4e46d41023e7080
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X02 
 acestream://d875435ca0f98623a6741928d8ce6894f419ca52
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X03 
 acestream://890be484124ac4a945858c435873bd4a5de232fb
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X04 
 acestream://083b5012a6874f6c6425d5b0e916611aad219353
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X05 
 acestream://1a625ba582fcd126172db3d7b4963d9c3721ac05
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X06 
 acestream://ddffab6029c7d401ece7f12952f0c1e171c0d16f
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X07 
 acestream://359da48e4cf899db2dbf4075b86536cf7c0b3e00
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher(2021)T2",The Witcher 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg"group-title="The Witcher",The Witcher 2X08 
 acestream://daa3b46c84e85e8229cb538f494a4b618f81bc40
 #EXTINF:-1,group-title="Los protegidos: El regreso(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/24/14/18/0347428.jpg"group-title="Los protegidos: El regreso(2021)",Los protegidos 1X01 
@@ -1932,30 +2063,29 @@ acestream://0bf80d95d4e2298256c2ed77083167ee0868298b
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/12/17/19/4978450.jpg"group-title="Bienvenidos a la Tierra(2021)",Bienvenidos a la Tierra 1X06 
 acestream://0bf80d95d4e2298256c2ed77083167ee0868298b
 #EXTINF:-1,group-title="The Hot Zone(2019)T1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X01
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X01
 acestream://e6432b934f135f3be1cda8973daf7a5dbf026574
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X02 
 acestream://323a52e4a8915d1109a8f40055ca276898b6b3fb
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X03 
 acestream://48db0819dd90556a2b76e4470bc5cf5e73ac8c86
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X04 
 acestream://48db0819dd90556a2b76e4470bc5cf5e73ac8c86
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X05 
 acestream://8697871331c6129c25252b780ba6bf39bee9bf2c
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2019)T1",The Hot1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot1X06 
 acestream://44e43362eb508e46682aa16a6a516f0dc88a8b11
-#EXTINF:-1,group-title="The Hot Zone(2021)T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot 2X01 
 acestream://e63030a5fcbd6fd2dd3ff7771a745748770d942b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot 2X02 
 acestream://d669ccb4ddc23e01e867f0d42302bc753deda0e8
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot 2X03 
 acestream://0e52fd1e19feb6ea31160a5b74969cba685d62d6
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot 2X04 
 acestream://c32451670607551021c50fc1609251873d03b158
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot2X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot2X05 
 acestream://b5cc4c242852cb7d73478e87994feb09edb0a9d9
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone(2021)T2",The Hot 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/15/16/43/3494129.jpg"group-title="The Hot Zone",The Hot 2X06 
 acestream://3d16fe01aaa4e6558686c0678b9038bfe0e2177b
 #EXTINF:-1,group-title="GomorraT5"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X01 
@@ -1978,92 +2108,88 @@ acestream://afb566c7dbd976d4823a0c7bef9cda1351d6a940
 acestream://d16a5dc8b9f9e49a261d00bce85cd2732bd23494 
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/18/11/07/16/53/5076781.jpg"group-title="GomorraT5",Gomorra 5X10 
 acestream://8633fc15e66026096e4b4b2e7b6d28c7c20ce2dd
-#EXTINF:-1,group-title="La casa de papel t1"
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x01
+#EXTINF:-1,group-title="La casa de papel "
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x01
 acestream://bdf52167525777daea51bed22458b7f9e76f7684
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x02
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x02
 acestream://ed0c1f6f449db6de707b55844bdcd79ca58434da
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x03
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x03
 acestream://97efcb97a644183abdb76b2511bbb9956a92404d
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x04
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x04
 acestream://ae659821c229e93a6b9e309973f756c1a92e8ca1
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x05
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x05
 acestream://7a1136193ba24ccc2db95a9f52e95e59d793b30a
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x06
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x06
 acestream://ed4d0821c942821da1ec200f2b9cf016cf670210
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x07
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x07
 acestream://353ecae1495c9c65ce16526f3c0e0f0df7039ad
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x08
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x08
 acestream://337f2a02ec4f8ce8b0e18b7e30c024e76e834e49
-#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel t1",1x09
+#EXTINF:-1,tvg-logo="https://c8.alamy.com/compes/2f3nwwm/serie-de-tv-la-casa-de-papel-2017-espana-2017-temporada-1-creado-por-alex-pina-poster-espanol-2f3nwwm.jpg"group-title="La casa de papel",la casa1x09
 acestream://2f1893e9adc0145ef99a3e9abc0552ca3f844779
-#EXTINF:-1,group-title="la casa de papel t2"
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x01
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x01
 acestream://013a63bb176d1cdeb6dcd29c4ac82f5d88c4aca1
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x02
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x02
 acestream://b5e9080640d3824bbfea6f7ff1ca0db004cde193
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x03
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x03
 acestream://37ab18b12cc3d280d713057dfa73caf3a8905491
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x04
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x04
 acestream://d6a41884b0c5d97fe7560ec5a9c58cf246e415a8
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x05
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x05
 acestream://c9038cc5e9254cba82c19466cd9eabd16ba372ca
-#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel t2",2x06
+#EXTINF:-1,tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/07/1Vz1uiFvOQxdFQFsebr87uL0Sou.jpg"group-title="la casa de papel",la casa2x06
 acestream://76aced7db8588d5521ab8187394318b870c17da6
-#EXTINF:-1,group-title="la casa de papel t3"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x01
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x01
 acestream://c91ced6c5b10799923be813112ea62a4d0671ffb
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x02
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x02
 acestream://8e8f0fc1bebbfb91be899474fd793a34a7637c34
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x03
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x03
 acestream://d44a0424ae7f9a9a425660dacee63b81cf9015d7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x04
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x04
 acestream://b094587ad4d3d2e2397f7bee658dd1f4fe2fadaf
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x05
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x05
 acestream://3ab27771e62e47e16d4aeaa2d1a19acd95f84c21
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x06
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x06
 acestream://7abd0698246215be80b761afbd01734f160306b3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x07
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x07
 acestream://52075a4544ce9f5b31a3658e9f2af15fc98077bb
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel t3",3x08
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/26/14/51/0019735.jpg?coixp=49&coiyp=67"group-title="la casa de papel",la casa3x08
 acestream://5a1331fced7b0c7caa6cabd3953342fa94f1350e
-#EXTINF:-1,group-title="la casa de papel t4"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x01
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x01
 acestream://f42242a6058b6b90da8f1f4eb90cb752b0c07e96
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x02
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x02
 acestream://aeefed90db7b37c18788c72098f6faf1e7e89f1e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x03
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x03
 acestream://70869f6ca06526341a0aa4d0d9b8de8b9ba0ffd5
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x04
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x04
 acestream://b5393b00c86c162b7a493c0283c411169ee1b188
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x05
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x05
 acestream://979a584480de0021197ee71a881efdbe13e3a44b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x06
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x06
 acestream://399b360fddeebe43f86d840f47998d572b557ce1
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x07
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x07
 acestream://33433a1a301bc748eae5b9245ae110086e8862c3
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel t4",4x08
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/14/09/59/0004815.jpg"group-title="la casa de papel",la casa4x08
 acestream://7cec83b6da1b814b05eecb10606733ab8b79fb0e
-#EXTINF:-1,group-title="La Casa de PapelT5"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X01 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X02 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X03 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X04 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X05 
 acestream://208de175a53f0231a4982f69fdd1810cbc41a0c0
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X06 
 acestream://fe0fce6ae1a7248bea51a2f216ac88f4c2184b37
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X07 
 acestream://167270d7ba71f7b8a0c56b8739ba0d376488f2e1
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X08 
 acestream://ea9128f893eead636eb4fefe43652f9d6877023b
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X09 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X09 
 acestream://2bf86185bd1fef5652b98630fdd2d872e639aba8 
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de PapelT5",La Casa 5X10 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X10 
 acestream://7af4ac117b93146a09b9df080d1255ce5efa71dd
 #EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)"
 #EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X01 
@@ -2199,31 +2325,30 @@ acestream://5be7fce706bcf7f9cfae98e8815c93af9ace36bc
 acestream://21ac45ba0bcd55286a8aca1a4ff1da61bab031ca
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/09/16/09/2214289.jpg"group-title="Seduciendo a un asesino(Deceit)(2021)",Seduciendo 1X04 
 acestream://21ac45ba0bcd55286a8aca1a4ff1da61bab031ca
-#EXTINF:-1,group-title="Vienna Blood(2019)T1"
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X01 
+#EXTINF:-1,group-title="Vienna Blood"
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X01 
 acestream://f2b9d47b516e9641e3f86e560e41690e499e8faf
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X02 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X02 
 acestream://8713de5a913fd6dfca45fd3f17b8d873b19c781e
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X03 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X03 
 acestream://6b83ecc942c5f13143cba1efbb8cc1d516cb4e8a
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X04 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X04 
 acestream://b5e29d5efe22450c7343c184625917eb0b7f5489
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X05 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X05 
 acestream://378f9df4b820aba65a91ccefa9c23c9a909ac05c
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2019)T1",Vienna 1X06 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 1X06 
 acestream://2e8f0a33b694799cca143cd0680f2d45a4a1310e
-#EXTINF:-1,group-title="Vienna Blood(2021)T2"
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X01 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X01 
 acestream://88a458573d060fc67c19d54651a2734c226150c4
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X02 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X02 
 acestream://c6c6eed820bbc4777b04c2dc88709486ecbfafc6
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X03 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X03 
 acestream://ca37b27e7b3fc9ddf3c1e0425390a26b900d1911
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X04 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X04 
 acestream://
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X05 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X05 
 acestream://
-#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood(2021)T2",Vienna 2X06 
+#EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/20/12/30/21/36/3719571.jpg"group-title="Vienna Blood",Vienna 2X06 
 acestream://
 #EXTINF:-1,group-title="Elfos(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/18/15/02/3440092.jpg"group-title="Elfos(2021)",Elfos 1X01
@@ -2402,42 +2527,41 @@ acestream://56366849b9f8816b2a7435d259ec1f19299bd3b8
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/04/22/21/0635607.jpg"group-title="Yellowjackets(2021)",Yellowjackets 1X10 
 acestream://56432902dbd45d89fd97072eb3fa21b6e274e6a2
 #EXTINF:-1,group-title="Hightown(2020)"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X01 
 acestream://14b85850a61eda2c9af8c42b63fa78b7a2240918
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X02 
 acestream://389a533c7e2fe4f21ce35749701ff30d495ce969
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X03 
 acestream://c4969ce35c998ae0ad9e0a2cd2503b3fb35752d1
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X04 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X05 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X06 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X07 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2020)",Hightown 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 1X08 
 acestream://5d3d34b08e45e2111fd01ed24c3d750ae1fdffac
-#EXTINF:-1,group-title="Hightown(2021)"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X01 
 acestream://70a596c8a0b82fc070b79d946668a0f939ad723a
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X02 
 acestream://389e3f80eac1d555d8171c4709512619b2106f74
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X03 
 acestream://57e0370434ca224e9de055426318a717cde2eaf8
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X04 
 acestream://39756faf19387fbafaa063ead600dc238b905520
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X05
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X05
 acestream://84b56e2e686b6d7f8332382d7ea439da3735ca47
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X06 
 acestream://4f26a85b9c043b4b1935efe2d1b59ede876046af
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X07 
 acestream://e1ff45e4d396646a6e5e89458ec85e45a18588d5
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X08 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X08 
 acestream://3d4f1a65a6a52301890e764e53b8564d1ce4846f                                                                  
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X09 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X09 
 acestream://148f5284c99149c7507ce5b89768d11478240e96                                                                  
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown(2021)",Hightown 2X10 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/25/14/12/0427346.jpg"group-title="Hightown",Hightown 2X10 
 acestream://c0e354bbe2dcb050c18a6ad4184d03dfeaadeb7a
 #EXTINF:-1,group-title="Cheyenne y Lola(2020)"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/20/11/18/14/41/0272009.jpg"group-title="Cheyenne y Lola(2020)",Cheyenne 1X01 
@@ -2599,35 +2723,34 @@ acestream://f67783802c9e639d735ef0b3cadea6b1f0afddf2
 acestream://4ee098fdf705baff0798ae2de43bfac2c7ef6870 
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/10/13/09/22/0974199.jpg"group-title="Maradona: Sueño bendito(2021)",Maradona 1X10 
 acestream://1374410e5a0a87fdf1bf78c22ac5371c597faed6
-#EXTINF:-1,group-title="Juda-T1"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X01 
+#EXTINF:-1,group-title="Juda"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X01 
 acestream://7a29783b7c318ef86af00b5e1bf3e8f2ae26adbf
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X02 
 acestream://82a588f8d19c5f0cc0835078fa01bbcb23e1e7cc
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X03 
 acestream://40dab89a161661c103ca6bccd926157aa6b9aaea
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X04 
 acestream://af362682ae38165135ea981c85efa9ef478e597d
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X05 
 acestream://5d6499ed047cc669fd1aaf6bb4005ab89d80210e
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X06 
 acestream://0752e8aa2118d4b57727f65aab7c1a8b87e638f6
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T1",Juda 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 1X08 
 acestream://b1f9866632039a732e7ea028699f9d431cd24e3b
-#EXTINF:-1,group-title="Juda-T2"
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X01 
 acestream://c78b550f805ac0f30a55bf05bd94f1e3517a5294
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X02 
 acestream://b8c583e87ade66d8617a56a9a6e43f6d353b2e6b
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X03 
 acestream://d3b83482edea62cf874ad67306ab6c644ae2c8c9
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X04 
 acestream://01f98c75ae6c849b1aa7bf8bacccb449645a4f9d
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X05 
 acestream://70aa3702efa9b8fbdecdd71afe12827497c2af6d
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X06 
 acestream://297155a3a78f59c84aa7177ac9dcd79a25748eb9                                                                         
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda-T2",Juda 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/23/10/47/307239.jpg"group-title="Juda",Juda 2X07 
 acestream://14e59aab6c3eb87e90ec6d9b6a1b6faa8b3cedff
 #EXTINF:-1,group-title="Invasión(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/23/10/32/1346986.jpg"group-title="Invasión(2021)",Invasión 1X01 
@@ -2768,21 +2891,20 @@ acestream://c381b60ba031aabda6abcbfa4c941af93cf77e0f
 #EXTINF:-1,group-title="Supernormal T1"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/06/16/16/55/0178053.jpg",group-title="Supernormal T1",Supernormal Tcompleta
 acestream://3af0bfbfc5294f4579c85e10ab31a7d568a53bda
-#EXTINF:-1,group-title="Hierro T1"
+#EXTINF:-1,group-title="Hierro"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiZDRmZDUtNzk4Zi00ZmI4LWEyYTgtOGVkNzI1MzY4OWY4XkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_.jpg",group-title="Hierro T1",Hierro TCompleta
 acestream://6aef5488804a189e43e26039faad816236131ef0
-#EXTINF:-1,group-title="Hierro T2"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x01
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x01
 acestream://458fde5c30cc176428a49f55fb888c9194de9658
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x02
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x02
 acestream://560a89736a599984b9e4c83b94cc5e5db323abaf
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x03
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x03
 acestream://ea190bb6492868ef6f189b1debf5980db6a0d31e
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x04
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x04
 acestream://e9a2d0dc29b0f77e73a2aeb6f72c1685b1e19f66
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x05
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x05
 acestream://71cff36be6a6419322685a069d449fae1f8c3142
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro T2",Hierro2x06
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/01/27/15/16/0371552.jpg",group-title="Hierro",Hierro2x06
 acestream://3047493540667eb9dafab7e22fcac38f781962c3
 #EXTINF:-1,group-title="Loki T1"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",group-title="Loki T1",Loki1x01
@@ -2816,22 +2938,3 @@ acestream://83c7578f6848ec36d799b3f79a047c9faf51e72d
 acestream://2c9b7be8a0a435e5383a1f18bff96c876dc5afb8
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x09
 acestream://853aab5058ef10de081d73ed3f345941c2a6c648
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
