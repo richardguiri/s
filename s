@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1,group-title="61st Street(2022)6.1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X01 
+acestream://d7c8b1ce69c2d4e527a57941da4d86266ddc1da1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X02 
+acestream://28b232697046efa3707aaa701e19f862d89e77b4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X03 
+acestream://5c8c309829ebaca2490edd9e3bcba75578958ea7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X04 
+acestream://2b90ce4931e015ba8dfb5ee2b6d06fb97034489d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X05 
+acestream://596207bd9a8abeda2dd21b92d370c5e0326f5a0d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X06 
+acestream://2fd4315edf05873de8d6a50f1a0132ff2005f0c5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X07 
+acestream://2008df861a13d4a5448ee526bcdb7cb8fdf64f9c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X08 a
+cestream://
+#EXTINF:-1,group-title="Suzhal(El vórtice)(2022)8.5"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X01 
+acestream://1e5b522fed28a1af2c5b32c230b12a1f93f7de9c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X02 
+acestream://6a19b3024beadd79db1cc2aabe1f0c3e4d439a62
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X03 
+acestream://8a216d34787e4dbc102dd4e1e0ffbf22cdad76d8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X04 
+acestream://58ad103c51ab5dd16df034f2beb9eb9445059ec0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X05 
+acestream://a62e39e88fd4bb0c615397c93952a827a84a6471
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X06 
+acestream://6f41b202aa62659bb744804ae139b9cf451c21ad
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X07 
+acestream://8ce5b3bbf1eea0e9df654dbf996c4570e63d0435
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc5YTZkMzUtMDhjZS00YTUwLTg3YWMtNThmZDliODQ3ZmNjXkEyXkFqcGdeQXVyMTMyODUxMzgz._V1_.jpg",group-title="Suzhal(El vórtice)(2022)8.5",El vórtice1X08 
+acestream://8c94fcc764650137b7cac9306bb09b61ec2b33b5
+#EXTINF:-1,group-title="Ms. Marvel(2022)6.1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X01 
+acestream://028f4683e1fad48776c727bb380a5fb54e9f39fb
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X02 
+acestream://804451221b2e84c497897bee1a5f297b9e6a96e5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X03 
+acestream://6036e642481361dbd1d2300302df0ce267482878
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X04 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",group-title="Ms. Marvel(2022)6.1",Ms. Marvel1X06 
+acestream://
+#EXTINF:-1,group-title="Irma Vep(2022)6.4"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X01 
+acestream://e3eb973e40f95e2894ca199d6eb3cdfdf56f9154
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X02 
+acestream://d398b161f0db9a1bfa7827ca9dae10b927e16415
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X03 
+acestream://acee406dd2b18dcc1de27a64564661bf46406ee0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X04
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X06 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NDRlZTAtNzg0ZC00MTE2LWE2YzEtNmYxZmQ2ZmQ0ODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Irma Vep(2022)6.4",Irma Vep1X07 acestream://
+1X08 acestream://
+#EXTINF:-1,group-title="Trigger point(Fuera de control)(2022)6.3"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X01 
+acestream://18385ca392da0dd7e44c6cd334bc880063b048e1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X02 
+acestream://5c204abdfe42004fc1d50d9f0e9d0b9c3956c481
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X03 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X04 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBmZWVkNjctZDEyYS00YmUwLTk5OTgtNTdmNTk2MzgzNGYzXkEyXkFqcGdeQXVyOTMyODgwOTQ@._V1_.jpg",group-title="Trigger point(Fuera de control)(2022)6.3",Fuera de control1X06 
+acestream://
+#EXTINF:-1,group-title="Reyka(2021)6.3"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X01 
+acestream://cfe6190643f6f2c5f51ee58d77d017c0a4dc38ab
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X02 
+acestream://5c1dc71fa92001ee3478a4a1b19067e3fd634a2c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X03 
+acestream://97a7901af18b4b77a18d4c4bf548d1fb64662aca
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X04 
+acestream://27553b82aada170b2ff30c4ef8db7b9d98513287
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X05 
+acestream://8288ec4adb2780ba5f2a9af7d2ca180300364bfe
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X06 
+acestream://bedad12f5d28fefe1d323a7da58ea2353d06a3e1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X07 
+acestream://da782dd01ac6511e17ae83d23d934d697f473432
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZkMjg4NTMtZWFlMi00MWUwLThlZjctNTczYjljNzg2ZThiXkEyXkFqcGdeQXVyNjU1NzMzMTY@._V1_UY1200_CR285,0,630,1200_AL_.jpg",group-title="Reyka(2021)6.3",Reyka1X08 
+acestream://ad51107b7bb91072adfbfe4251c9446a397b044b
 #EXTINF:-1,group-title="The Boys(2019)8.7"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",group-title="The Boys(2019)8.7",The Boys1X01 
 acestream://ba20ccda278200600e49d000d9f538ff2c76ed37
@@ -307,7 +399,7 @@ acestream://9f26610a6357e202efda8da40bd44167dadb6eba
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X05 
 acestream://8e720c2fe228ea3e63364e8c00a2feef894314b6
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Obi-Wan Kenobi(2022)[8.8]",Obi-Wan1X06 
-acestream://
+acestream://62efa07a994cb41f23108b4ee9c064c1292b765b
 #EXTINF:-1,group-title="Planeta Prehistórico(2022)[9.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UzN2E4YzktNDQ2Zi00MmNiLTg0OGMtNTcwMjIzN2YzODcyXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",group-title="Planeta Prehistórico(2022)[9.0]",Planeta1X01
 acestream://ec87823a1a0d4b6c185213f83fcd657614829451
@@ -365,7 +457,7 @@ acestream://147a5173f2eabb7c04c8df8336d2a35e022179e9
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X05 
 acestream://b571966095ee64608c33cb1001a8c39e26910811
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/76/40/00/19286059.jpg",group-title="La mujer del viajero en el tiempo(2022)[7.9]",La mujer1X06 
-acestream://
+acestream://d1928b5f40aa3274be42bb323a9f7ea0b63d2014
 #EXTINF:-1,group-title="Rapa(2022)[7.0]"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc0MTk4NDctODk4OS00MDg0LTljMDEtNzc4MmZjMWExY2NlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Rapa(2022)[7.0]",Rapa1X01 
 acestream://48fce793484f0c48d66f2ac5ebe8c9cc56123f2c
@@ -425,7 +517,7 @@ acestream://053b4aeec81026f84c69b0d32a236bbe9c5c08a9
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X07 
 acestream://31d47bba683198f1b71ecb45b339fe913932cb44
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X08 
-acestream://
+acestream://5246e7af97f48cfcfe69f08864a9994dbd0d27fa
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlNWE5MWItNzFjYi00ZGJmLWIyNTYtNmExNWYwMjI5MmE4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_.jpg",group-title="El hombre que cayó a la Tierra(2022)[8.3]",El hombre1X09 
 acestream://
 #EXTINF:-1,group-title="Heridas(2022)[7.0]"
@@ -448,7 +540,7 @@ acestream://b0801551a22e1f8b55542fd0195da60daccd57ed
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X09 
 acestream://7b5c869d9f33b2ac0fd7e8e1773ffa6db24248aa 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X10 
-acestream://
+acestream://000daeb68f32df762c9b24cc91b216c6e6ded6b0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X11 
 acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkOThmZTQtNzIxYS00Nzk5LWIwNDktM2RjMjhiMDQwNzZiXkEyXkFqcGdeQXVyODIzMjE0NTc@._V1_.jpg",group-title="Heridas(2022)[7.0]",Heridas1X12 
@@ -522,7 +614,7 @@ acestream://39762b13cf57b9c72d0ab18caac937bb654f7f44
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X09 
 acestream://5154357181b76e0ce13cd8157b9647e69cc4e929 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X10 
-acestream://
+acestream://350d0b320e395ccdb1dec2a32665bb2e2a5d3929
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X11 
 acestream:// 
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNlZTZiNmYtZjQ4Ni00MjM4LWE4YzEtYjNhOGVkNzdmMTdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",group-title="4400(2021)[7.0]",4400 1X12 
