@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1,group-title="Chloe(2022)5.7"
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X01 
+acestream://bdd58547bc3a1e3b44e895b4423b80f5a309060d
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X02 
+acestream://8e59a1da28e0cbe193a3603b6b3678d2cd30ed90
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X03 
+acestream://1d474ef96b1eab3d761b65f049e93ba6fff1c918
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X04 
+acestream://3d91532d5f1ad77f87d6de32775858095e8a7505
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X05 
+acestream://0fb776a3e6996af7a75f04ecc6ab0fd0a96596e8
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X06 
+acestream://6fd97a834955b952827e6bca9896c66133e54aad
+#EXTINF:-1,group-title="El hombre contra la abeja(2022)5.8"
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X01 
+acestream://518876659eb49c423ff99f6f9877c61b387352f4
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X02 
+acestream://3aad694041e28792c67e9583123ec1041274182c
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X03 
+acestream://7f1c7167ba33eb985fca4aa1d3213ce1187fa4fa
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X04 
+acestream://609c111782e2a0d158cf658d1a4953c6e9326a59
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X05 
+acestream://996b9206fb29f39649fa1e5fe1c91410aefb744b
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X06 
+acestream://e237236fc3688d6c723bb7c051c32094b7f7decd
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X07 
+acestream://e20bc10693b988dde01639ea4bcb30535526db7d
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X08 
+acestream://75a9781e4e598c133cb4f288e3b7e26c4d9ce534
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/6/w1280/7cCFIwFWH2lN2cT2VbW9dHTeEfQ.jpg",group-title="El hombre contra la abeja(2022)5.8",El hombre contra1X09 
+acestream://ec2cd4c47f5fd89d4f2d39488288cb39617df1b7
 #EXTINF:-1,group-title="61st Street(2022)6.1"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNiMmY2MDgtNzdhOS00MWJiLWJkMDctM2RiOTZlMzY3OWYwXkEyXkFqcGdeQXVyMTk1NjUwNzA@._V1_.jpg",group-title="61st Street(2022)6.1",61st Street1X01 
 acestream://d7c8b1ce69c2d4e527a57941da4d86266ddc1da1
@@ -2283,6 +2315,18 @@ acestream://ea9128f893eead636eb4fefe43652f9d6877023b
 acestream://2bf86185bd1fef5652b98630fdd2d872e639aba8 
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/08/03/13/56/3572084.jpg"group-title="La Casa de Papel",la casa5X10 
 acestream://7af4ac117b93146a09b9df080d1255ce5efa71dd
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X01 
+acestream://14f52b2df831e58ecbfe5700cd620c759a543343
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X02 
+acestream://ae1786d09bac36d248b1b2ffe14f1a06fb1afeab
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X03 
+acestream://fcd46080b5bf304f027108291cb159c2529c992d
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X04 
+acestream://f314c61fda631c09a2d5ba9021106339dc63af2a
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X05 
+acestream://36e484d321617c2af54f466ad0f11787b5ec33f0
+#EXTINF:-1,tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2022/05/24/6C11B8DD-B6D8-49CD-B8FB-5396F90826AC/mascara-casa-papel-corea-inspira-personaje-tradicion-coreana-hahoe_104.jpg?crop=1500,1500,x0,y0&width=1200&height=1200&optimize=low&format=webply",group-title="La Casa de Papel",la casa6X06 
+acestream://a9e32b8d98d952f01c86dd68c37f1ddf52b54317
 #EXTINF:-1,group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)"
 #EXTINF:-1,tvg-logo="https://mx.web.img2.acsta.net/pictures/21/12/31/17/00/3887344.jpg"group-title="Harry Potter: El Torneo de las Casas de Hogwarts(2021)",Harry Potter 1X01 
 acestream://8c09b3e27333524ada3b48877901bd0e424b1bc7
