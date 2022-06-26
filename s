@@ -3074,3 +3074,36 @@ acestream://83c7578f6848ec36d799b3f79a047c9faf51e72d
 acestream://2c9b7be8a0a435e5383a1f18bff96c876dc5afb8
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwYmMwZmMtMTQ3MS00YWNhLWEwMmQtZTU5YTIwZmJjZGQ0XkEyXkFqcGdeQXVyMTI5MzA5MjA1._V1_FMjpg_UX1000_.jpg",group-title="Bruja Escarlata y Vision T1",Bruja1x09
 acestream://853aab5058ef10de081d73ed3f345941c2a6c648
+#EXTINF:-1,group-title="The Mandalorian(2019)8.7",
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x01
+acestream://e2bce3da48d9e5a0cd32b57a6f846f9d2b399202
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x02
+acestream://c2138b2dac8568d609f933e3a9cd5c460131c997
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x03
+acestream://beb2ae36af39ac59df8ca097e31767ebfed2e8ea
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x04
+acestream://b97ab8c050aa8adb1f2925082b68828a320960e8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x05
+acestream://7e88f637329b12c96d65cd8d85e9615bca6f816f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x06
+acestream://3cee2ff16237846c98c83749c0858590825da24b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x07
+acestream://fae251109d61899f5e960220229083c420fb702d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian1x08
+acestream://6fc33c54b6bbbd698e979e1edab879218b2a0430
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x01
+acestream://2d77f8969ca8820ef21dbb800df217bece680d79
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x02
+acestream://949c79ca6675b9bc4d83d84ac19076024a7409aa
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x03
+acestream://0b1105a312d3abf821a23fade4f467ae72eb9bf6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x04
+acestream://9a7a06e5e59efaf95665a6d70fde677737df8c3e
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x05
+acestream://b62595bc8027666d8e51db692e8f53f58eac48ce
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x06
+acestream://83b0e045fa28df7e9424cf847b22478d6163ea84
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x07
+acestream://7e64b7a62ac994b700b20bfa1beede3e97a20c65
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x08
+acestream://1b2e1b0da1ebccce7f659ac107c84432888cdd43
