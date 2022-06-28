@@ -1,4 +1,59 @@
 #EXTM3U
+#EXTINF:-1,group-title="El Pequeno Tom(2021)8.2"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x01
+acestream://d96e4e0c7331d9db2739ffd7caeca70b0817e057
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x02
+acestream://2662c3b1e366fca215180152513a8d80fa371556
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x03
+acestream://345e47cf7f3e99e5ea9f0101d57548023bd15d4f
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x04
+acestream://cd78f4efb3ba038897a6dc3b8077d2d12e577369
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x05
+acestream://3e1f6c6b1bdb05cbd26094d00015c6e9272973c7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x06
+acestream://199bf2d73b47bccdb05f1f09624b307bbefceb5a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x07
+acestream://df088c7b0bbfc46f866b49bf01e6357ccc587121
+#EXTINF:-1,group-title="Wu Tang An American Saga(2019)8.3"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x01
+acestream://1b9de1719f08527a699da3406f74992abf122f49
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x02
+acestream://4bc38ec23315c67646394f5ad55a24248fda62e8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x03
+acestream://8b2ef0fbdcbfeb5daee40e83e99afb4c902dc9d1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x04
+acestream://0843dfb631b1f98cb8479d6c486fdd9574beadb5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x05
+acestream://2728433791d28af32d477c6a1653b856e815d159
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x06
+acestream://1fe4e2ca39883fad313ade9cbdf18571c8d9c1b3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x07
+acestream://a54e929ad745d09785f88ad1a29d8fa5d39fc482
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x09
+acestream://a7f834b02ec78728f576277d1a492af9b5241986
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x10
+acestream://c86d67205111d3b9718c9e430e43f905af44c793
+#EXTINF:-1,group-title="Gordita Chronicles(2022)6.4"
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x01
+acestream://b22ad248262c995844c318ba5180fce991077dbb
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x02
+acestream://b405c26c938017a01d4a1bd5d813b1d2b9140fb5
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x03
+acestream://15649fc8c2d2ae4e3bd1837df40640bffb130d7d
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x04
+acestream://f0c89e1a55ed2e04fc0160f806153c4e44d5f867
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x05
+acestream://b6858047207b0d8f2c8b7f538d0fdc2b2751e943
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x06
+acestream://445e26f409e3a8be09b6e6cc58ae695217dea791
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x07
+acestream://5ba788967e0bc2446887d4c64521f5d937761ddc
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x08
+acestream://a98cbcf032b50c0d18ac47006555ac1e420d000e
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x09
+acestream://3844cd620c85424e630e1563da6f8d7f330390ea
+#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x10
+acestream://c2673a150591f2138d551404ccc48c2e3fabcc91
 #EXTINF:-1,group-title="Chloe(2022)5.7"
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X01 
 acestream://bdd58547bc3a1e3b44e895b4423b80f5a309060d
