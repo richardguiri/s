@@ -34,25 +34,25 @@ acestream://a7f834b02ec78728f576277d1a492af9b5241986
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDIyZmI4MzctY2RjOC00OTg3LTg5ZTYtYzA1OTQ1NTk5YjMzXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_FMjpg_UX1000_.jpg",group-title="Wu Tang An American Saga(2019)8.3",Wu Tang An American Saga1x10
 acestream://c86d67205111d3b9718c9e430e43f905af44c793
 #EXTINF:-1,group-title="Gordita Chronicles(2022)6.4"
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x01
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x01
 acestream://b22ad248262c995844c318ba5180fce991077dbb
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x02
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x02
 acestream://b405c26c938017a01d4a1bd5d813b1d2b9140fb5
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x03
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x03
 acestream://15649fc8c2d2ae4e3bd1837df40640bffb130d7d
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x04
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x04
 acestream://f0c89e1a55ed2e04fc0160f806153c4e44d5f867
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x05
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x05
 acestream://b6858047207b0d8f2c8b7f538d0fdc2b2751e943
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x06
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x06
 acestream://445e26f409e3a8be09b6e6cc58ae695217dea791
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x07
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x07
 acestream://5ba788967e0bc2446887d4c64521f5d937761ddc
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x08
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x08
 acestream://a98cbcf032b50c0d18ac47006555ac1e420d000e
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x09
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x09
 acestream://3844cd620c85424e630e1563da6f8d7f330390ea
-#EXTINF:-1,tvg-logo="group-title="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x10
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2NGFlYWUtMGVlNS00MGVhLTk1MDktMTY5MTk4ZGZlOThkXkEyXkFqcGdeQXVyNTMzNTkwNzg@._V1_.jpg",group-title="Gordita Chronicles(2022)6.4",Gordita Chronicles1x10
 acestream://c2673a150591f2138d551404ccc48c2e3fabcc91
 #EXTINF:-1,group-title="Chloe(2022)5.7"
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/3sHAsDMik5CyJCwrfb0KS6EaBdR.jpg",group-title="Chloe(2022)5.7",Chloe1X01 
