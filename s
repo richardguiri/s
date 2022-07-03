@@ -1,4 +1,113 @@
 #EXTM3U
+#EXTINF:-1,group-title="Baymax(2022)6.2"
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x01
+acestream://938a9a922b24c6f69a84f23e33fc5d268230a45d
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x02
+acestream://d5e252c3cd8e5f87d6fcafaadf0abf5cc0a03443
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x03
+acestream://81e90b8ff903b1886c542dd55463674599414c72
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x04
+acestream://
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x05
+acestream://
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x06
+acestream://
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x07
+acestream://
+EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",#group-title="Baymax(2022)6.2",Baymax1x08
+#EXTINF:-1,group-title="WestWorld(2016)8.6"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",WestWorld1x01
+acestream://f313042f338f7e5b6270254d608f0b1cb2f53565
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x02
+acestream://eb440cc38d54df90bbbb4d9f31fe7862b4c23a6a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x03
+acestream://b8fe8cd39f500466d1467255be878d4464062259
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x04
+acestream://bc8a21eae1fd3323ce29ea03e5ff89b720b16fde
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x05
+acestream://1763b11d0daf78d4d928be2976390207ff57155c
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x06
+acestream://5bf2ed53cbf20e4c377a5b070416c7d3ac85e2b2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x07
+acestream://75cf89a8e0b404708bf567a161206fc9b21a1319
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x08
+80f097b3e9fedcf9a12905df2914e26b433f954b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x09
+acestream://26922b4ceeffc971b5028febcf839df987830594
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld1x10
+acestream://f33e2f7148c8434418198b3886beba0ff4b9b385
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x01
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x02
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x03
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x04
+3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x05
+3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x06
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x07
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld2x08
+acestream://3f673c7f7e52c48b604fbd482c7b2c1933d770a0
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x01
+acestream://4fbcccd2562728090e12f0b97ffc65ce01a9b9a6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x02
+acestream://59407fbcb273f2b39fd8bd6e26e710793017e2e3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x03
+acestream://e62016a2455568f09fc68ef0b8594db83cb825ee
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x04
+acestream://e4e77b42178faaf65488f1e45259406a943690b2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x05
+acestream://169480aa010800020f0844ebe1a7b118c719e8d5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x06
+acestream://7fc4e5a8ed63237af553279286f8dddcdd3fccb3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x07
+acestream://3bd8d4b062c27241b48af844cfe9e6a8e40f04c1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld3x08
+acestream://5e018b586c8ee28b5a9c6b84d5dcb796df5de4d7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld4x01
+acestream://a670f73109791073facee3c817742333cb2327e6
+#EXTINF:-1,group-title="Solo asesinatos en el edificio(2022)8.1"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X01 
+acestream://142dc25f6ce92deb08f639ce6ad8d07d13c84889
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X02 
+acestream://4811728495707ab38f7ef3b0764085c92688c384
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X03 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X04 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X05 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X06 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X07 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X08
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X09 
+acestream:// 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X10 
+acestream://
+#EXTINF:-1,group-title="La lista final(2022)6.2"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X01 
+acestream://595e8d2ae5b87f52a381f8cc2c8db8928af58ce3
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X02 
+acestream://cb7cd44db49714f2fccc862329b31f1aa5d23c65
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X03 
+acestream://782c22bc44fd74326684a1bf57e8ac3a6e338423
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X04 
+acestream://7108b8d244ece8cf42dd3cadcc80aa2906a1d8e8
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X05 
+acestream://db441003bf0c9f73ce18eb220ba1506d60c7d953
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X06 
+acestream://b2d84ac095ba11ecb06945f2525c069f1861d1ed
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X07 
+acestream://d298e6fe6278f3c8f178bff12a453cf23487d2ce
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X08 
+acestream://aff46afc054ff0ffecd5d8d8867bea5ef9264992
 #EXTINF:-1,group-title="El Pequeno Tom(2021)8.2"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE3YmIzZDMtNDZlMi00MGU1LTgyYWQtMDE1OGFlNDgxMWI5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",group-title="El Pequeno Tom(2021)8.2",El Pequeno Tom1x01
 acestream://d96e4e0c7331d9db2739ffd7caeca70b0817e057
