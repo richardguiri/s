@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,group-title="Baymax(2022)6.2"
-EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="Baymax(2022)6.2",Baymax1x01
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="Baymax(2022)6.2",Baymax1x01
 acestream://938a9a922b24c6f69a84f23e33fc5d268230a45d
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="Baymax(2022)6.2",Baymax1x02
 acestream://d5e252c3cd8e5f87d6fcafaadf0abf5cc0a03443
