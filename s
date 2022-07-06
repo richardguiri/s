@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1,group-title="Finding Alice(2021)5.8"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x01
+acestream://64ba61dd53c3712b4f6c49d29e8dff06e01dd9d5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x02
+acestream://22c228f1651bbce97ef3234f31f7ec58653d25fa
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x03
+acestream://65d21939b96fe6953cd4283e83211db5f3168fcc
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x04
+acestream://eeb99e8d592bffa88e754a6cf363fc2560836c4a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x05
+acestream://bc8a8c3cd2d5753a215ce9ebe62628dd7e0f1012
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYxMjVmMjQtOTY5OS00OGVlLWI2ZDQtYWY2ZWVmYmFkNzYzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",group-title="Finding Alice(2021)5.8",Finding Alice1x06
+acestream://63d7ada0e96547281b8d214c446fe585cb02bf3e
 #EXTINF:-1,group-title="Baymax(2022)6.2"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiZmNkZWMtMjE0OS00NzBmLWIwNjMtZmZjMWE1MjE1MTM2XkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_FMjpg_UX1000_.jpg",group-title="Baymax(2022)6.2",Baymax1x01
 acestream://938a9a922b24c6f69a84f23e33fc5d268230a45d
@@ -72,25 +85,45 @@ acestream://5e018b586c8ee28b5a9c6b84d5dcb796df5de4d7
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",group-title="WestWorld(2016)8.6",Westworld4x01
 acestream://a670f73109791073facee3c817742333cb2327e6
 #EXTINF:-1,group-title="Solo asesinatos en el edificio(2022)8.1"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X01 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x01 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x02 
+acestream://
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x03 
+acestream://af4b9b8eda29b7cf924607617bf79c57cd72309c 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x04 
+acestream://2fe11f5ef793f8235032b858fd34807aee7084cd
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x05 
+acestream://b9025db9c9b1d3b640dc89afaaa352014e0d229b
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x06 
+acestream://4a2dda73cadfd00b13de641731ba1946f0ead336 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x07 
+acestream://f6719739a3586f41efbdb111423d647ea08d793c
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x08 
+acestream://47149f2b958d670bed88fb95f1d3b9c918db39a0
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x09 
+acestream://633af55c6e47b261b14a9938d9124afd21a4ca34
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1x10 
+acestream://ce58b5474eb14e8c9681e9c031c24a6ee7880154
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X01 
 acestream://142dc25f6ce92deb08f639ce6ad8d07d13c84889
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X02 
 acestream://4811728495707ab38f7ef3b0764085c92688c384
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X03 
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X04 
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X05 
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X06 
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X07 
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X08
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X08
 acestream://
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X09 
 acestream:// 
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/23/09/50/3373320.jpg"group-title="Solo asesinatos en el edificio(2022)8.1",Solo asesinatos2X10 
 acestream://
 #EXTINF:-1,group-title="La lista final(2022)6.2"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/06/14/15/40/4412691.jpg"group-title="La lista final(2022)6.2",la lista1X01 
