@@ -3305,3 +3305,44 @@ acestream://83b0e045fa28df7e9424cf847b22478d6163ea84
 acestream://7e64b7a62ac994b700b20bfa1beede3e97a20c65
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg",group-title="The Mandalorian(2019)8.7",The Mandalorian2x08
 acestream://1b2e1b0da1ebccce7f659ac107c84432888cdd43
+#EXTINF:-1,group-title="juego de tronos(2011-2019)9.2"
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT1completa
+acestream://d5b53b9599c76808541939a467e2ffd0c0e67598
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT2completa
+acestream://b51847ad60f6578925e59b794213974ff42ddcaa
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT3completa
+acestream://2f6a618a01452a24a0ed86452a0d7b0156d6676d
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT4completa
+acestream://568e13b6fb6717eaf4cba63f1482cade55c99275
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT5completa
+acestream://a95f0afd7ac71680c185e4d7fa2bbd8d969a5d36
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronosT6completa
+acestream://21a1ea28841f93c1dc4a6b46f9dadfda359c7235
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x01
+acestream://5c0882890870ef81bce22988825a70f1f1125f6e
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x02
+acestream://10036ec0c095efbbd9b146d998b81bfceccedf3f
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x03
+acestream://b0567c21666cd6ee9e2ea2a2017f9b9487abb2a2
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x04
+acestream://7513763318b2e653132b2bfe287e9f9aefb9ac38
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x05
+acestream://b7ecceb0b9b8fcffeb89d2fffb2f413b28e3752c
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x06
+acestream://15f39e5e8092c09aa40cc37fc6883a842bbed61c
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos7x07
+acestream://262b0a0a8b7294d7e68cbb38a050fbe04be08558
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x00especial
+acestream://091106e06134082fa1405141365a961201920207
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x01
+acestream://32363c639cb16c04ee093e29175455954f5ae559
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x02
+acestream://3f4df0fd57c947bdc27f60edf4bef596f0a738ed
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x03
+acestream://a0c26385239bf859d6f63246df01be7a4a74aaaa
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x04
+acestream://8c1d06592e35208e741f9191c7099a60a92bd5e2
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x05
+acestream://4d2dcc75c410710ea534368db00f7e43a3b1b60a
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/736x/d2/0d/79/d20d797d893162f4adf90413115d3f26.jpg",group-title="juego de tronos(2011-2019)9.2",juego de tronos8x06
+acestream://b6aa5179bdec6cd068f4113dbb04a0ad47437ce9
