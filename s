@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1,group-title="Gentleman Jack(2019)8.1"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x01
+acestream://a6d45b3cee6db81505e585226fab6b647a1206df
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x02
+acestream://84f4023decb9b34a494d9f777aa3edfe1061a7b6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x03
+acestream://73985635c4cf5e63164d8c838f5b3e8cee8376ca
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x04
+acestream://67d759c54db811ad8181f4ec3ba2a410cfb66029
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x05
+acestream://00a5c32be221ab3991f2f429cb6f2c339194036d
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x06
+acestream://6ad1f6652120586972a999c17fccb01814814986
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x07
+acestream://2f0558febd895f7401d495bb2dd37a83020a58b1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 1x08
+acestream://d5de4d687d53c79bd3a9fd2940941c46dcfda1ce
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x01
+acestream://69e55984acd00fd8d48c5fbbab9be4f20b3d3e10
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x02
+acestream://edde3439cf21796e1b2e282dedcaee15949a62ad
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x03
+acestream://0c39b0c4ccb5df53c508431e145c704c70c98f32
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x04
+acestream://4cdeb6ffae5d191dac2aedeff641c53cae3e3596
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x05
+acestream://b29bbbee0da3d96f31780faf1d34a97a2c09a823
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x06
+acestream://8359597408e9e2a86d3fd11e007ee91387c3b59a
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x07
+acestream://3483b8f8c923139db643e8b5bf4015e02e292e28
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3ZmI3ZDEtZGRhNC00ZjEzLWI2YzAtNWQxOTkxNzIxMzM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Gentleman Jack(2019)8.1",Gentleman Jack 2x08
+acestream://8cb64fcbeff9df6eda343fbc01478fa17151f5aa
 #EXTINF:-1,group-title="Kin(2021)7.5"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFiMTNmMTctNjMzOS00NzQ5LWJmYmYtNDU5YjhmMWJhMzlhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",group-title="Kin(2021)7.5",kin1X01 
 acestream://c8b61ca68e202a7eb50ff727bba8350dce8e2f9e
